@@ -30,6 +30,8 @@ npm run validate
 npm test
 ```
 
+Use `companyId` on an application or project to identify its parent company; the referenced entry must have `kind: "company"`. ABS ERP belongs to ABS (`companyId: "abs"`); `group` records the broader catalogue grouping.
+
 A task entry has `id`, `projectId`, `title: {ar, en}`, `summary: {ar, en}`, `status`, `date`, and `visibility: "public"`. The updater rejects unexpected fields, private entries, known credential/path patterns, duplicate IDs, and missing project references. It is a validation aid, not a substitute for reviewing public text.
 
 Before editing, fetch the latest `main` and preserve changes from other sessions. Stage only the intended public files. A push to `main` triggers validation and GitHub Pages publication. Confirm both workflow success and live data before reporting a change as published. The workflow follows [GitHub’s Pages instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
