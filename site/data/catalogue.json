@@ -197,6 +197,23 @@
       "verified": "2026-10-05",
       "visibility": "public",
       "url": "https://khalidmahrooqi-design.github.io/project-catalogue/projects/muscat-amusement-park/"
+    },
+    {
+      "id": "abs",
+      "name": {
+        "ar": "حلول الأعمال العربية ABS",
+        "en": "Arabian Business Solutions ABS LLC"
+      },
+      "summary": {
+        "ar": "شركة عُمانية تشارك حلول البناء المرتبطة بنظام وتد.",
+        "en": "An Omani company sharing construction solutions associated with the WATAD system."
+      },
+      "kind": "company",
+      "group": "ppdc",
+      "status": "listed",
+      "verified": "2026-10-05",
+      "visibility": "public",
+      "url": "https://www.instagram.com/abs.oman/"
     }
   ],
   "tasks": [
@@ -330,6 +347,21 @@
       "summary": {
         "ar": "إضافة قاعدة ومهارة لتطبيق الدروس الموثقة أثناء المهام، مع حفظ سجل التغييرات والتحقق واحترام صلاحيات المستخدم.",
         "en": "Added a rule and custom skill for applying verified task lessons, with change history, verification and existing user approval boundaries."
+      },
+      "status": "completed",
+      "date": "2026-10-05",
+      "visibility": "public"
+    },
+    {
+      "id": "01a107c7-88f4-76e3-892e-30ce36ba36c6",
+      "projectId": "abs",
+      "title": {
+        "ar": "نشر صورة جناح وتد في معرض أكتوبر العمران",
+        "en": "Publish the WATAD exhibition photo"
+      },
+      "summary": {
+        "ar": "نُشرت صورة جناح ABS في حساب @abs.oman مع تعليق عربي وإنجليزي، وتأكد ظهورها في الملف الشخصي.",
+        "en": "Published an ABS booth photo on @abs.oman with a bilingual caption and verified it on the profile."
       },
       "status": "completed",
       "date": "2026-10-05",
