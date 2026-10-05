@@ -65,7 +65,7 @@
       "url": "https://www.instagram.com/eyesalalah/reel/Dd_SpB9pSol/",
       "postId": "Dd_SpB9pSol",
       "reportedDate": "2026-10-02",
-      "evidence": "previews/instagram-published-proof.jpg"
+      "evidence": "previews/instagram-published-proof.webp"
     }
   },
   "facebook": {
@@ -96,7 +96,7 @@
       "caption": "Same bilingual caption as Instagram; prepared Facebook-specific draft below not used for this crosspost",
       "location": "Hafa Beach",
       "reportedDate": "2026-10-02",
-      "evidence": "previews/facebook-reel-published-proof.jpg"
+      "evidence": "previews/facebook-reel-published-proof.webp"
     }
   },
   "youtube": {
@@ -148,7 +148,7 @@
       "url": "https://youtu.be/b1-AwtPmrdc",
       "postId": "b1-AwtPmrdc",
       "reportedDate": "2026-10-02",
-      "evidence": "previews/youtube-published-proof.jpg",
+      "evidence": "previews/youtube-published-proof.webp",
       "copyrightCheck": "No issues reported in UI",
       "captions": "Burned-in AR+EN present",
       "limitations": [
@@ -200,7 +200,7 @@
       "url": null,
       "blockingStep": "Paid Partnership disables Post with No approved brands yet; later authoritative toast PERMISSION_DENIED: Organization not spend ready.",
       "serverDraft": "Unverified: file prepared in web form does not prove saved server draft",
-      "evidence": "previews/snapchat-upload-blocked-proof.jpg"
+      "evidence": "previews/snapchat-upload-blocked-proof.webp"
     },
     "commercialDisclosure": {
       "source": "https://www.snap.com/terms/commercial-content?lang=en-US",
@@ -216,7 +216,7 @@
       "category": "Business",
       "location": "Salalah, Dhofar, Oman",
       "website": "https://salalaheye.om/",
-      "avatar": "brand/avatar-1080.png",
+      "avatar": "brand/avatar-1080.webp",
       "hero": "video/exports/salalah-eye-cover-vertical.jpg",
       "publicProfileUrl": "https://www.snapchat.com/@salalaheye"
     },

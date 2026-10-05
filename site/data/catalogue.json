@@ -283,8 +283,8 @@
         "en": "Add Salalah Eye and Muscat projects"
       },
       "summary": {
-        "ar": "إضافة نسخ من لوحة إلهام التواصل الاجتماعي لعين صلالة والعرض التصوري لواجهتها البحرية ومنتزه مسقط، مع روابط مباشرة من الدليل.",
-        "en": "Add hosted copies of the Salalah Eye social moodboard, waterfront concept, and Muscat park presentation with direct catalogue links."
+        "ar": "إضافة نسخ من لوحة إلهام التواصل الاجتماعي لعين صلالة والعرض التصوري لواجهتها البحرية ومنتزه مسقط، مع روابط مباشرة من الدليل. تحويل 50 صورة إلى WebP وخفض حجمها الإجمالي بنسبة 80.6٪ مع الحفاظ على الأبعاد والشفافية.",
+        "en": "Add hosted copies of the Salalah Eye social moodboard, waterfront concept, and Muscat park presentation with direct catalogue links. Converted 50 raster assets to WebP, reducing their total size by 80.6% while preserving dimensions and transparency."
       },
       "status": "completed",
       "date": "2026-10-05",

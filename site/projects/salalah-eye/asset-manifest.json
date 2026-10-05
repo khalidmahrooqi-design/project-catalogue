@@ -100,7 +100,7 @@
       "suggestedCaption": "Salalah Eye promotional imagery. Not verified documentary photography."
     },
     {
-      "path": "media/masterplan-13-original.jpg",
+      "path": "media/masterplan-13-original.webp",
       "bytes": 4033390,
       "sha256": "2892aedcae452df14d1f12d7abe8c14a468b5b5c1892c596acf9d37850e1816a",
       "source": "User-supplied PPTX; ppt/slides/slide2.xml rId3 -> ppt/media/image1.jpeg",
@@ -214,7 +214,7 @@
       "status": "Public Domain source; cartographic context, not site survey"
     },
     {
-      "path": "textures/earth-day.jpg",
+      "path": "textures/earth-day.webp",
       "bytes": 481429,
       "sha256": "1dd250e517cf772def636838488b1f4aa0fed072f87eb0a74be2c6d860239f21",
       "source": "Natural Earth, see licenses/Natural-Earth.txt",
@@ -228,7 +228,7 @@
       "usage": "Legacy v0.1 illustrative globe, superseded in v2 by NASA Earth textures; preserved for provenance"
     },
     {
-      "path": "textures/earth-land-mask.png",
+      "path": "textures/earth-land-mask.webp",
       "bytes": 45062,
       "sha256": "cecd1a419272ebca77019265ba2d0db53c8eaf0e73af47e16cef625df7245ad1",
       "source": "Natural Earth, see licenses/Natural-Earth.txt",
@@ -341,7 +341,7 @@
       "processing": "Resolution/format optimization; original source retained in project working assets"
     },
     {
-      "path": "textures/earth-v2/land-mask-2048.png",
+      "path": "textures/earth-v2/land-mask-2048.webp",
       "bytes": 166710,
       "sha256": "602bd5f0dc34d15e03893e4cd3dc2ebe92d16d20b1ede24d1287e656d13a7dcf",
       "source": "Natural Earth; project earth-land-mask.png",
@@ -782,7 +782,7 @@
       "sha256": "48a6680b03c968c708db98475f641229a3a67d7141f5c4a6ef50ed3e0ebc7a76"
     },
     {
-      "path": "brand/oman-flag.jpg",
+      "path": "brand/oman-flag-jpg.webp",
       "source": "https://www.fm.gov.om/en/ministry/media/downloads/",
       "kind": "Official flag, copied byte-for-byte; not mirrored",
       "status": "Official flag, copied byte-for-byte; not mirrored",
@@ -847,7 +847,7 @@
       "pages": 11
     },
     {
-      "path": "brand/icons/apple-touch-icon.png",
+      "path": "brand/icons/apple-touch-icon.webp",
       "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
       "kind": "Social preview or application icon",
       "status": "Original logo preserved; proposed development is labelled",
@@ -859,7 +859,7 @@
       "sha256": "5a05e4826f7221b5045fb3cf555186bd6be42e4cb8898e662d104374191a5690"
     },
     {
-      "path": "brand/icons/favicon-32.png",
+      "path": "brand/icons/favicon-32.webp",
       "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
       "kind": "Social preview or application icon",
       "status": "Original logo preserved; proposed development is labelled",
@@ -871,7 +871,7 @@
       "sha256": "728a8f2ca421ddac73c168e255a579a39b75dcd7de032e64d68eb9b49a5503d8"
     },
     {
-      "path": "brand/icons/favicon.ico",
+      "path": "brand/icons/favicon.webp",
       "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
       "kind": "Social preview or application icon",
       "status": "Original logo preserved; proposed development is labelled",
@@ -887,7 +887,7 @@
       "sha256": "0a2f8f79cbbdeeb1aea57aaf3c4ccbff7293fb825a4fab12aac1e02b7a37bd1d"
     },
     {
-      "path": "brand/icons/icon-16.png",
+      "path": "brand/icons/icon-16.webp",
       "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
       "kind": "Social preview or application icon",
       "status": "Original logo preserved; proposed development is labelled",
@@ -899,7 +899,7 @@
       "sha256": "e835cf45940b28d36f4c9226ac3c47773c69cb90382e78b0617821a7c1d8a412"
     },
     {
-      "path": "brand/icons/icon-192.png",
+      "path": "brand/icons/icon-192.webp",
       "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
       "kind": "Social preview or application icon",
       "status": "Original logo preserved; proposed development is labelled",
@@ -911,7 +911,7 @@
       "sha256": "1af2d13e145c467d5b51261a81f7733710e2118041d464e794ecaea2a55796f9"
     },
     {
-      "path": "brand/icons/icon-32.png",
+      "path": "brand/icons/icon-32.webp",
       "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
       "kind": "Social preview or application icon",
       "status": "Original logo preserved; proposed development is labelled",
@@ -923,7 +923,7 @@
       "sha256": "728a8f2ca421ddac73c168e255a579a39b75dcd7de032e64d68eb9b49a5503d8"
     },
     {
-      "path": "brand/icons/icon-48.png",
+      "path": "brand/icons/icon-48.webp",
       "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
       "kind": "Social preview or application icon",
       "status": "Original logo preserved; proposed development is labelled",
@@ -935,7 +935,7 @@
       "sha256": "bb3ef92cd060b265a53276da6524605673c6be58a3eb47c322e748d38039538b"
     },
     {
-      "path": "brand/icons/icon-512.png",
+      "path": "brand/icons/icon-512.webp",
       "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
       "kind": "Social preview or application icon",
       "status": "Original logo preserved; proposed development is labelled",
@@ -947,7 +947,7 @@
       "sha256": "1a95fb9f1347eb48060fc057c775f52740dba5d234ead4cba645585f745e3b03"
     },
     {
-      "path": "brand/icons/icon-maskable-512.png",
+      "path": "brand/icons/icon-maskable-512.webp",
       "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
       "kind": "Social preview or application icon",
       "status": "Original logo preserved; proposed development is labelled",
@@ -959,7 +959,7 @@
       "sha256": "e459eaa3dcb769ed81fa7b616949b2c579b78eaa557b488fdf2f8a7f22cc048c"
     },
     {
-      "path": "social/salalah-eye-square-v4.jpg",
+      "path": "social/salalah-eye-square-v4.webp",
       "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
       "kind": "Social preview or application icon",
       "status": "Original logo preserved; proposed development is labelled",
@@ -971,7 +971,7 @@
       "sha256": "95a577a480d62d628bee77690069721b38ba8a140cd698968459909485d73ba6"
     },
     {
-      "path": "social/salalah-eye-waterfront-v4.jpg",
+      "path": "social/salalah-eye-waterfront-v4.webp",
       "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
       "kind": "Social preview or application icon",
       "status": "Original logo preserved; proposed development is labelled",
@@ -983,7 +983,7 @@
       "sha256": "61d2a05b3e57202c7ee1bad1bed8485a651aa52732aebd61b147408be8c9ec0f"
     },
     {
-      "path": "social/salalah-eye-waterfront-v4.png",
+      "path": "social/salalah-eye-waterfront-v4-png.webp",
       "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
       "kind": "Social preview or application icon",
       "status": "Original logo preserved; proposed development is labelled",
