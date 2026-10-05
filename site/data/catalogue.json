@@ -130,6 +130,22 @@
       "verified": "2026-10-05",
       "visibility": "public",
       "url": "https://khalidmahrooqi-design.github.io/project-catalogue/"
+    },
+    {
+      "id": "codex-system",
+      "name": {
+        "ar": "بيئة أدوات Codex",
+        "en": "Codex tool environment"
+      },
+      "summary": {
+        "ar": "إعداد أدوات العمل والتحقق من طرق الاتصال بها.",
+        "en": "Configure work tools and verify their connections."
+      },
+      "kind": "app",
+      "group": "personal",
+      "status": "active",
+      "verified": "2026-10-05",
+      "visibility": "public"
     }
   ],
   "tasks": [
@@ -173,6 +189,21 @@
       "summary": {
         "ar": "قواعد لإضافة ملخصات عامة للمشاريع والمهام خلال جلسات العمل.",
         "en": "Rules for adding public project and task summaries during work sessions."
+      },
+      "status": "completed",
+      "date": "2026-10-05",
+      "visibility": "public"
+    },
+    {
+      "id": "01a10bb5-3a5d-7140-b114-cb7582a5e870",
+      "projectId": "codex-system",
+      "title": {
+        "ar": "تحديث أدوات المتصفح وBlender",
+        "en": "Update browser and Blender tools"
+      },
+      "summary": {
+        "ar": "تم التحقق من اتصالات المتصفحين وتشغيل Blender عبر CLI وMCP، مع تحديث قواعد الاستخدام.",
+        "en": "Verified both browser connections and Blender CLI/MCP operation, and updated usage rules."
       },
       "status": "completed",
       "date": "2026-10-05",
