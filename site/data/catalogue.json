@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "updated": "2026-10-05",
+  "projects": [
+    {
+      "id": "marasi",
+      "name": {
+        "ar": "مراسي للتطوير",
+        "en": "Marasi Development LLC"
+      },
+      "summary": {
+        "ar": "شركة مسجّلة ضمن دليل مشاريع خالد.",
+        "en": "A company listed in Khalid’s project catalogue."
+      },
+      "kind": "company",
+      "group": "marasi",
+      "status": "listed",
+      "verified": "2026-10-05",
+      "visibility": "public"
+    },
+    {
+      "id": "ppdc",
+      "name": {
+        "ar": "مجموعة PPDC",
+        "en": "PPDC Group"
+      },
+      "summary": {
+        "ar": "دليل المجموعة ومشاريعها وتطبيقاتها.",
+        "en": "A catalogue entry for the group, its projects, and applications."
+      },
+      "kind": "company",
+      "group": "ppdc",
+      "status": "listed",
+      "verified": "2026-10-05",
+      "visibility": "public"
+    },
+    {
+      "id": "al-aoula-idc",
+      "name": {
+        "ar": "الأولى IDC",
+        "en": "Al Aoula IDC"
+      },
+      "summary": {
+        "ar": "شركة مسجّلة ضمن دليل مشاريع خالد.",
+        "en": "A company listed in Khalid’s project catalogue."
+      },
+      "kind": "company",
+      "group": "al-aoula",
+      "status": "listed",
+      "verified": "2026-10-05",
+      "visibility": "public"
+    },
+    {
+      "id": "watad-estimator",
+      "name": {
+        "ar": "وتد للتقديرات",
+        "en": "WATAD Estimator"
+      },
+      "summary": {
+        "ar": "تطبيق التقديرات، وتحديثات العمل المرتبطة به.",
+        "en": "The estimator application and related work updates."
+      },
+      "kind": "app",
+      "group": "independent",
+      "status": "listed",
+      "verified": "2026-10-05",
+      "visibility": "public"
+    },
+    {
+      "id": "abs-erp",
+      "name": {
+        "ar": "نظام ABS ERP",
+        "en": "ABS ERP"
+      },
+      "summary": {
+        "ar": "نظام إدارة موارد المؤسسة الخاص بـ ABS.",
+        "en": "The enterprise resource planning application for ABS."
+      },
+      "kind": "app",
+      "group": "ppdc",
+      "status": "listed",
+      "verified": "2026-10-05",
+      "visibility": "public"
+    },
+    {
+      "id": "al-aoula-erp",
+      "name": {
+        "ar": "نظام الأولى ERP",
+        "en": "Al Aoula ERP"
+      },
+      "summary": {
+        "ar": "نظام إدارة موارد المؤسسة الخاص بالأولى.",
+        "en": "The enterprise resource planning application for Al Aoula."
+      },
+      "kind": "app",
+      "group": "al-aoula",
+      "status": "listed",
+      "verified": "2026-10-05",
+      "visibility": "public"
+    },
+    {
+      "id": "ppdc-erp",
+      "name": {
+        "ar": "نظام PPDC ERP",
+        "en": "PPDC ERP"
+      },
+      "summary": {
+        "ar": "نظام إدارة موارد المؤسسة الخاص بـ PPDC.",
+        "en": "The enterprise resource planning application for PPDC."
+      },
+      "kind": "app",
+      "group": "ppdc",
+      "status": "listed",
+      "verified": "2026-10-05",
+      "visibility": "public"
+    },
+    {
+      "id": "project-catalogue",
+      "name": {
+        "ar": "دليل مشاريعي",
+        "en": "My project catalogue"
+      },
+      "summary": {
+        "ar": "موقع ثنائي اللغة يجمع المشاريع وتحديثات المهام.",
+        "en": "A bilingual website for projects and task updates."
+      },
+      "kind": "website",
+      "group": "personal",
+      "status": "active",
+      "verified": "2026-10-05",
+      "visibility": "public",
+      "url": "https://khalidmahrooqi-design.github.io/project-catalogue/"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "catalogue-interface-2026-10-05",
+      "projectId": "project-catalogue",
+      "title": {
+        "ar": "إنشاء واجهة الدليل",
+        "en": "Build the catalogue interface"
+      },
+      "summary": {
+        "ar": "واجهة عربية وإنجليزية، مع بحث وتصفية ووضع فاتح وداكن.",
+        "en": "Arabic and English interface with search, filters, and light and dark modes."
+      },
+      "status": "active",
+      "date": "2026-10-05",
+      "visibility": "public"
+    }
+  ]
+}

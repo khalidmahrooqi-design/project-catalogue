@@ -1,0 +1,1 @@
+{"name":"khalid-project-catalogue","private":true,"version":"1.0.0","type":"module","scripts":{"validate":"node scripts/catalogue.mjs validate","test":"node scripts/catalogue.test.mjs","start":"python3 -m http.server 5179 --bind 127.0.0.1 --directory site"}}

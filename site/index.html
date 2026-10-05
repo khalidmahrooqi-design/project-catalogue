@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ar" dir="rtl" data-theme="light">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="دليل مشاريع خالد بن حمد المحروقي — الشركات والتطبيقات وتحديثات العمل.">
+  <meta name="theme-color" content="#e6eaf0"><title>مشاريعي | خالد المحروقي</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="assets/fonts/Tajawal-Regular.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="stylesheet" href="styles.css"><script src="theme.js"></script><script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main" data-i18n="skip">انتقل إلى المحتوى</a>
+<div class="shell">
+  <aside class="sidebar">
+    <a class="brand" href="#projects" aria-label="مشاريعي"><span class="brand-mark">خ</span><span><strong data-i18n="brand">مشاريعي</strong><small lang="en" dir="ltr">Khalid Al Mahrouqi</small></span></a>
+    <div class="owner"><span class="avatar">خ م</span><strong data-i18n="owner">خالد المحروقي</strong><span data-i18n="ownerSub">دليل المشاريع والأعمال</span></div>
+    <nav aria-label="التنقل" id="navigation">
+      <button class="nav-item selected" data-view="projects" aria-current="page"><span class="nav-symbol">▦</span><span data-i18n="projects">المشاريع</span><span class="nav-count" id="nav-count">—</span></button>
+      <button class="nav-item" data-view="tasks"><span class="nav-symbol">☷</span><span data-i18n="tasks">المهام والتحديثات</span></button>
+      <button class="nav-item" data-view="about"><span class="nav-symbol">◎</span><span data-i18n="about">عن الدليل</span></button>
+    </nav>
+    <div class="sidebar-bottom"><span class="small-label" data-i18n="publicCatalogue">دليل عام</span><p data-i18n="publicNote">نبذة عن المشاريع وتحديثات العمل المنشورة.</p><a href="https://github.com/khalidmahrooqi-design/project-catalogue" target="_blank" rel="noopener noreferrer" class="github-link"><span lang="en">GitHub</span><span aria-hidden="true">↗</span></a></div>
+  </aside>
+  <div class="workspace">
+    <header class="topbar"><div class="breadcrumb"><span data-i18n="home">الرئيسية</span><span aria-hidden="true">/</span><strong id="crumb" data-i18n="projects">المشاريع</strong></div><div class="controls"><button id="language" class="soft-button" lang="en" aria-label="Switch to English">English</button><button id="theme" class="soft-button theme-button" aria-label="تفعيل الوضع الداكن" aria-pressed="false"><span id="theme-icon" aria-hidden="true">☾</span><span id="theme-label">داكن</span></button></div></header>
+    <main id="main" tabindex="-1">
+      <section class="hero" aria-labelledby="page-title"><div class="hero-copy"><div class="location"><span class="location-dot"></span><span data-i18n="location">سلطنة عُمان</span></div><h1 id="page-title" data-i18n="title">مشاريع وأفكار،<br>في مكان واحد.</h1><p id="page-description" data-i18n="intro">دليل لشركاتي وتطبيقاتي، وتحديثات المهام التي أعمل عليها.</p><a class="primary-button" href="#catalogue" id="explore"><span data-i18n="explore">تصفّح المشاريع</span><span aria-hidden="true">↓</span></a></div><div class="hero-art" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="orbit orbit-three"></div><div class="art-center"><svg viewBox="0 0 120 120" fill="none"><path d="M25 77V40l35-18 35 18v37L60 98 25 77Z"/><path d="m25 40 35 20 35-20M60 60v38M43 31l35 19v38"/></svg></div><span class="art-chip chip-one">⌘</span><span class="art-chip chip-two">▥</span><span class="art-chip chip-three">◈</span></div></section>
+      <section class="overview" aria-label="ملخص الدليل"><div><span class="metric-icon">▦</span><div><strong id="project-total">—</strong><span data-i18n="projectCount">مشاريع مسجّلة</span></div></div><div><span class="metric-icon">▥</span><div><strong id="company-total">—</strong><span data-i18n="companyCount">شركات</span></div></div><div><span class="metric-icon">☷</span><div><strong id="task-total">—</strong><span data-i18n="taskCount">تحديثات منشورة</span></div></div></section>
+      <section id="catalogue"><div class="section-top"><div><h2 id="section-title" data-i18n="catalogue">دليل المشاريع</h2><p class="muted" id="section-subtitle" data-i18n="catalogueSub">الشركات والتطبيقات في نظرة واحدة</p></div><label class="search-box"><span aria-hidden="true">⌕</span><input type="search" id="search" placeholder="ابحث عن مشروع…" aria-label="ابحث عن مشروع" autocomplete="off"></label></div><div class="filters" id="filters" role="group" aria-label="تصفية المشاريع"></div><div id="results-summary" class="results-summary" role="status" aria-live="polite"></div><div class="project-grid" id="project-grid"></div><div id="task-list" class="task-list" hidden></div><div id="about-panel" hidden></div><div id="empty" class="empty soft-panel" hidden><span class="empty-symbol">⌕</span><h3 data-i18n="empty">لا توجد نتائج</h3><p data-i18n="emptySub">جرّب كلمة أخرى أو اعرض جميع المشاريع.</p><button id="reset" class="soft-button" data-i18n="reset">عرض الكل</button></div><div id="load-error" class="empty soft-panel" hidden role="alert"><h3 data-i18n="loadError">تعذّر تحميل الدليل</h3><p data-i18n="loadErrorSub">أعد تحميل الصفحة للمحاولة مرة أخرى.</p><button onclick="location.reload()" class="soft-button" data-i18n="reload">إعادة التحميل</button></div></section>
+      <footer><span data-i18n="footer">خالد بن حمد المحروقي</span><span id="updated"></span></footer>
+    </main>
+  </div>
+</div>
+<dialog id="detail"><div class="dialog-top"><span class="small-label" data-i18n="projectDetails">تفاصيل المشروع</span><button id="close-detail" class="soft-button" aria-label="إغلاق">×</button></div><div id="detail-content"></div></dialog>
+<noscript><p>يحتاج الدليل إلى JavaScript لعرض المشاريع. This catalogue requires JavaScript.</p></noscript>
+</body></html>
