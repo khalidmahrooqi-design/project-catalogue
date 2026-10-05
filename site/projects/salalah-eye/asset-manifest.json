@@ -101,8 +101,8 @@
     },
     {
       "path": "media/masterplan-13-original.webp",
-      "bytes": 4033390,
-      "sha256": "2892aedcae452df14d1f12d7abe8c14a468b5b5c1892c596acf9d37850e1816a",
+      "bytes": 1468726,
+      "sha256": "c637430c18baecbbc38cc12664b091292be3c26ffbf15d5d6b2806668b0e1793",
       "source": "User-supplied PPTX; ppt/slides/slide2.xml rId3 -> ppt/media/image1.jpeg",
       "kind": "selected conceptual masterplan",
       "status": "Programme13 selected by user; date23.09.2026 in PPTX notes; not a survey",
@@ -110,7 +110,8 @@
         6600,
         2140
       ],
-      "transformation": "none"
+      "transformation": "WebP encoding; original dimensions retained",
+      "webpConversion": "2026-10-05; original dimensions retained; original asset backed up outside deployment"
     },
     {
       "path": "media/masterplan-13.webp",
@@ -215,8 +216,8 @@
     },
     {
       "path": "textures/earth-day.webp",
-      "bytes": 481429,
-      "sha256": "1dd250e517cf772def636838488b1f4aa0fed072f87eb0a74be2c6d860239f21",
+      "bytes": 182792,
+      "sha256": "cf86075916d546a039179221cd9bd18192c628baed5c09a8d676babfad496d33",
       "source": "Natural Earth, see licenses/Natural-Earth.txt",
       "kind": "derived cartography",
       "status": "Public Domain source; cartographic context, not site survey",
@@ -225,12 +226,13 @@
         2048
       ],
       "projection": "equirectangular; north-up; longitude-180..180; latitude90..-90",
-      "usage": "Legacy v0.1 illustrative globe, superseded in v2 by NASA Earth textures; preserved for provenance"
+      "usage": "Legacy v0.1 illustrative globe, superseded in v2 by NASA Earth textures; preserved for provenance",
+      "webpConversion": "2026-10-05; original dimensions retained; original asset backed up outside deployment"
     },
     {
       "path": "textures/earth-land-mask.webp",
-      "bytes": 45062,
-      "sha256": "cecd1a419272ebca77019265ba2d0db53c8eaf0e73af47e16cef625df7245ad1",
+      "bytes": 28078,
+      "sha256": "cf311032da539bc41d82b2732b4da6fbe041553a6829bdcaa1e13829b9d9d62a",
       "source": "Natural Earth, see licenses/Natural-Earth.txt",
       "kind": "derived cartography",
       "status": "Public Domain source; cartographic context, not site survey",
@@ -238,7 +240,8 @@
         4096,
         2048
       ],
-      "projection": "equirectangular; north-up; longitude-180..180; latitude90..-90"
+      "projection": "equirectangular; north-up; longitude-180..180; latitude90..-90",
+      "webpConversion": "2026-10-05; original dimensions retained; original asset backed up outside deployment"
     },
     {
       "path": "data/location.json",
@@ -342,15 +345,16 @@
     },
     {
       "path": "textures/earth-v2/land-mask-2048.webp",
-      "bytes": 166710,
-      "sha256": "602bd5f0dc34d15e03893e4cd3dc2ebe92d16d20b1ede24d1287e656d13a7dcf",
+      "bytes": 76578,
+      "sha256": "619afa153307be9b153d12228d8391e459fd790c91b7fb83bafca5b1a2e4e274",
       "source": "Natural Earth; project earth-land-mask.png",
       "kind": "cartographic land/water mask",
       "status": "Public domain; resized for water-only specularity, not engineering boundaries",
       "dimensions": [
         2048,
         1024
-      ]
+      ],
+      "webpConversion": "2026-10-05; original dimensions retained; original asset backed up outside deployment"
     },
     {
       "path": "textures/earth-v2/sources.json",
@@ -855,8 +859,9 @@
         180,
         180
       ],
-      "bytes": 6561,
-      "sha256": "5a05e4826f7221b5045fb3cf555186bd6be42e4cb8898e662d104374191a5690"
+      "bytes": 3578,
+      "sha256": "0aaea0f463b4c396256f8d190ad12fe362c05f10989ba2407e5992c5dca6188b",
+      "webpConversion": "2026-10-05; original dimensions retained; original asset backed up outside deployment"
     },
     {
       "path": "brand/icons/favicon-32.webp",
@@ -867,16 +872,18 @@
         32,
         32
       ],
-      "bytes": 1266,
-      "sha256": "728a8f2ca421ddac73c168e255a579a39b75dcd7de032e64d68eb9b49a5503d8"
+      "bytes": 676,
+      "sha256": "ef1d90e193ba60ed76a80d0d23041d0e2570a3ebddec4eb3409e1ee5b138cee4",
+      "webpConversion": "2026-10-05; original dimensions retained; original asset backed up outside deployment"
     },
     {
       "path": "brand/icons/favicon.webp",
       "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
       "kind": "Social preview or application icon",
       "status": "Original logo preserved; proposed development is labelled",
-      "bytes": 3820,
-      "sha256": "26eae6303ae1268cde3c3d2fadb70e84f2731201c64f0fdd03997cf7ba5f24ff"
+      "bytes": 1460,
+      "sha256": "0d8d9c28973a01f4c21e8e9c528f53efad4e76a53416582e2c7b5c76b46a11ae",
+      "webpConversion": "2026-10-05; original dimensions retained; original asset backed up outside deployment"
     },
     {
       "path": "brand/icons/favicon.svg",
@@ -895,8 +902,9 @@
         16,
         16
       ],
-      "bytes": 566,
-      "sha256": "e835cf45940b28d36f4c9226ac3c47773c69cb90382e78b0617821a7c1d8a412"
+      "bytes": 300,
+      "sha256": "dce4e46daeeace14d2ec65f7b0a34354f7e4d81b8989b27d5451b68814c13dea",
+      "webpConversion": "2026-10-05; original dimensions retained; original asset backed up outside deployment"
     },
     {
       "path": "brand/icons/icon-192.webp",
@@ -907,8 +915,9 @@
         192,
         192
       ],
-      "bytes": 8100,
-      "sha256": "1af2d13e145c467d5b51261a81f7733710e2118041d464e794ecaea2a55796f9"
+      "bytes": 4832,
+      "sha256": "5a1870d2a2af2bf8d36b083866146f7205039263701234183fd4410eb4126c0b",
+      "webpConversion": "2026-10-05; original dimensions retained; original asset backed up outside deployment"
     },
     {
       "path": "brand/icons/icon-32.webp",
@@ -919,8 +928,9 @@
         32,
         32
       ],
-      "bytes": 1266,
-      "sha256": "728a8f2ca421ddac73c168e255a579a39b75dcd7de032e64d68eb9b49a5503d8"
+      "bytes": 676,
+      "sha256": "ef1d90e193ba60ed76a80d0d23041d0e2570a3ebddec4eb3409e1ee5b138cee4",
+      "webpConversion": "2026-10-05; original dimensions retained; original asset backed up outside deployment"
     },
     {
       "path": "brand/icons/icon-48.webp",
@@ -931,8 +941,9 @@
         48,
         48
       ],
-      "bytes": 1934,
-      "sha256": "bb3ef92cd060b265a53276da6524605673c6be58a3eb47c322e748d38039538b"
+      "bytes": 1068,
+      "sha256": "2c00634db604e3cd9535450bd0b8690688fa96c72c07cbe4a68366420e3004c6",
+      "webpConversion": "2026-10-05; original dimensions retained; original asset backed up outside deployment"
     },
     {
       "path": "brand/icons/icon-512.webp",
@@ -943,8 +954,9 @@
         512,
         512
       ],
-      "bytes": 26769,
-      "sha256": "1a95fb9f1347eb48060fc057c775f52740dba5d234ead4cba645585f745e3b03"
+      "bytes": 12992,
+      "sha256": "5456f36b4cb11489468e009973b544b077bcee914a3d8402abab0499c4a82301",
+      "webpConversion": "2026-10-05; original dimensions retained; original asset backed up outside deployment"
     },
     {
       "path": "brand/icons/icon-maskable-512.webp",
@@ -955,8 +967,9 @@
         512,
         512
       ],
-      "bytes": 17353,
-      "sha256": "e459eaa3dcb769ed81fa7b616949b2c579b78eaa557b488fdf2f8a7f22cc048c"
+      "bytes": 7700,
+      "sha256": "de5ad6759d20ca4cb996d633fb42c733a2ab76e8925562fb64e6902baa576751",
+      "webpConversion": "2026-10-05; original dimensions retained; original asset backed up outside deployment"
     },
     {
       "path": "social/salalah-eye-square-v4.webp",
@@ -967,8 +980,9 @@
         1200,
         1200
       ],
-      "bytes": 494854,
-      "sha256": "95a577a480d62d628bee77690069721b38ba8a140cd698968459909485d73ba6"
+      "bytes": 207802,
+      "sha256": "0ee6978f1cea7c0089fc8f5303d2b0eebe6736c80804ca798d1f6a90aa866cc6",
+      "webpConversion": "2026-10-05; original dimensions retained; original asset backed up outside deployment"
     },
     {
       "path": "social/salalah-eye-waterfront-v4.webp",
@@ -979,8 +993,9 @@
         1200,
         630
       ],
-      "bytes": 361900,
-      "sha256": "61d2a05b3e57202c7ee1bad1bed8485a651aa52732aebd61b147408be8c9ec0f"
+      "bytes": 172646,
+      "sha256": "54b68761f5bdb6d9ea2c279af601bebc00b650a375efae95c7b8a61df0722a80",
+      "webpConversion": "2026-10-05; original dimensions retained; original asset backed up outside deployment"
     },
     {
       "path": "social/salalah-eye-waterfront-v4-png.webp",
@@ -991,8 +1006,9 @@
         1200,
         630
       ],
-      "bytes": 1391588,
-      "sha256": "be78bbb574ff4025a96288b4afa58a60331e82d7069ace8f34dfc97826cff91e"
+      "bytes": 175376,
+      "sha256": "53cd52df333f80572ceb3691fda73576f8e3f7f90cdd4cb63acc2c4135c76997",
+      "webpConversion": "2026-10-05; original dimensions retained; original asset backed up outside deployment"
     },
     {
       "path": "site.webmanifest",
