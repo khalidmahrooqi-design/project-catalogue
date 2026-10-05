@@ -4,7 +4,7 @@ import { fileURLToPath } from 'node:url';
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const file = path.join(root, 'site/data/catalogue.json');
 const allowed = {
- project: ['id','name','summary','kind','group','status','verified','visibility','url'],
+ project: ['id','name','summary','kind','group','status','verified','visibility','url','companyId'],
  task: ['id','projectId','title','summary','status','date','visibility']
 };
 const fail = message => { throw new Error(message); };
@@ -21,6 +21,7 @@ export function validateEntry(entry, kind) {
  if(typeof entry.id!=='string'||!(/^[a-z0-9][a-z0-9-]{0,99}$/).test(entry.id))fail('Invalid stable ID');
  bilingual(entry.summary);
  if(kind==='project'){
+  if(entry.companyId && (typeof entry.companyId!=='string'||entry.kind==='company'))fail('Only applications or projects can belong to a company');
   bilingual(entry.name);if(!['company','app','website'].includes(entry.kind))fail('Invalid project kind');
   if(!['marasi','ppdc','al-aoula','independent','personal'].includes(entry.group))fail('Invalid project group');
   if(!['listed','active','live','paused','completed'].includes(entry.status))fail('Invalid project status');date(entry.verified);
@@ -33,6 +34,7 @@ export function validate(data){
  if(Object.keys(data).some(k=>!['version','updated','projects','tasks'].includes(k)))fail('Unsupported catalogue field');
  if(data.version!==1||!Array.isArray(data.projects)||!Array.isArray(data.tasks))fail('Invalid catalogue');date(data.updated);
  for(const [kind,list] of [['project',data.projects],['task',data.tasks]]){const ids=new Set();for(const entry of list){validateEntry(entry,kind);if(ids.has(entry.id))fail('Duplicate ID');ids.add(entry.id);}}
+ for(const project of data.projects)if(project.companyId&&!data.projects.some(p=>p.id===project.companyId&&p.kind==='company'))fail('Project points to an unknown company');
  for(const task of data.tasks)if(!data.projects.some(p=>p.id===task.projectId))fail('Task points to an unknown project');
  return true;
 }

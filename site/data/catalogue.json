@@ -79,8 +79,9 @@
       "kind": "app",
       "group": "ppdc",
       "status": "listed",
-      "verified": "2026-10-05",
-      "visibility": "public"
+      "verified": "2026-10-06",
+      "visibility": "public",
+      "companyId": "abs"
     },
     {
       "id": "al-aoula-erp",
@@ -407,8 +408,8 @@
         "en": "Add the ABS company and projects page"
       },
       "summary": {
-        "ar": "تحديث نبذة الشركة وإضافة صفحة عربية وإنجليزية لأعمال ABS وتطبيقاتها المرتبطة.",
-        "en": "Updated the company introduction and added an Arabic/English page for ABS work and related applications."
+        "ar": "تحديث نبذة الشركة وإضافة صفحة عربية وإنجليزية لأعمال ABS، مع تسجيل ABS ERP كتطبيق تابع للشركة.",
+        "en": "Updated the company introduction and added an Arabic/English ABS overview, with ABS ERP recorded as an application belonging to ABS."
       },
       "status": "completed",
       "date": "2026-10-06",
