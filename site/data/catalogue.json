@@ -126,7 +126,7 @@
       },
       "kind": "website",
       "group": "personal",
-      "status": "active",
+      "status": "live",
       "verified": "2026-10-05",
       "visibility": "public",
       "url": "https://khalidmahrooqi-design.github.io/project-catalogue/"
@@ -144,7 +144,37 @@
         "ar": "واجهة عربية وإنجليزية، مع بحث وتصفية ووضع فاتح وداكن.",
         "en": "Arabic and English interface with search, filters, and light and dark modes."
       },
-      "status": "active",
+      "status": "completed",
+      "date": "2026-10-05",
+      "visibility": "public"
+    },
+    {
+      "id": "catalogue-publication-2026-10-05",
+      "projectId": "project-catalogue",
+      "title": {
+        "ar": "نشر الموقع على GitHub Pages",
+        "en": "Publish the website on GitHub Pages"
+      },
+      "summary": {
+        "ar": "نُشر الدليل في مستودع عام، وتم التحقق من الموقع بعد النشر.",
+        "en": "Published the catalogue in a public repository and verified the live website."
+      },
+      "status": "completed",
+      "date": "2026-10-05",
+      "visibility": "public"
+    },
+    {
+      "id": "catalogue-workflow-2026-10-05",
+      "projectId": "project-catalogue",
+      "title": {
+        "ar": "إضافة قواعد تحديث الدليل",
+        "en": "Add catalogue update rules"
+      },
+      "summary": {
+        "ar": "قواعد لإضافة ملخصات عامة للمشاريع والمهام خلال جلسات العمل.",
+        "en": "Rules for adding public project and task summaries during work sessions."
+      },
+      "status": "completed",
       "date": "2026-10-05",
       "visibility": "public"
     }
