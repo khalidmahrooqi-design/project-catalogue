@@ -1,0 +1,198 @@
+{
+  "created": "2026-10-02",
+  "language": [
+    "ar",
+    "en"
+  ],
+  "checks": {
+    "logo_source_matches_local": true,
+    "documentary_jpeg_is_exact_copy": true,
+    "image_count": 23
+  },
+  "files": [
+    {
+      "file": "avatar-1080.png",
+      "width": 1080,
+      "height": 1080,
+      "format": "png",
+      "bytes": 194282,
+      "sha256": "df9be23ffe49dd8971c7d4fb43af71a7e87760c9d64ea09ecc7bb23c2c3b8e1a"
+    },
+    {
+      "file": "avatar-1080.svg",
+      "width": 1080,
+      "height": 1080,
+      "format": "svg",
+      "bytes": 16935,
+      "sha256": "a3881e666ae7a4f7dc4a12ebeb8a9a54fe36d5576ff9e70e4e94028257144afa"
+    },
+    {
+      "file": "avatar-180.png",
+      "width": 180,
+      "height": 180,
+      "format": "png",
+      "bytes": 38694,
+      "sha256": "1ed815daf91eb0c007bbc71307a56e7ec1cfef96a1925aae0d9291432fddd211"
+    },
+    {
+      "file": "avatar-32.png",
+      "width": 32,
+      "height": 32,
+      "format": "png",
+      "bytes": 2770,
+      "sha256": "84fffbf719515bd9d021bf5bbf82e84112d16dfe9c7d147f14928a41df2b627e"
+    },
+    {
+      "file": "avatar-512.png",
+      "width": 512,
+      "height": 512,
+      "format": "png",
+      "bytes": 145682,
+      "sha256": "d13f75a49addd9a85d99320bce1ab709a3fd52a6db0dcbf9b00733ef86735b3c"
+    },
+    {
+      "file": "avatar-64.png",
+      "width": 64,
+      "height": 64,
+      "format": "png",
+      "bytes": 8047,
+      "sha256": "2ae0615ef0619f796ce84ef83eb01feaa129971b6df6a88f1046e8a60a73a37d"
+    },
+    {
+      "file": "facebook-cover-1640x624.png",
+      "width": 1640,
+      "height": 624,
+      "format": "png",
+      "bytes": 117582,
+      "sha256": "26f911220270a512ac16f50c7393769e00c85c00de16bb27c0200316fcf97162"
+    },
+    {
+      "file": "facebook-cover-1640x624.svg",
+      "width": 1640,
+      "height": 624,
+      "format": "svg",
+      "bytes": 17525,
+      "sha256": "f452ef37e3bcc549e0dc936bb8404e4170b18dbcfe18da4ad00337ff3cdf08a6"
+    },
+    {
+      "file": "highlight-faq-1080.png",
+      "width": 1080,
+      "height": 1080,
+      "format": "png",
+      "bytes": 134744,
+      "sha256": "54e26def5371c7afadd4d911e8d3843c6b673ddf86002d6d7e5ad9b005424a7a"
+    },
+    {
+      "file": "highlight-faq-1080.svg",
+      "width": 1080,
+      "height": 1080,
+      "format": "svg",
+      "bytes": 1242,
+      "sha256": "cbb718584fcedb771e82325391fa6c5cc58f1f19753c5cb2c108907db7f608e9"
+    },
+    {
+      "file": "highlight-ride-1080.png",
+      "width": 1080,
+      "height": 1080,
+      "format": "png",
+      "bytes": 136191,
+      "sha256": "a540c42c82d991230adb1abbd80f9a3f7c21b701e2b13a7924970cfceeebaf3c"
+    },
+    {
+      "file": "highlight-ride-1080.svg",
+      "width": 1080,
+      "height": 1080,
+      "format": "svg",
+      "bytes": 1209,
+      "sha256": "b6ad1de0ed70c17282cfb715d03a1ca961cbf886f0465ac3df2677ae6593b718"
+    },
+    {
+      "file": "highlight-views-1080.png",
+      "width": 1080,
+      "height": 1080,
+      "format": "png",
+      "bytes": 137433,
+      "sha256": "6f5ee85da59ba84209f17cc526ea7abefe53cbf979a93088b19206a168844c83"
+    },
+    {
+      "file": "highlight-views-1080.svg",
+      "width": 1080,
+      "height": 1080,
+      "format": "svg",
+      "bytes": 1168,
+      "sha256": "a89ef89641b8fc625901b733ff6ef0766d983e58a73dd0234b07c51c68e1e7eb"
+    },
+    {
+      "file": "highlight-visit-1080.png",
+      "width": 1080,
+      "height": 1080,
+      "format": "png",
+      "bytes": 136228,
+      "sha256": "b6de97af6a4d50e98fc4aa822c604654644e2bad7725a79d79874660c6973c6f"
+    },
+    {
+      "file": "highlight-visit-1080.svg",
+      "width": 1080,
+      "height": 1080,
+      "format": "svg",
+      "bytes": 1137,
+      "sha256": "d3f1a3e645cf8095e94092bb5d287da504a0e5720e0ce262a348bf066de13ca4"
+    },
+    {
+      "file": "youtube-banner-2560x1440.png",
+      "width": 2560,
+      "height": 1440,
+      "format": "png",
+      "bytes": 260485,
+      "sha256": "d1625653792fb46c986bd3e1a115e08177cf3443ce718ef8a998b2fd232d6f82"
+    },
+    {
+      "file": "youtube-banner-2560x1440.svg",
+      "width": 2560,
+      "height": 1440,
+      "format": "svg",
+      "bytes": 17642,
+      "sha256": "95bfb86b6be8018fcac536ebf5cd3c9bfbf52462e65c0166f9f6e9bf8743fe99"
+    },
+    {
+      "file": "photos/documentary/hero-01-dawn-camera-conversion.jpg",
+      "width": 5280,
+      "height": 2970,
+      "format": "jpeg",
+      "bytes": 5456503,
+      "sha256": "9d991e91a1e72456cf19174ef165b3aedc1ea4f58bcb1893520147c4558ef03f"
+    },
+    {
+      "file": "photos/documentary/hero-02-coast-original.jpg",
+      "width": 8000,
+      "height": 5760,
+      "format": "jpeg",
+      "bytes": 23670784,
+      "sha256": "a6a27b31d97875de3dfbe7db2319eaa0ef1464ab140e75e81e5ea66cd91ad78f"
+    },
+    {
+      "file": "photos/documentary/hero-03-palms-camera-conversion.jpg",
+      "width": 4032,
+      "height": 2268,
+      "format": "jpeg",
+      "bytes": 3109939,
+      "sha256": "be1f969b3bbdeb0083d84fd87799e167146e32b8fc0a614040849d9a72e38166"
+    },
+    {
+      "file": "photos/ai-creative/hero-01-natural-ai-retouch.png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "bytes": 2170143,
+      "sha256": "c897cfce3a7b1b17d6151607bd8f974f1f976fc864c6d696d0ba22303765203b"
+    },
+    {
+      "file": "photos/ai-creative/hero-01-sunset-ai-variant.png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "bytes": 2232825,
+      "sha256": "be5668b8517811a127f09c0570d1cc6deae80c2e0922425d690a682128656023"
+    }
+  ]
+}

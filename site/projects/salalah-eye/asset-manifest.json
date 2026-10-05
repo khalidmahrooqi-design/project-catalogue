@@ -1,0 +1,3031 @@
+{
+  "prepared": "2026-09-29",
+  "scope": "Waterfront concept V4.2.1: 11 chapters, 13 programme elements, eight family-house concept views, responsive WebP and capability-selected AV1 films with H.264 fallback",
+  "notes": [
+    "Official website provenance does not make promotional images documentary photographs.",
+    "Masterplan13 is a user-selected concept; no as-built claim.",
+    "Fonts self-hosted; original OFL licenses preserved.",
+    "SVG copied byte-for-byte; no scripts or external image references detected.",
+    "NASA imagery is historical composited data; cinematic globe lighting and cloud motion are not live observations.",
+    "Generated v2 architectural images illustrate a proposed atmosphere and do not document existing construction.",
+    "Rendered wheel includes 129 source-extracted static parts, an authored rotor and clean presentation cabins; not a complete or engineering-certified as-built model.",
+    "Attraction geometry and source maps remain private. Episode03 uses offline EEVEE-rendered geometry with a generated camera-matched coastal background; no attraction mesh is served.",
+    "The episode03 assembly is illustrative, not a construction method; the proposed setting is not an as-built photograph.",
+    "WOFF2 fonts preserve complete glyphs and shaping; original source fonts and OFL licenses retained.",
+    "No new paid subscription required; public Instagram and YouTube footage informed visual research and is not republished.",
+    "Episode04 is a rendered engineering-paper and architectural-model sequence from the canonical thirteen-element programme, followed by a deliberate dissolve to art-directed day and night concepts. It is not a construction method, surveyed site or pixel-registered morph.",
+    "New human-scale waterfront and cafe views are source-guided design interpretations. The design-table print is a generated study of the canonical concept panorama.",
+    "Chapter02 uses real Sentinel-2 observation from2026-09-26 with Copernicus DEM. The3Dperspective is an interpreted terrain view, not surveyed buildings. Attribution is provided in data/geography-v4/credits.html. OSM is an error fallback only.",
+    "Chapter05 and new beach/hospitality/festival/final images are AI-assisted concept visualizations. They are not native Blender renders, documentary photography, verified architectural plans or pixel-registered model output. Working supplied models remain preserved and private.",
+    "Four hospitality clusters of6–8lodges are a proposed programme (24–32lodges); the artwork depicts6percluster. Eastward expansion and dedicated beach amenities require site, land-rights and coastal studies. No guaranteed tourism, jobs, returns or off-grid operation is asserted.",
+    "The exact official Oman flag is sourced from the Foreign Ministry. Leadership and Vision2040 facts cite official sources; alignment is not endorsement.",
+    "Final expanded panorama has a bounded5second settling motion; no new AIvideo or live attraction models are served.",
+    "Historic V2/V3 assets retained in this manifest are not all used by the current 11 chapters. V4.2 responsive artwork and AV1 films are under media/v42/.",
+    "Public sharing previews and icons use the supplied logo palette. Social aerial is a proposed development concept, not a completed resort. Metadata is indexable; actual search indexing and messenger cache refresh are separate external outcomes.",
+    "V4.1 adds smaller same-timeline H.264 delivery variants. Playback begins with a short buffered runway; slow loading permits one downshift before a finished still. The original high-quality source films remain preserved. No raw attraction models are public.",
+    "V4.2 family-house views were generated with built-in ImageGen for the project brief: three exterior and five interior concept perspectives. They suggest a single-storey two-bedroom, two-bathroom home with a private garden and pool; they are not photographs of an existing house, measured plans or a coordinated engineering model.",
+    "V4.2 responsive WebP variants are encoded from 18 preserved original PNG compositions, not from the older lossy WebP files. Their largest dimensions do not exceed the originals. Tiny previews are loading states rather than finished-quality display assets.",
+    "V4.2 AV1 WebM films are encoded from preserved native 1080p PNG sources and accepted timing. Wheel remains 13 seconds; masterplan remains 10 seconds. Existing H.264 variants remain available at matching resolutions for compatibility. Source PNG sequences and DCC files are not distributed.",
+    "Responsive selection and capability checks improve delivery choices; file size and local decode checks do not guarantee public throughput. Higher-detail 1080p AV1 files are larger than the prior default 720p H.264 files, while smaller 720p/540p choices and finished stills remain available."
+  ],
+  "assets": [
+    {
+      "path": "brand/salalah-eye.svg",
+      "bytes": 16382,
+      "sha256": "ea57a7560a311d75f788fc24b705dbd325e6d5d92869093fada578c59b2ac55f",
+      "source": "Original logo supplied by the project owner",
+      "kind": "original supplied logo",
+      "status": "User-supplied; unchanged",
+      "viewBox": [
+        0,
+        0,
+        2048,
+        2048
+      ]
+    },
+    {
+      "path": "media/promotional-sunset.webp",
+      "bytes": 158922,
+      "sha256": "e6872f5f7045907897593d4bf35fdfd719cd8df6eeaa5b1e9811399cc9af3964",
+      "source": "https://salalaheye.om/img/ferris-wheel-hero-sunset.webp",
+      "kind": "official-site promotional image",
+      "status": "Source URL and byte hash verified; photo/render provenance and publication rights require confirmation",
+      "dimensions": [
+        1920,
+        1072
+      ],
+      "matchesLiveSource": true,
+      "suggestedCaption": "Salalah Eye promotional imagery. Not verified documentary photography."
+    },
+    {
+      "path": "media/promotional-aerial.webp",
+      "bytes": 219828,
+      "sha256": "ed3f75a4e5e849f044f4eea5dfc4e0b43555d79e2aa4602fa28a8487cae335a6",
+      "source": "https://salalaheye.om/img/ferris-wheel-aerial-02.webp",
+      "kind": "official-site promotional image",
+      "status": "Source URL and byte hash verified; photo/render provenance and publication rights require confirmation",
+      "dimensions": [
+        1920,
+        1072
+      ],
+      "matchesLiveSource": true,
+      "suggestedCaption": "Salalah Eye promotional imagery. Not verified documentary photography."
+    },
+    {
+      "path": "media/promotional-closeup.webp",
+      "bytes": 209348,
+      "sha256": "bd0b9f534ca403b9e632718633e01f05cc01c38385207ccdfd216c5ef561cb55",
+      "source": "https://salalaheye.om/img/ferris-wheel-closeup-04.webp",
+      "kind": "official-site promotional image",
+      "status": "Source URL and byte hash verified; photo/render provenance and publication rights require confirmation",
+      "dimensions": [
+        1920,
+        1072
+      ],
+      "matchesLiveSource": true,
+      "suggestedCaption": "Salalah Eye promotional imagery. Not verified documentary photography."
+    },
+    {
+      "path": "media/promotional-night.webp",
+      "bytes": 200506,
+      "sha256": "581e52dd1091e93a59cdc21ef8375a1c919f547a53371f03bcb976ad25a6066d",
+      "source": "https://salalaheye.om/img/ferris-wheel-night-A.webp",
+      "kind": "official-site promotional image",
+      "status": "Source URL and byte hash verified; photo/render provenance and publication rights require confirmation",
+      "dimensions": [
+        1920,
+        1072
+      ],
+      "matchesLiveSource": true,
+      "suggestedCaption": "Salalah Eye promotional imagery. Not verified documentary photography."
+    },
+    {
+      "path": "media/masterplan-13-original.jpg",
+      "bytes": 4033390,
+      "sha256": "2892aedcae452df14d1f12d7abe8c14a468b5b5c1892c596acf9d37850e1816a",
+      "source": "User-supplied PPTX; ppt/slides/slide2.xml rId3 -> ppt/media/image1.jpeg",
+      "kind": "selected conceptual masterplan",
+      "status": "Programme13 selected by user; date23.09.2026 in PPTX notes; not a survey",
+      "dimensions": [
+        6600,
+        2140
+      ],
+      "transformation": "none"
+    },
+    {
+      "path": "media/masterplan-13.webp",
+      "bytes": 616870,
+      "sha256": "7518ce8e407df0cf4c6f4c8ba370e25b245013e212dbe2b591aed437f4e9a23d",
+      "source": "User-supplied PPTX; ppt/slides/slide2.xml rId3 -> ppt/media/image1.jpeg",
+      "kind": "selected conceptual masterplan",
+      "status": "Programme13 selected by user; date23.09.2026 in PPTX notes; not a survey",
+      "dimensions": [
+        3300,
+        1070
+      ],
+      "transformation": "Uniform downsample0.5; no crop, no layout changes"
+    },
+    {
+      "path": "fonts/ArefRuqaa-Bold.ttf",
+      "bytes": 123852,
+      "sha256": "247071015b7eefd63f94d6e47949c5d10294ed31bd432f809ba9a219d93f91bb",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/arefruqaa/ArefRuqaa-Bold.ttf",
+      "kind": "font",
+      "status": "OFL1.1 unmodified download"
+    },
+    {
+      "path": "fonts/IBMPlexSansArabic-Regular.ttf",
+      "bytes": 235924,
+      "sha256": "6f611412270a132bbac838da9259d4c68569b4175f3b3b8fa3fa36a30b56dab9",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexsansarabic/IBMPlexSansArabic-Regular.ttf",
+      "kind": "font",
+      "status": "OFL1.1 unmodified download"
+    },
+    {
+      "path": "fonts/IBMPlexSansArabic-Medium.ttf",
+      "bytes": 242100,
+      "sha256": "b8363ab9f733dfa4f8e96b8b2102c24b5cf4110fb96d1d3d9a9412f6fb49cf74",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexsansarabic/IBMPlexSansArabic-Medium.ttf",
+      "kind": "font",
+      "status": "OFL1.1 unmodified download"
+    },
+    {
+      "path": "fonts/IBMPlexSans-Variable.ttf",
+      "bytes": 537244,
+      "sha256": "3b031aa4216174205bd8471f88a49b91f093169e9e87bd5262242bc5967fe2e3",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexsans/IBMPlexSans%5Bwdth,wght%5D.ttf",
+      "kind": "font",
+      "status": "OFL1.1 unmodified download"
+    },
+    {
+      "path": "licenses/ArefRuqaa-OFL.txt",
+      "bytes": 4464,
+      "sha256": "41ac14451a624c69490e24b9aaaaa1f65dc9dc17c3f6f38172fc43d5ba654a1b",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/arefruqaa/OFL.txt",
+      "kind": "license",
+      "status": "Original license text"
+    },
+    {
+      "path": "licenses/IBMPlexSansArabic-OFL.txt",
+      "bytes": 4456,
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexsansarabic/OFL.txt",
+      "kind": "license",
+      "status": "Original license text"
+    },
+    {
+      "path": "licenses/IBMPlexSans-OFL.txt",
+      "bytes": 4456,
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexsans/OFL.txt",
+      "kind": "license",
+      "status": "Original license text"
+    },
+    {
+      "path": "data/world-land.geojson",
+      "bytes": 138160,
+      "sha256": "9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9",
+      "source": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_land.geojson",
+      "kind": "geodata",
+      "status": "Public Domain; cartographic scale not survey"
+    },
+    {
+      "path": "data/world-countries-source.geojson",
+      "bytes": 3083490,
+      "sha256": "3e458fc036ad0a66411f2c1e6cac49c5d7bfb81cb1123bc513b22511a2b7fdeb",
+      "source": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_50m_admin_0_countries.geojson",
+      "kind": "geodata",
+      "status": "Public Domain; cartographic scale not survey"
+    },
+    {
+      "path": "data/oman.geojson",
+      "bytes": 5586,
+      "sha256": "aa60237806f3b5da77f734c9df9545f7ad35862221529dd2c421f80171da2d7c",
+      "source": "Natural Earth, see licenses/Natural-Earth.txt",
+      "kind": "derived cartography",
+      "status": "Public Domain source; cartographic context, not site survey"
+    },
+    {
+      "path": "data/world-countries.geojson",
+      "bytes": 2272881,
+      "sha256": "2406cf07345d6301c5b9717248dfa6b1c82d150f2b5f13e5d1aa8b17ed9f1783",
+      "source": "Natural Earth, see licenses/Natural-Earth.txt",
+      "kind": "derived cartography",
+      "status": "Public Domain source; cartographic context, not site survey"
+    },
+    {
+      "path": "textures/earth-day.jpg",
+      "bytes": 481429,
+      "sha256": "1dd250e517cf772def636838488b1f4aa0fed072f87eb0a74be2c6d860239f21",
+      "source": "Natural Earth, see licenses/Natural-Earth.txt",
+      "kind": "derived cartography",
+      "status": "Public Domain source; cartographic context, not site survey",
+      "dimensions": [
+        4096,
+        2048
+      ],
+      "projection": "equirectangular; north-up; longitude-180..180; latitude90..-90",
+      "usage": "Legacy v0.1 illustrative globe, superseded in v2 by NASA Earth textures; preserved for provenance"
+    },
+    {
+      "path": "textures/earth-land-mask.png",
+      "bytes": 45062,
+      "sha256": "cecd1a419272ebca77019265ba2d0db53c8eaf0e73af47e16cef625df7245ad1",
+      "source": "Natural Earth, see licenses/Natural-Earth.txt",
+      "kind": "derived cartography",
+      "status": "Public Domain source; cartographic context, not site survey",
+      "dimensions": [
+        4096,
+        2048
+      ],
+      "projection": "equirectangular; north-up; longitude-180..180; latitude90..-90"
+    },
+    {
+      "path": "data/location.json",
+      "bytes": 432,
+      "sha256": "38385adb34702cf797b667f41782100204b3368c1ca09e7efedf4c8fa93fb74b",
+      "source": "Project research and selected PPTX",
+      "kind": "UI coordinate data",
+      "status": "Cinematic framing / image UI anchors, not survey"
+    },
+    {
+      "path": "data/masterplan-hotspots.json",
+      "bytes": 2034,
+      "sha256": "8eeb342b287a52ad49603765a4756649956f6693b4f74ec26a04a6f03c6e74c1",
+      "source": "Project research and selected PPTX",
+      "kind": "UI coordinate data",
+      "status": "Cinematic framing / image UI anchors, not survey"
+    },
+    {
+      "path": "licenses/Natural-Earth.txt",
+      "bytes": 497,
+      "sha256": "7d66f11adbbd93a5aa03dc42ab3b01c6649bae995bbf1fd2173f7bb7cce02ebf",
+      "source": "https://www.naturalearthdata.com/about/terms-of-use/",
+      "kind": "license note",
+      "status": "Public Domain terms and derivation note"
+    },
+    {
+      "path": "fonts/fonts.css",
+      "bytes": 845,
+      "sha256": "a0f37dd37f56762013820e22dff42a4428899e368ffebb4ab290533b75fc4385",
+      "source": "Project-generated local declarations",
+      "kind": "font declarations",
+      "status": "Local OFL-font CSS; no CDN references"
+    },
+    {
+      "path": "textures/earth-v2/day-4096.webp",
+      "bytes": 893776,
+      "sha256": "313a5b17562036f51fda093fdf1550829b2b93af771f8c1f94bad89c4fdbfd3e",
+      "source": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/bmng/bmng-base/july/world.200407.3x5400x2700.jpg",
+      "sourceRecord": "https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/base-map/",
+      "credit": "NASA/GSFC; Reto Stöckli",
+      "period": "July 2004 composite",
+      "kind": "NASA satellite surface composite",
+      "status": "Historical composite, locally optimized for cinematic 3D Earth; not current observations",
+      "dimensions": [
+        4096,
+        2048
+      ],
+      "rights": "NASA imagery usage guidance; no endorsement implied. See licenses/NASA-Earth.txt",
+      "processing": "Resolution/format optimization; original source retained in project working assets"
+    },
+    {
+      "path": "textures/earth-v2/day-2048.webp",
+      "bytes": 192558,
+      "sha256": "fa1c06b4611e7c124b750b98c4bdf8c7195da588d7988181aa0f20073f325998",
+      "source": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/bmng/bmng-base/july/world.200407.3x5400x2700.jpg",
+      "sourceRecord": "https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/base-map/",
+      "credit": "NASA/GSFC; Reto Stöckli",
+      "period": "July 2004 composite",
+      "kind": "NASA satellite surface composite",
+      "status": "Historical composite, locally optimized for cinematic 3D Earth; not current observations",
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "rights": "NASA imagery usage guidance; no endorsement implied. See licenses/NASA-Earth.txt",
+      "processing": "Resolution/format optimization; original source retained in project working assets"
+    },
+    {
+      "path": "textures/earth-v2/clouds-2048.webp",
+      "bytes": 799166,
+      "sha256": "08f046f085df6a543c2a3aa5669e5495dc5f422f3e2746494413eeffc5e029e0",
+      "source": "https://eoimages.gsfc.nasa.gov/images/imagerecords/57000/57747/cloud_combined_2048.jpg",
+      "sourceRecord": "https://visibleearth.nasa.gov/images/57747/blue-marble-clouds/77558l",
+      "credit": "NASA Goddard Space Flight Center; Reto Stöckli; enhancements by Robert Simmon",
+      "period": "2002 composite",
+      "kind": "NASA satellite cloud data mask",
+      "status": "Historical composite, locally optimized for cinematic 3D Earth; not current observations",
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "rights": "NASA imagery usage guidance; no endorsement implied. See licenses/NASA-Earth.txt",
+      "processing": "Resolution/format optimization; original source retained in project working assets"
+    },
+    {
+      "path": "textures/earth-v2/night-2048.webp",
+      "bytes": 89250,
+      "sha256": "2e3584b23428a204c09e9f92fa569c933a32478b0c0a90cf1c4d53c1eb8db272",
+      "source": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/144000/144897/BlackMarble_2016_01deg_gray.jpg",
+      "sourceRecord": "https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/",
+      "credit": "NASA Earth Observatory; Joshua Stevens; Suomi NPP VIIRS data from Miguel Román, NASA GSFC",
+      "period": "2016 composite",
+      "kind": "NASA satellite night-light data mask",
+      "status": "Historical composite, locally optimized for cinematic 3D Earth; not current observations",
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "rights": "NASA imagery usage guidance; no endorsement implied. See licenses/NASA-Earth.txt",
+      "processing": "Resolution/format optimization; original source retained in project working assets"
+    },
+    {
+      "path": "textures/earth-v2/land-mask-2048.png",
+      "bytes": 166710,
+      "sha256": "602bd5f0dc34d15e03893e4cd3dc2ebe92d16d20b1ede24d1287e656d13a7dcf",
+      "source": "Natural Earth; project earth-land-mask.png",
+      "kind": "cartographic land/water mask",
+      "status": "Public domain; resized for water-only specularity, not engineering boundaries",
+      "dimensions": [
+        2048,
+        1024
+      ]
+    },
+    {
+      "path": "textures/earth-v2/sources.json",
+      "bytes": 2884,
+      "sha256": "4e853b32e8dfa407fd9c03f99bc1ff937fdbf05d8e7c1640b0528cf720f1131c",
+      "source": "Primary NASA source pages and usage guidance checked 2026-09-26",
+      "kind": "provenance register",
+      "status": "Source URLs, historical periods and credits retained"
+    },
+    {
+      "path": "licenses/NASA-Earth.txt",
+      "bytes": 797,
+      "sha256": "2c9dedf151426247564d0d8a5f06b4a2ab38553165e522e90ef7c280ee0c1622",
+      "source": "Primary NASA source pages and usage guidance checked 2026-09-26",
+      "kind": "credit and usage note",
+      "status": "Source URLs, historical periods and credits retained"
+    },
+    {
+      "path": "media/v2/waterfront.webp",
+      "bytes": 357976,
+      "sha256": "e1857ee72d5a15fa926e3ceb9e1113faa9c1dc1243d38ec2016978b1cfd4cc8b",
+      "source": "Generated for this project with OpenAI ImageGen at the project owner request, 2026-09-26",
+      "kind": "AI-generated architectural concept",
+      "status": "Proposed atmosphere; not a documentary photograph, approved plan or dimensionally certified design",
+      "subject": "Palm-shaded waterfront and beach promenade",
+      "dimensions": [
+        1671,
+        941
+      ],
+      "suggestedCaption": "PROPOSED DESIGN · CONCEPT VISUALISATION"
+    },
+    {
+      "path": "media/v2/community.webp",
+      "bytes": 346970,
+      "sha256": "d42038e388c526d3612219968a9b7d44693bf92b3a53373979b448431158ae5a",
+      "source": "Generated for this project with OpenAI ImageGen at the project owner request, 2026-09-26",
+      "kind": "AI-generated architectural concept",
+      "status": "Proposed atmosphere; not a documentary photograph, approved plan or dimensionally certified design",
+      "subject": "Community gathering place, local kiosks and family workshops",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "suggestedCaption": "PROPOSED DESIGN · CONCEPT VISUALISATION"
+    },
+    {
+      "path": "media/v2/development.webp",
+      "bytes": 334030,
+      "sha256": "677216f3591bdd41b318807c7a32e26deb4768dd8fd96e8254b51772f5a8ac16",
+      "source": "Generated for this project with OpenAI ImageGen at the project owner request, 2026-09-26",
+      "kind": "AI-generated architectural concept",
+      "status": "Proposed atmosphere; not a documentary photograph, approved plan or dimensionally certified design",
+      "subject": "Illustrative physical architectural model representing project development",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "suggestedCaption": "PROPOSED DESIGN · CONCEPT VISUALISATION"
+    },
+    {
+      "path": "media/v2/masterplan-atmosphere.webp",
+      "bytes": 415162,
+      "sha256": "cd35a0005e4d01a3a299616cb59f6d85babfff0fc7c7b60ff18869dae01c004f",
+      "source": "Generated for Salalah Eye using built-in image_gen; reference: supplied 13-element plan and project wheel imagery",
+      "kind": "generated architectural concept",
+      "status": "Proposed atmosphere, not documentary or dimensionally authoritative",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "path": "licenses/Poly-Haven.txt",
+      "bytes": 664,
+      "sha256": "3b4f7e074e9c6bf0df58b8261f6ce29282ad766b482509b0ddfde6e8fe8e4ddd",
+      "kind": "asset credit and license record",
+      "source": "Poly Haven CC0 assets"
+    },
+    {
+      "path": "media/v2/beach-backplate.webp",
+      "source": "Generated for this project with OpenAI ImageGen at the project owner request, 2026-09-26",
+      "kind": "AI-generated architectural backdrop",
+      "status": "Proposed coastal setting; not a documentary photograph",
+      "bytes": 362238,
+      "sha256": "612cf88f1fb18240eb1883984f2b837424a4efabebc1d54a4d18e100d2ab162c",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "path": "media/v2/masterplan-day.webp",
+      "source": "OpenAI ImageGen visual refinement of the locally authored Blender waterfront aerial, guided by the selected thirteen-element programme",
+      "kind": "AI-refined architectural concept render",
+      "status": "Illustrative design interpretation; no survey, exact ride geometry or engineering certification implied",
+      "bytes": 662194,
+      "sha256": "ea836d60d2f259d4d71a4377b6e4c3b94091a9c2cfb5d96b4d0dd1d6a47c84e5",
+      "dimensions": [
+        1586,
+        992
+      ]
+    },
+    {
+      "path": "media/v2/wheel-support.webp",
+      "source": "Local Blender Cycles rendering, 128 samples, denoised, AgX; Poly Haven CC0 lighting. Project-owned source derivatives and authored presentation geometry.",
+      "kind": "Offline-rendered transparent beauty pass",
+      "status": "129 native source parts with authored lower connections and boarding pavilion",
+      "bytes": 65750,
+      "sha256": "a693299dd30dde1a3f5143c646a12fa626a93d5b18b5b32295fdd6d0bb55330f",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "media/v2/wheel-rotor.webp",
+      "source": "Local Blender Cycles rendering, 128 samples, denoised, AgX; Poly Haven CC0 lighting. Project-owned source derivatives and authored presentation geometry.",
+      "kind": "Offline-rendered transparent beauty pass",
+      "status": "Authored wheel rotor matched to source-derived cabin orbit",
+      "bytes": 373426,
+      "sha256": "062b3c8423fb0cc08b8e80fb83f1540853c67be45d3478a32e119404e26386da",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "media/v2/wheel-cabin.webp",
+      "source": "Local Blender Cycles rendering, 128 samples, denoised, AgX; Poly Haven CC0 lighting. Project-owned source derivatives and authored presentation geometry.",
+      "kind": "Offline-rendered transparent beauty pass",
+      "status": "Clean authored cabin envelope replacing overlapping imported panels; source-derived dimensions",
+      "bytes": 35768,
+      "sha256": "8e9b28a37bf9b5f0fcc989cfbb1d55b3c092e35f15279f8296d469df84fb1ab4",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    {
+      "path": "fonts/ArefRuqaa-Bold.woff2",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/arefruqaa/ArefRuqaa-Bold.ttf",
+      "kind": "Lossless full-glyph WOFF2 packaging of OFL source font",
+      "status": "Verified glyph/shaping/variable-axis preservation; original TTF and license retained",
+      "bytes": 70048,
+      "sha256": "a5abdc0414b72c63126ae6bc30462bc728ac90f3b68e24cc43eb023f3481c03d"
+    },
+    {
+      "path": "fonts/IBMPlexSans-Variable.woff2",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexsans/IBMPlexSans%5Bwdth,wght%5D.ttf",
+      "kind": "Lossless full-glyph WOFF2 packaging of OFL source font",
+      "status": "Verified glyph/shaping/variable-axis preservation; original TTF and license retained",
+      "bytes": 236616,
+      "sha256": "e291b60bbb1859d657bb5ce619ac7bb72f66b65eaad569ca1248ce668f04361c"
+    },
+    {
+      "path": "fonts/IBMPlexSansArabic-Medium.woff2",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexsansarabic/IBMPlexSansArabic-Medium.ttf",
+      "kind": "Lossless full-glyph WOFF2 packaging of OFL source font",
+      "status": "Verified glyph/shaping/variable-axis preservation; original TTF and license retained",
+      "bytes": 86084,
+      "sha256": "7a39ee89641dd0b3b1be9d3a271d3107cce42f9e488a7897f370627382ad4c95"
+    },
+    {
+      "path": "fonts/IBMPlexSansArabic-Regular.woff2",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexsansarabic/IBMPlexSansArabic-Regular.ttf",
+      "kind": "Lossless full-glyph WOFF2 packaging of OFL source font",
+      "status": "Verified glyph/shaping/variable-axis preservation; original TTF and license retained",
+      "bytes": 82244,
+      "sha256": "299334d6dfac981bb483604a74edf2c050f4521bcb66cf30dcc49037ea4f816e"
+    },
+    {
+      "path": "data/geography-v3/salalah-context.svg",
+      "source": "https://api.openstreetmap.org/api/0.6/map?bbox=54.087,16.990,54.123,17.024",
+      "kind": "OSM-derived geographic orientation",
+      "status": "Attributed local derivative, no measured heights or surveyed project boundary",
+      "rights": "OpenStreetMap contributors / ODbL https://opendatacommons.org/licenses/odbl/1-0/",
+      "bytes": 624447,
+      "sha256": "25aebacc0bcaedf4f69f54b83657be485b6ad2ed3e03296361b91b7908f07c62"
+    },
+    {
+      "path": "data/geography-v3/sources.json",
+      "source": "https://api.openstreetmap.org/api/0.6/map?bbox=54.087,16.990,54.123,17.024",
+      "kind": "OSM-derived geographic orientation",
+      "status": "Attributed local derivative, no measured heights or surveyed project boundary",
+      "rights": "OpenStreetMap contributors / ODbL https://opendatacommons.org/licenses/odbl/1-0/",
+      "bytes": 770,
+      "sha256": "9a7513ce761b98bda8215a02136f44d29ea5719295e58763fc87503a6d17832c"
+    },
+    {
+      "path": "media/v3/wheel-cinematic-1080.mp4",
+      "source": "Project-owned Blender5.2.1 production; generated proposed coastal background",
+      "kind": "Rendered concept animation",
+      "status": "129 native static parts plus authored rotor/cabins; not complete as-built geometry or an engineering erection sequence",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "durationSeconds": 13,
+      "fps": 30,
+      "operationLoopStartSeconds": 7.633333333333334,
+      "bytes": 3171854,
+      "sha256": "033b665be90aef8d8225b2ab5387531b886693f815000483e5a2829314056a43"
+    },
+    {
+      "path": "media/v3/wheel-cinematic-720.mp4",
+      "source": "Project-owned Blender5.2.1 production; generated proposed coastal background",
+      "kind": "Rendered concept animation",
+      "status": "129 native static parts plus authored rotor/cabins; not complete as-built geometry or an engineering erection sequence",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "durationSeconds": 13,
+      "fps": 30,
+      "operationLoopStartSeconds": 7.633333333333334,
+      "bytes": 1265270,
+      "sha256": "96182b15db029c7125ce8ab356296a8dbb90cb417728701bbdac927528564352"
+    },
+    {
+      "path": "media/v3/wheel-cinematic-poster.webp",
+      "source": "Project-owned Blender5.2.1 production; generated proposed coastal background",
+      "kind": "Finished rendered concept still",
+      "status": "129 native static parts plus authored rotor/cabins; not complete as-built geometry or an engineering erection sequence",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "bytes": 438682,
+      "sha256": "d1c4cbba80945913aaf6a58aaeb812cb74128bd07dd1ec985765c4004f0e7002"
+    },
+    {
+      "path": "media/v3/wheel-blueprint.svg",
+      "source": "Project-owned Blender5.2.1 production; generated proposed coastal background",
+      "kind": "Camera-derived illustrative line drawing",
+      "status": "129 native static parts plus authored rotor/cabins; not complete as-built geometry or an engineering erection sequence",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "bytes": 32951,
+      "sha256": "7a067988ad921c741aa75dc45344930ff9650f32ff53e65fd0df09cf0d8e19e4"
+    },
+    {
+      "path": "media/v3/territory-day.webp",
+      "source": "Canonical13-zone project Blender scene with imagegen art direction",
+      "kind": "Source-guided architectural concept visualisation",
+      "status": "Relative13-zone programme preserved; camera/landscape and carousel locally art-directed, not pixel-identical engineering or as-built geometry",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 618644,
+      "sha256": "0ff801df91e4492dcb9c5e0496c297651c744b75f6223d79b4303116bd5f4670"
+    },
+    {
+      "path": "media/v3/territory-night.webp",
+      "source": "Canonical13-zone project Blender scene with imagegen art direction",
+      "kind": "Source-guided architectural concept visualisation",
+      "status": "Relative13-zone programme preserved; camera/landscape and carousel locally art-directed, not pixel-identical engineering or as-built geometry",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 463488,
+      "sha256": "50ba91ee280d86a99142f0840a384698e6db29875ce5a5d67d367590ec7d15fd"
+    },
+    {
+      "path": "media/v3/waterfront-v3.webp",
+      "source": "Built-in imagegen, guided by canonical13-element Blender-derived day/night concept and source-specific human views",
+      "kind": "Source-guided proposed waterfront visualisation",
+      "status": "Concept, not documentary photography or engineering-registered projection",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 418006,
+      "sha256": "3389d569fc2b5521d44c620170a10f2ea4b27b084a61da72191cff1c3b4eff3e"
+    },
+    {
+      "path": "media/v3/community-v3.webp",
+      "source": "Built-in imagegen, guided by canonical13-element Blender-derived day/night concept and source-specific human views",
+      "kind": "Source-guided proposed waterfront visualisation",
+      "status": "Concept, not documentary photography or engineering-registered projection",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 430122,
+      "sha256": "754f6c98f126fd955c42fcc10287ea772d9465758deda9afa88b794bd9d9aa4c"
+    },
+    {
+      "path": "media/v3/development-v3.webp",
+      "source": "Built-in imagegen, guided by canonical13-element Blender-derived day/night concept and source-specific human views",
+      "kind": "Source-guided proposed waterfront visualisation",
+      "status": "Concept, not documentary photography or engineering-registered projection",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 430488,
+      "sha256": "4f7f99e737f7cf20fdecc2313eb49368ed62ca33212ab42be140a0966fa39d46"
+    },
+    {
+      "path": "media/v3/masterplan-cinematic-1080.mp4",
+      "source": "Private project-owned Blender5.2.1 EEVEE architectural-build animation; paired source-guided day/night concept artwork",
+      "kind": "Finished rendered spatial masterplan film",
+      "status": "Canonical13programme, architectural presentation on engineering paper; authored proposed carousel and landscape; final day/night artwork is art-directed, not pixel-identical native render",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "durationSeconds": 10,
+      "fps": 30,
+      "bytes": 8343944,
+      "sha256": "d9d5da66b9f7638019587e8f23ca0d3adbb44e40bcb6f0a5cf831843bf57904c"
+    },
+    {
+      "path": "media/v3/masterplan-cinematic-720.mp4",
+      "source": "Private project-owned Blender5.2.1 EEVEE architectural-build animation; paired source-guided day/night concept artwork",
+      "kind": "Finished rendered spatial masterplan film",
+      "status": "Canonical13programme, architectural presentation on engineering paper; authored proposed carousel and landscape; final day/night artwork is art-directed, not pixel-identical native render",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "durationSeconds": 10,
+      "fps": 30,
+      "bytes": 3275108,
+      "sha256": "88ac93d773e6e8f4924c0799fc0d20309935400a71725a40d171ece1fd9e62a2"
+    },
+    {
+      "path": "media/v3/masterplan-blueprint.webp",
+      "source": "First frame of private Blender architectural-build movie",
+      "kind": "Rendered engineering-paper design study",
+      "status": "Same camera and13-programme projection as the film; not measured construction documentation",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "bytes": 272138,
+      "sha256": "05732a4c6b4eb72413f3b32d7066f02dca80eda99b4608438794da597d5074a5"
+    },
+    {
+      "path": "media/v3/beach-lounge-day.webp",
+      "bytes": 385454,
+      "sha256": "b451db21b048a1c7b6ff8bf8247ffd6adc694d997f13d6c5aa607518453752e9",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "source": "User-supplied Family_Lounge.blend v02.1, integrated into the project coastal scene; native Blender Cycles / AgX",
+      "kind": "Finished offline architectural render",
+      "status": "Proposed beach amenity; conceptual non-surveyed siting",
+      "modelSourceSha256": "8ff0340629e9d513ec5ca85391863b405e5c6461740987544e52d21792f4d713",
+      "generativeImageEditing": false
+    },
+    {
+      "path": "media/v3/beach-lounge-night.webp",
+      "bytes": 282364,
+      "sha256": "174fc970acfb801bc3284d322e15a2d9e19c13ccc93222ac7cdcee10ed34cff9",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "source": "User-supplied Family_Lounge.blend v02.1, integrated into the project coastal scene; native Blender Cycles / AgX",
+      "kind": "Finished offline architectural render",
+      "status": "Proposed beach amenity; conceptual non-surveyed siting",
+      "modelSourceSha256": "8ff0340629e9d513ec5ca85391863b405e5c6461740987544e52d21792f4d713",
+      "generativeImageEditing": false
+    },
+    {
+      "path": "media/v4/family-sea-view.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 321490,
+      "sha256": "e360f05c3d7ce0e691b8332d80a43a26bc3fc5e74a0f5672b5a61f3872293a6f"
+    },
+    {
+      "path": "media/v4/khareef-festival.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 455676,
+      "sha256": "41a10a45340bcb1e70affecd5bceef3dc92a622dd109d140166ef84217a4aa99"
+    },
+    {
+      "path": "media/v4/beach-amenities.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 632868,
+      "sha256": "8aea2f8affca55396a578e2846c892e6e0b76a5cf1d0ceb8e0c09cb2e95f47d6"
+    },
+    {
+      "path": "media/v4/hospitality-clusters.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 776930,
+      "sha256": "431b05367591351b89688e7ea2aa66cf9237219c64bb69b8632ed0949e096a2e"
+    },
+    {
+      "path": "media/v4/full-waterfront.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 750866,
+      "sha256": "48a6680b03c968c708db98475f641229a3a67d7141f5c4a6ef50ed3e0ebc7a76"
+    },
+    {
+      "path": "brand/oman-flag.jpg",
+      "source": "https://www.fm.gov.om/en/ministry/media/downloads/",
+      "kind": "Official flag, copied byte-for-byte; not mirrored",
+      "status": "Official flag, copied byte-for-byte; not mirrored",
+      "dimensions": [
+        2000,
+        1143
+      ],
+      "bytes": 159557,
+      "sha256": "9e86fbfc8f10223e5ffbdfba5601f3b53b0a80e960edc341e99768baecc71574"
+    },
+    {
+      "path": "data/geography-v4/salalah-satellite-20260926.webp",
+      "source": "Copernicus Sentinel-2A2026-09-26; see sources.json and credits.html",
+      "kind": "True-colour satellite imagery, modified crop;10m native resolution",
+      "status": "True-colour satellite imagery, modified crop;10m native resolution",
+      "dimensions": [
+        3200,
+        3200
+      ],
+      "bytes": 2518812,
+      "sha256": "1e78a61a3607e8842669e2b265dccc721f150dc11c3145f64f6a23588bd6c4d8"
+    },
+    {
+      "path": "data/geography-v4/salalah-terrain.json",
+      "source": "Copernicus DEM GLO-30; see credits.html",
+      "kind": "Real terrain heights used without vertical exaggeration",
+      "status": "Real terrain heights used without vertical exaggeration",
+      "bytes": 174415,
+      "sha256": "b9e6245c19c176812021273db3bfcdc568ae84f90a1b65cb30d65e4d83a2211f"
+    },
+    {
+      "path": "data/geography-v4/sources.json",
+      "source": "Project source inventory",
+      "kind": "Satellite/DEM provenance and license notices",
+      "status": "Satellite/DEM provenance and license notices",
+      "bytes": 3816,
+      "sha256": "3413f15685a1a1ac02ba0e8ad60e5cd707314949d65de7906e21f718b1f22e5f"
+    },
+    {
+      "path": "data/geography-v4/credits.html",
+      "source": "Copernicus Sentinel and DEM license notices",
+      "kind": "Required public source attribution",
+      "status": "Required public source attribution",
+      "bytes": 2646,
+      "sha256": "0e48ba9ad801edefb3f3a1a9f57a414d65fdcf3157c60be4116716d6b41ded85"
+    },
+    {
+      "path": "data/v4/masterplan-pin-projections.json",
+      "source": "Camera projection from private source-derived scene",
+      "kind": "Normalized programme anchors; artwork remains illustrative",
+      "status": "Normalized programme anchors; artwork remains illustrative",
+      "bytes": 3162,
+      "sha256": "9efa9900d11954e6fb5b1da5d965500124ef57b9af51f9132dd9a40d4a09f756"
+    },
+    {
+      "path": "downloads/salalah-eye-concept-brief.pdf",
+      "source": "Project V4.2.1 HTML presentation export",
+      "kind": "11-page bilingual concept brief",
+      "status": "11 pages verified; native Omani editorial review pending",
+      "bytes": 9336218,
+      "sha256": "32cec6d8f72fb7f083ef8c44993b0385ae359f85ac6fc39d8c4e211693c6bc77",
+      "pages": 11
+    },
+    {
+      "path": "brand/icons/apple-touch-icon.png",
+      "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
+      "kind": "Social preview or application icon",
+      "status": "Original logo preserved; proposed development is labelled",
+      "dimensions": [
+        180,
+        180
+      ],
+      "bytes": 6561,
+      "sha256": "5a05e4826f7221b5045fb3cf555186bd6be42e4cb8898e662d104374191a5690"
+    },
+    {
+      "path": "brand/icons/favicon-32.png",
+      "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
+      "kind": "Social preview or application icon",
+      "status": "Original logo preserved; proposed development is labelled",
+      "dimensions": [
+        32,
+        32
+      ],
+      "bytes": 1266,
+      "sha256": "728a8f2ca421ddac73c168e255a579a39b75dcd7de032e64d68eb9b49a5503d8"
+    },
+    {
+      "path": "brand/icons/favicon.ico",
+      "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
+      "kind": "Social preview or application icon",
+      "status": "Original logo preserved; proposed development is labelled",
+      "bytes": 3820,
+      "sha256": "26eae6303ae1268cde3c3d2fadb70e84f2731201c64f0fdd03997cf7ba5f24ff"
+    },
+    {
+      "path": "brand/icons/favicon.svg",
+      "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
+      "kind": "Social preview or application icon",
+      "status": "Original logo preserved; proposed development is labelled",
+      "bytes": 768,
+      "sha256": "0a2f8f79cbbdeeb1aea57aaf3c4ccbff7293fb825a4fab12aac1e02b7a37bd1d"
+    },
+    {
+      "path": "brand/icons/icon-16.png",
+      "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
+      "kind": "Social preview or application icon",
+      "status": "Original logo preserved; proposed development is labelled",
+      "dimensions": [
+        16,
+        16
+      ],
+      "bytes": 566,
+      "sha256": "e835cf45940b28d36f4c9226ac3c47773c69cb90382e78b0617821a7c1d8a412"
+    },
+    {
+      "path": "brand/icons/icon-192.png",
+      "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
+      "kind": "Social preview or application icon",
+      "status": "Original logo preserved; proposed development is labelled",
+      "dimensions": [
+        192,
+        192
+      ],
+      "bytes": 8100,
+      "sha256": "1af2d13e145c467d5b51261a81f7733710e2118041d464e794ecaea2a55796f9"
+    },
+    {
+      "path": "brand/icons/icon-32.png",
+      "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
+      "kind": "Social preview or application icon",
+      "status": "Original logo preserved; proposed development is labelled",
+      "dimensions": [
+        32,
+        32
+      ],
+      "bytes": 1266,
+      "sha256": "728a8f2ca421ddac73c168e255a579a39b75dcd7de032e64d68eb9b49a5503d8"
+    },
+    {
+      "path": "brand/icons/icon-48.png",
+      "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
+      "kind": "Social preview or application icon",
+      "status": "Original logo preserved; proposed development is labelled",
+      "dimensions": [
+        48,
+        48
+      ],
+      "bytes": 1934,
+      "sha256": "bb3ef92cd060b265a53276da6524605673c6be58a3eb47c322e748d38039538b"
+    },
+    {
+      "path": "brand/icons/icon-512.png",
+      "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
+      "kind": "Social preview or application icon",
+      "status": "Original logo preserved; proposed development is labelled",
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 26769,
+      "sha256": "1a95fb9f1347eb48060fc057c775f52740dba5d234ead4cba645585f745e3b03"
+    },
+    {
+      "path": "brand/icons/icon-maskable-512.png",
+      "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
+      "kind": "Social preview or application icon",
+      "status": "Original logo preserved; proposed development is labelled",
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 17353,
+      "sha256": "e459eaa3dcb769ed81fa7b616949b2c579b78eaa557b488fdf2f8a7f22cc048c"
+    },
+    {
+      "path": "social/salalah-eye-square-v4.jpg",
+      "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
+      "kind": "Social preview or application icon",
+      "status": "Original logo preserved; proposed development is labelled",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "bytes": 494854,
+      "sha256": "95a577a480d62d628bee77690069721b38ba8a140cd698968459909485d73ba6"
+    },
+    {
+      "path": "social/salalah-eye-waterfront-v4.jpg",
+      "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
+      "kind": "Social preview or application icon",
+      "status": "Original logo preserved; proposed development is labelled",
+      "dimensions": [
+        1200,
+        630
+      ],
+      "bytes": 361900,
+      "sha256": "61d2a05b3e57202c7ee1bad1bed8485a651aa52732aebd61b147408be8c9ec0f"
+    },
+    {
+      "path": "social/salalah-eye-waterfront-v4.png",
+      "source": "Supplied Salalah Eye logo; native vector icon / brand composition with accepted V4 concept aerial",
+      "kind": "Social preview or application icon",
+      "status": "Original logo preserved; proposed development is labelled",
+      "dimensions": [
+        1200,
+        630
+      ],
+      "bytes": 1391588,
+      "sha256": "be78bbb574ff4025a96288b4afa58a60331e82d7069ace8f34dfc97826cff91e"
+    },
+    {
+      "path": "site.webmanifest",
+      "source": "Project metadata",
+      "kind": "Scoped home-screen icon manifest",
+      "status": "No service worker, offline capability or application store listing is claimed",
+      "bytes": 738,
+      "sha256": "07aad1678bd37adc7e481bde61533bc4ce45e1fb79a2fa0d9b2d79c8d01e130f"
+    },
+    {
+      "path": "media/v41/wheel-cinematic-540.mp4",
+      "source": "Local FFmpeg derivative of media/v3/wheel-cinematic-1080.mp4; original retained",
+      "kind": "Optimized H.264 rendered film, 30 fps, silent, progressive MP4",
+      "status": "Illustrative design animation; source timing unchanged. 540p constrained/mobile, 720p web, 1080p large presentation.",
+      "dimensions": [
+        960,
+        540
+      ],
+      "bytes": 874694,
+      "sha256": "e8c989f570f665910f89a0a0799e47aa2081f7f610dabe73116e5a69182f8d8e"
+    },
+    {
+      "path": "media/v41/wheel-cinematic-720.mp4",
+      "source": "Local FFmpeg derivative of media/v3/wheel-cinematic-1080.mp4; original retained",
+      "kind": "Optimized H.264 rendered film, 30 fps, silent, progressive MP4",
+      "status": "Illustrative design animation; source timing unchanged. 540p constrained/mobile, 720p web, 1080p large presentation.",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 1367218,
+      "sha256": "c75702fd9cfdd8c9d6b3eb0b7492f469a2e44a451ab68b056c6e3b0e19edb76d"
+    },
+    {
+      "path": "media/v41/wheel-cinematic-1080.mp4",
+      "source": "Local FFmpeg derivative of media/v3/wheel-cinematic-1080.mp4; original retained",
+      "kind": "Optimized H.264 rendered film, 30 fps, silent, progressive MP4",
+      "status": "Illustrative design animation; source timing unchanged. 540p constrained/mobile, 720p web, 1080p large presentation.",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "bytes": 2527900,
+      "sha256": "3c54d46e60da4204322d7301bdefceb1181c374f20b1bd8a385bfefce904fbfe"
+    },
+    {
+      "path": "media/v41/masterplan-cinematic-540.mp4",
+      "source": "Local FFmpeg derivative of media/v3/masterplan-cinematic-1080.mp4; original retained",
+      "kind": "Optimized H.264 rendered film, 30 fps, silent, progressive MP4",
+      "status": "Illustrative design animation; source timing unchanged. 540p constrained/mobile, 720p web, 1080p large presentation.",
+      "dimensions": [
+        960,
+        540
+      ],
+      "bytes": 848515,
+      "sha256": "106e74565ee303a0aad898714b9fa84d9fcafecb3a0351cb2807ac6c8f03d40f"
+    },
+    {
+      "path": "media/v41/masterplan-cinematic-720.mp4",
+      "source": "Local FFmpeg derivative of media/v3/masterplan-cinematic-1080.mp4; original retained",
+      "kind": "Optimized H.264 rendered film, 30 fps, silent, progressive MP4",
+      "status": "Illustrative design animation; source timing unchanged. 540p constrained/mobile, 720p web, 1080p large presentation.",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 1512436,
+      "sha256": "cfae756fd1acc9c62c72278054ead3e7cca0aeac63d905bb7da4ec00692efb0a"
+    },
+    {
+      "path": "media/v41/masterplan-cinematic-1080.mp4",
+      "source": "Local FFmpeg derivative of media/v3/masterplan-cinematic-1080.mp4; original retained",
+      "kind": "Optimized H.264 rendered film, 30 fps, silent, progressive MP4",
+      "status": "Illustrative design animation; source timing unchanged. 540p constrained/mobile, 720p web, 1080p large presentation.",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "bytes": 3065042,
+      "sha256": "c57341868d40c2a8ce448c56a5146f765c4f0e91b3dfe76023f17329865cf1d4"
+    },
+    {
+      "path": "media/v41/earth-first-frame.webp",
+      "source": "Native Three.js render from the accepted project Earth scene; NASA Blue Marble / Black Marble sources in textures/earth-v2/sources.json",
+      "kind": "Transparent first-frame poster for texture-loading and WebGL fallback",
+      "status": "Historical composited NASA imagery, not live weather. Render captured at 640x640; WebP derivative.",
+      "dimensions": [
+        640,
+        640
+      ],
+      "bytes": 58474,
+      "sha256": "a4e369188230517dfe6608c939993a9547b66b2ea63d541700d4d897eec0ae77"
+    },
+    {
+      "path": "media/v42/family-sea-view-640.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "family-sea-view",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 46464,
+      "sha256": "df6ff13f983de795723cbf054c625705a504033cdeae012ced5016d155bf4508",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "738c5671f7b712bb9405f1d6193f214c2b9227e50feb071e0f8f66f3ad6e6629",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/family-sea-view.webp"
+    },
+    {
+      "path": "media/v42/family-sea-view-1280.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "family-sea-view",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 130564,
+      "sha256": "84b3db608a2fafce9b4519cdfb6b82e986ea1e119db5b54b37ccfae91d7b86c4",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "738c5671f7b712bb9405f1d6193f214c2b9227e50feb071e0f8f66f3ad6e6629",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/family-sea-view.webp"
+    },
+    {
+      "path": "media/v42/family-sea-view-1672.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "family-sea-view",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 181938,
+      "sha256": "421754f324b38abbeeb6f2e99c74583dfb0541b2d685504fcbfff34ce4b2285c",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "738c5671f7b712bb9405f1d6193f214c2b9227e50feb071e0f8f66f3ad6e6629",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/family-sea-view.webp"
+    },
+    {
+      "path": "media/v42/family-sea-view-160.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "family-sea-view",
+      "dimensions": [
+        160,
+        90
+      ],
+      "bytes": 2350,
+      "sha256": "88678166b76acf875c9f6f8d2b604f555cc1bb7c1bb17521c47172c638c38696",
+      "delivery": {
+        "format": "WebP",
+        "quality": 42,
+        "method": 6,
+        "role": "Small loading preview",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "738c5671f7b712bb9405f1d6193f214c2b9227e50feb071e0f8f66f3ad6e6629",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/family-sea-view.webp"
+    },
+    {
+      "path": "media/v42/khareef-festival-640.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "khareef-festival",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 67128,
+      "sha256": "4ae59165e9e91898afe5bf530b02cfab15f24d8d22c7cedc471d85a8777b0880",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "2c0a0f3f70cda275b74a24e01fcd73eddbd463c7cfa496d1dd9bb03a2d7a7dda",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/khareef-festival.webp"
+    },
+    {
+      "path": "media/v42/khareef-festival-1280.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "khareef-festival",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 198628,
+      "sha256": "003609f49596bcd701c3fe45d2c435511124c6b11ccf6d6d65814a80119990f6",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "2c0a0f3f70cda275b74a24e01fcd73eddbd463c7cfa496d1dd9bb03a2d7a7dda",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/khareef-festival.webp"
+    },
+    {
+      "path": "media/v42/khareef-festival-1672.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "khareef-festival",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 283728,
+      "sha256": "a805e6b6427061caa1160bcd1a69c7063a9e0e4fde2d5ad0d86c4dc65a5fb14e",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "2c0a0f3f70cda275b74a24e01fcd73eddbd463c7cfa496d1dd9bb03a2d7a7dda",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/khareef-festival.webp"
+    },
+    {
+      "path": "media/v42/khareef-festival-160.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "khareef-festival",
+      "dimensions": [
+        160,
+        90
+      ],
+      "bytes": 2656,
+      "sha256": "153d35b483f3b9744ee0bf485c8fed6b6e60478de9ff365d26319f2b6ed955d5",
+      "delivery": {
+        "format": "WebP",
+        "quality": 42,
+        "method": 6,
+        "role": "Small loading preview",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "2c0a0f3f70cda275b74a24e01fcd73eddbd463c7cfa496d1dd9bb03a2d7a7dda",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/khareef-festival.webp"
+    },
+    {
+      "path": "media/v42/beach-amenities-640.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "beach-amenities",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 82210,
+      "sha256": "051a86f076c6958fe68f4ae75ee8778da00e6969feb2b2f20c774320887a8c7f",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "e12996ab470a63e6fbc7e138a1e228c5aa2296cd9af46408748832db6a8f509a",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/beach-amenities.webp"
+    },
+    {
+      "path": "media/v42/beach-amenities-1280.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "beach-amenities",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 272650,
+      "sha256": "40fe09f038632a790f7788e4dfa5d30f78b4ab89400b4e75dafa936cdada613e",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "e12996ab470a63e6fbc7e138a1e228c5aa2296cd9af46408748832db6a8f509a",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/beach-amenities.webp"
+    },
+    {
+      "path": "media/v42/beach-amenities-1672.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "beach-amenities",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 407178,
+      "sha256": "cc23c497d88a87ae5d0eb9ea5b67a1a076e6f91efabf583502b6d01dee4979de",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "e12996ab470a63e6fbc7e138a1e228c5aa2296cd9af46408748832db6a8f509a",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/beach-amenities.webp"
+    },
+    {
+      "path": "media/v42/beach-amenities-160.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "beach-amenities",
+      "dimensions": [
+        160,
+        90
+      ],
+      "bytes": 2992,
+      "sha256": "3352339e410c46a7bd087717e6ea9d3ebf91529606319493250471d34f96ac0e",
+      "delivery": {
+        "format": "WebP",
+        "quality": 42,
+        "method": 6,
+        "role": "Small loading preview",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "e12996ab470a63e6fbc7e138a1e228c5aa2296cd9af46408748832db6a8f509a",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/beach-amenities.webp"
+    },
+    {
+      "path": "media/v42/hospitality-clusters-640.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "hospitality-clusters",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 104106,
+      "sha256": "f0380be29fd235adb700e821b5bf46b7b0a8ec0246f6d354b7b60cff52840750",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "2cfab17b8244276166a260d0f5d8826361d820a5d647bff4488943ba31e4f4cf",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/hospitality-clusters.webp"
+    },
+    {
+      "path": "media/v42/hospitality-clusters-1280.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "hospitality-clusters",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 348756,
+      "sha256": "826c56da9b0b8776a939ae0609afe4d84d079f3cc90a6a826fe58e5a335c7022",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "2cfab17b8244276166a260d0f5d8826361d820a5d647bff4488943ba31e4f4cf",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/hospitality-clusters.webp"
+    },
+    {
+      "path": "media/v42/hospitality-clusters-1672.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "hospitality-clusters",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 521838,
+      "sha256": "0c699c8316b1294965a52ffca85f84735828dadc9745691baa4b6f427ae60c1a",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "2cfab17b8244276166a260d0f5d8826361d820a5d647bff4488943ba31e4f4cf",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/hospitality-clusters.webp"
+    },
+    {
+      "path": "media/v42/hospitality-clusters-160.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "hospitality-clusters",
+      "dimensions": [
+        160,
+        90
+      ],
+      "bytes": 3902,
+      "sha256": "d249467e361d141eba4d610ab8a6fb8e06b9085c31d414b94b78414153da7bdc",
+      "delivery": {
+        "format": "WebP",
+        "quality": 42,
+        "method": 6,
+        "role": "Small loading preview",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "2cfab17b8244276166a260d0f5d8826361d820a5d647bff4488943ba31e4f4cf",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/hospitality-clusters.webp"
+    },
+    {
+      "path": "media/v42/full-waterfront-640.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "full-waterfront",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 98304,
+      "sha256": "4b00d13817b79abd040f625aed2d106b60ad8223e3a371ebacd250dc6785eff3",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "f7c550a39e48edba00e0b0611b8945b82a8f4ab8fb2d9db8d22478f2f57e9863",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/full-waterfront.webp"
+    },
+    {
+      "path": "media/v42/full-waterfront-1280.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "full-waterfront",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 337172,
+      "sha256": "d83c454d0c59345341a1eeb20c5c1e77ac904fd97eaa254d42139ca0b6ca407a",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "f7c550a39e48edba00e0b0611b8945b82a8f4ab8fb2d9db8d22478f2f57e9863",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/full-waterfront.webp"
+    },
+    {
+      "path": "media/v42/full-waterfront-1672.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "full-waterfront",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 502676,
+      "sha256": "97f3b723f09c7f5ab273fabd05b0f859b7f9f2ea201adc5c4d20d19640e2fffa",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "f7c550a39e48edba00e0b0611b8945b82a8f4ab8fb2d9db8d22478f2f57e9863",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/full-waterfront.webp"
+    },
+    {
+      "path": "media/v42/full-waterfront-160.webp",
+      "source": "Built-in ImageGen; supplied family lounge / existing park design and project brief as references",
+      "kind": "AI-assisted proposed development visualization",
+      "status": "Concept artwork; not documentary, engineering-certified or exact native render",
+      "view": "full-waterfront",
+      "dimensions": [
+        160,
+        90
+      ],
+      "bytes": 3010,
+      "sha256": "5a08bf2effca80092ab38efd11ef750ab81ddf322801c32e3448be3fa090a3a9",
+      "delivery": {
+        "format": "WebP",
+        "quality": 42,
+        "method": 6,
+        "role": "Small loading preview",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "f7c550a39e48edba00e0b0611b8945b82a8f4ab8fb2d9db8d22478f2f57e9863",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v4/full-waterfront.webp"
+    },
+    {
+      "path": "media/v42/community-v3-640.webp",
+      "source": "Built-in imagegen, guided by canonical13-element Blender-derived day/night concept and source-specific human views",
+      "kind": "Source-guided proposed waterfront visualisation",
+      "status": "Concept, not documentary photography or engineering-registered projection",
+      "view": "community-v3",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 76386,
+      "sha256": "bc55de8a16ac99c61454a9d48550737ed2b3d7ec78057b6203a6d484fa865f68",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "2948b2cc0de136257eabcb4b261605a08b49fe916f261f0162f31f8c088f85f2",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v3/community-v3.webp"
+    },
+    {
+      "path": "media/v42/community-v3-1280.webp",
+      "source": "Built-in imagegen, guided by canonical13-element Blender-derived day/night concept and source-specific human views",
+      "kind": "Source-guided proposed waterfront visualisation",
+      "status": "Concept, not documentary photography or engineering-registered projection",
+      "view": "community-v3",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 241334,
+      "sha256": "39fdc160af504ddd4384b238a044466938171738cd33f449b63aa43c8c9b038b",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "2948b2cc0de136257eabcb4b261605a08b49fe916f261f0162f31f8c088f85f2",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v3/community-v3.webp"
+    },
+    {
+      "path": "media/v42/community-v3-1672.webp",
+      "source": "Built-in imagegen, guided by canonical13-element Blender-derived day/night concept and source-specific human views",
+      "kind": "Source-guided proposed waterfront visualisation",
+      "status": "Concept, not documentary photography or engineering-registered projection",
+      "view": "community-v3",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 354526,
+      "sha256": "e5b52fb1f6f18c1422cde8103c6d26688ca407dca5b8a049b068734b1ae24f3c",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "2948b2cc0de136257eabcb4b261605a08b49fe916f261f0162f31f8c088f85f2",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v3/community-v3.webp"
+    },
+    {
+      "path": "media/v42/community-v3-160.webp",
+      "source": "Built-in imagegen, guided by canonical13-element Blender-derived day/night concept and source-specific human views",
+      "kind": "Source-guided proposed waterfront visualisation",
+      "status": "Concept, not documentary photography or engineering-registered projection",
+      "view": "community-v3",
+      "dimensions": [
+        160,
+        90
+      ],
+      "bytes": 3290,
+      "sha256": "215f4821d9d25d5c2cb5fd550131b701af9183fe50ae191e79de18e994562933",
+      "delivery": {
+        "format": "WebP",
+        "quality": 42,
+        "method": 6,
+        "role": "Small loading preview",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "2948b2cc0de136257eabcb4b261605a08b49fe916f261f0162f31f8c088f85f2",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v3/community-v3.webp"
+    },
+    {
+      "path": "media/v42/development-v3-640.webp",
+      "source": "Built-in imagegen, guided by canonical13-element Blender-derived day/night concept and source-specific human views",
+      "kind": "Source-guided proposed waterfront visualisation",
+      "status": "Concept, not documentary photography or engineering-registered projection",
+      "view": "development-v3",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 73040,
+      "sha256": "ef71ffc5c0f7577bca0faed4470fe0904f727ed214356e883cbdf292807ffecc",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "3bb7a2fe6445ee29be45e3af16ae44d64f8f39eae6d63eba0c338bdd29f943b8",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v3/development-v3.webp"
+    },
+    {
+      "path": "media/v42/development-v3-1280.webp",
+      "source": "Built-in imagegen, guided by canonical13-element Blender-derived day/night concept and source-specific human views",
+      "kind": "Source-guided proposed waterfront visualisation",
+      "status": "Concept, not documentary photography or engineering-registered projection",
+      "view": "development-v3",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 237170,
+      "sha256": "47965bf95c9b9a49835f6eeb0e49eca7f824b03151d42ba1e3d007b2c9923307",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "3bb7a2fe6445ee29be45e3af16ae44d64f8f39eae6d63eba0c338bdd29f943b8",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v3/development-v3.webp"
+    },
+    {
+      "path": "media/v42/development-v3-1672.webp",
+      "source": "Built-in imagegen, guided by canonical13-element Blender-derived day/night concept and source-specific human views",
+      "kind": "Source-guided proposed waterfront visualisation",
+      "status": "Concept, not documentary photography or engineering-registered projection",
+      "view": "development-v3",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 353434,
+      "sha256": "9566fe2e1d9f07027bb6977425acdfa0e844c736160718c504842bdee72fe98d",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "3bb7a2fe6445ee29be45e3af16ae44d64f8f39eae6d63eba0c338bdd29f943b8",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v3/development-v3.webp"
+    },
+    {
+      "path": "media/v42/development-v3-160.webp",
+      "source": "Built-in imagegen, guided by canonical13-element Blender-derived day/night concept and source-specific human views",
+      "kind": "Source-guided proposed waterfront visualisation",
+      "status": "Concept, not documentary photography or engineering-registered projection",
+      "view": "development-v3",
+      "dimensions": [
+        160,
+        90
+      ],
+      "bytes": 2934,
+      "sha256": "9ec87560e393f501eb98b8b4050738831bdabfd63c6caa8e47234548189a63b8",
+      "delivery": {
+        "format": "WebP",
+        "quality": 42,
+        "method": 6,
+        "role": "Small loading preview",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "3bb7a2fe6445ee29be45e3af16ae44d64f8f39eae6d63eba0c338bdd29f943b8",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v3/development-v3.webp"
+    },
+    {
+      "path": "media/v42/house/exterior-aerial-640.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/exterior-aerial",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 109214,
+      "sha256": "85fbadda52871018f4143b68ef5a9163b5bd8101df22b654fb2535720ed0ccb2",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "8faac15a1897770cc80e691e6d27db1475b31530bea6e718b703f2b821978101",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/exterior-aerial-1280.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/exterior-aerial",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 391404,
+      "sha256": "2b5e68a915551774ad1c5c642240cebe64844179d77a4f3b3b1da6d4d6933756",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "8faac15a1897770cc80e691e6d27db1475b31530bea6e718b703f2b821978101",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/exterior-aerial-1672.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/exterior-aerial",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 603250,
+      "sha256": "2bb0ecd8259aa18821be8bb3934b72b936470129379cc0f6b653f667f2bfc784",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "8faac15a1897770cc80e691e6d27db1475b31530bea6e718b703f2b821978101",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/exterior-garden-dusk-640.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/exterior-garden-dusk",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 76894,
+      "sha256": "26610fd21a4020c486f9f559c37cf1c48a01222086c9db47303f20c22713657d",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "9a23e11bef23c100e84a3c601c68e5dbc0e1289845b9f7742563b7e7b97febfb",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/exterior-garden-dusk-1280.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/exterior-garden-dusk",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 250626,
+      "sha256": "4083fa7c2c0ac5422af6e708e5dc5740345e8fe2acc674522c9aa692e0a30076",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "9a23e11bef23c100e84a3c601c68e5dbc0e1289845b9f7742563b7e7b97febfb",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/exterior-garden-dusk-1672.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/exterior-garden-dusk",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 373610,
+      "sha256": "523f8f191dfe681b9dfaed09107e6893ec28818a4e801170336f0da35ee8b710",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "9a23e11bef23c100e84a3c601c68e5dbc0e1289845b9f7742563b7e7b97febfb",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/exterior-seaward-640.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/exterior-seaward",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 81868,
+      "sha256": "b33ada71e1c3aab19af42c864d7b1134bf4913e9e566c751f719f5b585293b66",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "0501d200f64219ceb8d0309fa92730efa36b6e7dd1ddabe621d8a856bd2f4a6a",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/exterior-seaward-1280.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/exterior-seaward",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 268726,
+      "sha256": "1df6ccea9111d62fcae8004bdd11e2a485c09e70b21a07df362380931ba24dfe",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "0501d200f64219ceb8d0309fa92730efa36b6e7dd1ddabe621d8a856bd2f4a6a",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/exterior-seaward-1672.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/exterior-seaward",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 400524,
+      "sha256": "3cb741c21741eaa2410ccfd47bd8f56ad48f67e869849acb0be46551bc518967",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "0501d200f64219ceb8d0309fa92730efa36b6e7dd1ddabe621d8a856bd2f4a6a",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/exterior-seaward-160.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/exterior-seaward",
+      "dimensions": [
+        160,
+        90
+      ],
+      "bytes": 3204,
+      "sha256": "cc4ad5511c10436ac007a5d96874dc42ada490ba15699d9f0a5c5bd73e5a6210",
+      "delivery": {
+        "format": "WebP",
+        "quality": 42,
+        "method": 6,
+        "role": "Small loading preview",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "0501d200f64219ceb8d0309fa92730efa36b6e7dd1ddabe621d8a856bd2f4a6a",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/interior-living-640.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/interior-living",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 55720,
+      "sha256": "ca341f6c7968d0b15cd8c28b534087494f313189d0f182167c1432d05a085b42",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "23463cf6e5090d8699382a281bf01f9f6b2722ffdd55e535d879257b46653a18",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/interior-living-1280.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/interior-living",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 186232,
+      "sha256": "36f129120b8e5f7f79cd9ea1a80427da5375ca839c7b3251caebae82564c79ea",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "23463cf6e5090d8699382a281bf01f9f6b2722ffdd55e535d879257b46653a18",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/interior-living-1672.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/interior-living",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 281886,
+      "sha256": "4e374d5893a796104f5948883aaf020560c0a441bb51ab72b5334765430acd72",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "23463cf6e5090d8699382a281bf01f9f6b2722ffdd55e535d879257b46653a18",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/interior-living-160.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/interior-living",
+      "dimensions": [
+        160,
+        90
+      ],
+      "bytes": 2306,
+      "sha256": "470cdc9ff8855365453bc525ecb95debf15b15891260b35be8512a75726973c0",
+      "delivery": {
+        "format": "WebP",
+        "quality": 42,
+        "method": 6,
+        "role": "Small loading preview",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "23463cf6e5090d8699382a281bf01f9f6b2722ffdd55e535d879257b46653a18",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/interior-master-bath-640.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/interior-master-bath",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 53416,
+      "sha256": "706669e59f813c47f7ae59bd101d8182006a62c5312722c2e8b5ac341f4c1b0c",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "154ed0a049c7f6973789def3a6af002608cc722273872de93c4c0909aae5e9aa",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/interior-master-bath-1280.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/interior-master-bath",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 176558,
+      "sha256": "aec272d4e293374c0a2aa0ffdbd5f36b38c50b886909cfd2fc8a6c2dfd4163cb",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "154ed0a049c7f6973789def3a6af002608cc722273872de93c4c0909aae5e9aa",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/interior-master-bath-1672.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/interior-master-bath",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 265138,
+      "sha256": "c258030dd6c3d221ae70bafa44ef1a8f8b2c6c10c24a1ba176433e53101a8ed7",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "154ed0a049c7f6973789def3a6af002608cc722273872de93c4c0909aae5e9aa",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/interior-master-640.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/interior-master",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 50542,
+      "sha256": "b31b2c06749dfe41372b35b1f26910a98bf82dedd2e513ef942994429a80ea13",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "cdb8020dfdf2907bbbb097521a81e0414b3cbd66dd6e78769045eb7e09fdd725",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/interior-master-1280.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/interior-master",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 169314,
+      "sha256": "6f78380e2dbce2b14177eae507b6d6a695205b6a0db824c7a45f9c7758cb934b",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "cdb8020dfdf2907bbbb097521a81e0414b3cbd66dd6e78769045eb7e09fdd725",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/interior-master-1672.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/interior-master",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 251860,
+      "sha256": "2a287971d8d7317e20aab096b7c1cc5f263cf9f94cf02db2237ae408c6203722",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "cdb8020dfdf2907bbbb097521a81e0414b3cbd66dd6e78769045eb7e09fdd725",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/interior-shower-640.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/interior-shower",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 43176,
+      "sha256": "a48ebac8dad9667c25f228d90fd933377ab9037d0affd49b3d772642c0f5c299",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "f6a18bd3a630fc30729dc17e8078c270fdfc7eba94deaac6dd58c8351a452e6e",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/interior-shower-1280.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/interior-shower",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 149900,
+      "sha256": "a422b590561a64d8ebeaa81095ab6cce090f7a698bf7c30a458ec124762d8818",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "f6a18bd3a630fc30729dc17e8078c270fdfc7eba94deaac6dd58c8351a452e6e",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/interior-shower-1672.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/interior-shower",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 227556,
+      "sha256": "9544cd8b059dc5501d8b251827f8f5c9fa9428d9d847f556f69833aa35d123cf",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "f6a18bd3a630fc30729dc17e8078c270fdfc7eba94deaac6dd58c8351a452e6e",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/interior-twin-640.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/interior-twin",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 55036,
+      "sha256": "bf2a14c2fe2a2223641d99d109b979cd74bbb1afb77fecda0dcdab92f83a864e",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "23bb2eb7402903242001e0f5db86220bdf756847f4197c5db47485fe2e6dc26b",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/interior-twin-1280.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/interior-twin",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 188598,
+      "sha256": "57e16506f5d317e33258e0a30afff83e7e43219846073fc29c7025a74a76cb9d",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "23bb2eb7402903242001e0f5db86220bdf756847f4197c5db47485fe2e6dc26b",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/house/interior-twin-1672.webp",
+      "source": "Built-in ImageGen; project family-house brief and established coastal lodge visual references",
+      "kind": "AI-assisted family-house concept visualization",
+      "status": "Proposed design perspective; not documentary photography, a coordinated BIM model or engineering-certified plan",
+      "view": "house/interior-twin",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 283990,
+      "sha256": "4de98e115156fd1a1f7768e21f95fa75db8fc156fc42e61f6757df22804ed76e",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "23bb2eb7402903242001e0f5db86220bdf756847f4197c5db47485fe2e6dc26b",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      }
+    },
+    {
+      "path": "media/v42/territory-day-640.webp",
+      "source": "Canonical13-zone project Blender scene with imagegen art direction",
+      "kind": "Source-guided architectural concept visualisation",
+      "status": "Relative13-zone programme preserved; camera/landscape and carousel locally art-directed, not pixel-identical engineering or as-built geometry",
+      "view": "territory-day",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 85434,
+      "sha256": "c833d77b365432250c3879887ed3258e81e6165e3ebaf163f3bd37e0ccb5d01f",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "19a382dcbfd92a13416f4984889ae6b7c3b30fc080ba5d29115f682d81cae4bc",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v3/territory-day.webp"
+    },
+    {
+      "path": "media/v42/territory-day-1280.webp",
+      "source": "Canonical13-zone project Blender scene with imagegen art direction",
+      "kind": "Source-guided architectural concept visualisation",
+      "status": "Relative13-zone programme preserved; camera/landscape and carousel locally art-directed, not pixel-identical engineering or as-built geometry",
+      "view": "territory-day",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 271136,
+      "sha256": "690037453435b553296d5f9feee83157794ac1870457a4092048124f05793e1e",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "19a382dcbfd92a13416f4984889ae6b7c3b30fc080ba5d29115f682d81cae4bc",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v3/territory-day.webp"
+    },
+    {
+      "path": "media/v42/territory-day-1672.webp",
+      "source": "Canonical13-zone project Blender scene with imagegen art direction",
+      "kind": "Source-guided architectural concept visualisation",
+      "status": "Relative13-zone programme preserved; camera/landscape and carousel locally art-directed, not pixel-identical engineering or as-built geometry",
+      "view": "territory-day",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 386424,
+      "sha256": "accde51adbed66a0ffde83bd5c9fdaf560f006cab2c2e6810b7bdbd4702eff8a",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "19a382dcbfd92a13416f4984889ae6b7c3b30fc080ba5d29115f682d81cae4bc",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v3/territory-day.webp"
+    },
+    {
+      "path": "media/v42/territory-night-640.webp",
+      "source": "Canonical13-zone project Blender scene with imagegen art direction",
+      "kind": "Source-guided architectural concept visualisation",
+      "status": "Relative13-zone programme preserved; camera/landscape and carousel locally art-directed, not pixel-identical engineering or as-built geometry",
+      "view": "territory-night",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 70304,
+      "sha256": "c76914bf6c39800f6597ec1539bdc87692481a4cd2512f6d77b7045bb671491b",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "8252c10922a864b42c8f702976e8216173383655df020b560965fc9ed15757ae",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v3/territory-night.webp"
+    },
+    {
+      "path": "media/v42/territory-night-1280.webp",
+      "source": "Canonical13-zone project Blender scene with imagegen art direction",
+      "kind": "Source-guided architectural concept visualisation",
+      "status": "Relative13-zone programme preserved; camera/landscape and carousel locally art-directed, not pixel-identical engineering or as-built geometry",
+      "view": "territory-night",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 197212,
+      "sha256": "d21713d10247a48d0d6c1e035412d8218a2f834a873d21883ecd3888a2cb15a0",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "8252c10922a864b42c8f702976e8216173383655df020b560965fc9ed15757ae",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v3/territory-night.webp"
+    },
+    {
+      "path": "media/v42/territory-night-1672.webp",
+      "source": "Canonical13-zone project Blender scene with imagegen art direction",
+      "kind": "Source-guided architectural concept visualisation",
+      "status": "Relative13-zone programme preserved; camera/landscape and carousel locally art-directed, not pixel-identical engineering or as-built geometry",
+      "view": "territory-night",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 276404,
+      "sha256": "34968082075951bc5529bde750517595dda081208b80f92853254629a6c8439d",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1672,
+          941
+        ],
+        "sourceSha256": "8252c10922a864b42c8f702976e8216173383655df020b560965fc9ed15757ae",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v3/territory-night.webp"
+    },
+    {
+      "path": "media/v42/wheel-cinematic-poster-640.webp",
+      "source": "Project-owned Blender5.2.1 production; generated proposed coastal background",
+      "kind": "Finished rendered concept still",
+      "status": "129 native static parts plus authored rotor/cabins; not complete as-built geometry or an engineering erection sequence",
+      "view": "wheel-cinematic-poster",
+      "dimensions": [
+        640,
+        360
+      ],
+      "bytes": 41112,
+      "sha256": "9588558d3465e942d3db45815b68efa7bffd2027b94dd31532c6de2967fd850d",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1920,
+          1080
+        ],
+        "sourceSha256": "311292e7f613980f47faa45d4cfb4477c8cba0427ca2aee38e77029b45530dc2",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v3/wheel-cinematic-poster.webp"
+    },
+    {
+      "path": "media/v42/wheel-cinematic-poster-1280.webp",
+      "source": "Project-owned Blender5.2.1 production; generated proposed coastal background",
+      "kind": "Finished rendered concept still",
+      "status": "129 native static parts plus authored rotor/cabins; not complete as-built geometry or an engineering erection sequence",
+      "view": "wheel-cinematic-poster",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 128878,
+      "sha256": "7cc4305e8b90427d80f461a9e3d835d31fed4b23a171229e314019e9a9d70f47",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1920,
+          1080
+        ],
+        "sourceSha256": "311292e7f613980f47faa45d4cfb4477c8cba0427ca2aee38e77029b45530dc2",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v3/wheel-cinematic-poster.webp"
+    },
+    {
+      "path": "media/v42/wheel-cinematic-poster-1920.webp",
+      "source": "Project-owned Blender5.2.1 production; generated proposed coastal background",
+      "kind": "Finished rendered concept still",
+      "status": "129 native static parts plus authored rotor/cabins; not complete as-built geometry or an engineering erection sequence",
+      "view": "wheel-cinematic-poster",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "bytes": 231572,
+      "sha256": "83901e8f91cf8f6172e42af1e1986df191334eb6f0e92bd21bd962ec029a8c6a",
+      "delivery": {
+        "format": "WebP",
+        "quality": 86,
+        "method": 6,
+        "role": "Responsive display variant",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1920,
+          1080
+        ],
+        "sourceSha256": "311292e7f613980f47faa45d4cfb4477c8cba0427ca2aee38e77029b45530dc2",
+        "conversion": "Encoded from the preserved original PNG; Lanczos resize where smaller; no crop or upscale",
+        "manifest": "media/v42/images.json"
+      },
+      "sameArtworkAs": "media/v3/wheel-cinematic-poster.webp"
+    },
+    {
+      "path": "media/v42/wheel-cinematic-540.webm",
+      "source": "Preserved native 1920x1080 PNG render sequence with the accepted 13-second assembly and operating-wheel timeline",
+      "kind": "Rendered conceptual film; AV1 Main 8-bit WebM",
+      "status": "Illustrative proposed setting and assembly sequence, not an engineering construction method or as-built record",
+      "dimensions": [
+        960,
+        540
+      ],
+      "durationSeconds": 13.0,
+      "fps": 30,
+      "frames": 390,
+      "audio": false,
+      "mimeType": "video/webm; codecs=\"av01.0.04M.08\"",
+      "bytes": 856955,
+      "sha256": "ccc5d3e60c09c17be872b2e5d038e7ea40f89f067535b79d21c00dd20bbab20b",
+      "delivery": {
+        "manifest": "media/v42/video-manifest.json",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1920,
+          1080
+        ],
+        "conversion": "Encoded from preserved native frames and accepted timeline, not transcoded or upscaled from compressed 720p delivery",
+        "compatibilityFallback": "media/v41/wheel-cinematic-540.mp4",
+        "capabilityPolicy": "AV1 only where browser support and smooth decoding are reported; narrow-screen devices also require reported power efficiency",
+        "firstPacketOffsetBytes": 5093,
+        "bytesThrough1_2Seconds": 99553,
+        "fullFileDecode": "Passed locally; this does not establish browser or network performance"
+      }
+    },
+    {
+      "path": "media/v42/wheel-cinematic-720.webm",
+      "source": "Preserved native 1920x1080 PNG render sequence with the accepted 13-second assembly and operating-wheel timeline",
+      "kind": "Rendered conceptual film; AV1 Main 8-bit WebM",
+      "status": "Illustrative proposed setting and assembly sequence, not an engineering construction method or as-built record",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "durationSeconds": 13.0,
+      "fps": 30,
+      "frames": 390,
+      "audio": false,
+      "mimeType": "video/webm; codecs=\"av01.0.05M.08\"",
+      "bytes": 1312382,
+      "sha256": "21df226c418abc6bda3c3c02419f9ad779cd8f1cec6dea9092adc73007fc8814",
+      "delivery": {
+        "manifest": "media/v42/video-manifest.json",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1920,
+          1080
+        ],
+        "conversion": "Encoded from preserved native frames and accepted timeline, not transcoded or upscaled from compressed 720p delivery",
+        "compatibilityFallback": "media/v41/wheel-cinematic-720.mp4",
+        "capabilityPolicy": "AV1 only where browser support and smooth decoding are reported; narrow-screen devices also require reported power efficiency",
+        "firstPacketOffsetBytes": 5093,
+        "bytesThrough1_2Seconds": 147070,
+        "fullFileDecode": "Passed locally; this does not establish browser or network performance"
+      }
+    },
+    {
+      "path": "media/v42/wheel-cinematic-1080.webm",
+      "source": "Preserved native 1920x1080 PNG render sequence with the accepted 13-second assembly and operating-wheel timeline",
+      "kind": "Rendered conceptual film; AV1 Main 8-bit WebM",
+      "status": "Illustrative proposed setting and assembly sequence, not an engineering construction method or as-built record",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "durationSeconds": 13.0,
+      "fps": 30,
+      "frames": 390,
+      "audio": false,
+      "mimeType": "video/webm; codecs=\"av01.0.08M.08\"",
+      "bytes": 2299927,
+      "sha256": "759a4e395a49b86014149b808996c6e29acea15fb61ac467ed56211f731c3708",
+      "delivery": {
+        "manifest": "media/v42/video-manifest.json",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1920,
+          1080
+        ],
+        "conversion": "Encoded from preserved native frames and accepted timeline, not transcoded or upscaled from compressed 720p delivery",
+        "compatibilityFallback": "media/v41/wheel-cinematic-1080.mp4",
+        "capabilityPolicy": "AV1 only where browser support and smooth decoding are reported; narrow-screen devices also require reported power efficiency",
+        "firstPacketOffsetBytes": 5093,
+        "bytesThrough1_2Seconds": 238197,
+        "fullFileDecode": "Passed locally; this does not establish browser or network performance"
+      }
+    },
+    {
+      "path": "media/v42/masterplan-cinematic-540.webm",
+      "source": "Preserved native 1920x1080 PNG construction sequence with the accepted day/night concept-art dissolve and 10-second timeline",
+      "kind": "Rendered conceptual film; AV1 Main 8-bit WebM",
+      "status": "Illustrative proposed setting and assembly sequence, not an engineering construction method or as-built record",
+      "dimensions": [
+        960,
+        540
+      ],
+      "durationSeconds": 10.0,
+      "fps": 30,
+      "frames": 300,
+      "audio": false,
+      "mimeType": "video/webm; codecs=\"av01.0.04M.08\"",
+      "bytes": 803987,
+      "sha256": "7e8c78891b70e5eddb7d41649718a1f4a244b6c8b3fffe1e91801e7f383642af",
+      "delivery": {
+        "manifest": "media/v42/video-manifest.json",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1920,
+          1080
+        ],
+        "conversion": "Encoded from preserved native frames and accepted timeline, not transcoded or upscaled from compressed 720p delivery",
+        "compatibilityFallback": "media/v41/masterplan-cinematic-540.mp4",
+        "capabilityPolicy": "AV1 only where browser support and smooth decoding are reported; narrow-screen devices also require reported power efficiency",
+        "firstPacketOffsetBytes": 5097,
+        "bytesThrough1_2Seconds": 53380,
+        "fullFileDecode": "Passed locally; this does not establish browser or network performance"
+      }
+    },
+    {
+      "path": "media/v42/masterplan-cinematic-720.webm",
+      "source": "Preserved native 1920x1080 PNG construction sequence with the accepted day/night concept-art dissolve and 10-second timeline",
+      "kind": "Rendered conceptual film; AV1 Main 8-bit WebM",
+      "status": "Illustrative proposed setting and assembly sequence, not an engineering construction method or as-built record",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "durationSeconds": 10.0,
+      "fps": 30,
+      "frames": 300,
+      "audio": false,
+      "mimeType": "video/webm; codecs=\"av01.0.05M.08\"",
+      "bytes": 1500871,
+      "sha256": "46d11941d7b6f45b5935d0a84973c5a42e4bb1fcc0604467fa2687fa01ac865c",
+      "delivery": {
+        "manifest": "media/v42/video-manifest.json",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1920,
+          1080
+        ],
+        "conversion": "Encoded from preserved native frames and accepted timeline, not transcoded or upscaled from compressed 720p delivery",
+        "compatibilityFallback": "media/v41/masterplan-cinematic-720.mp4",
+        "capabilityPolicy": "AV1 only where browser support and smooth decoding are reported; narrow-screen devices also require reported power efficiency",
+        "firstPacketOffsetBytes": 5097,
+        "bytesThrough1_2Seconds": 113218,
+        "fullFileDecode": "Passed locally; this does not establish browser or network performance"
+      }
+    },
+    {
+      "path": "media/v42/masterplan-cinematic-1080.webm",
+      "source": "Preserved native 1920x1080 PNG construction sequence with the accepted day/night concept-art dissolve and 10-second timeline",
+      "kind": "Rendered conceptual film; AV1 Main 8-bit WebM",
+      "status": "Illustrative proposed setting and assembly sequence, not an engineering construction method or as-built record",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "durationSeconds": 10.0,
+      "fps": 30,
+      "frames": 300,
+      "audio": false,
+      "mimeType": "video/webm; codecs=\"av01.0.08M.08\"",
+      "bytes": 2554830,
+      "sha256": "9143739e850625fdcb33679368f38b9e8b818b09764353e68e81d1cc5b37abec",
+      "delivery": {
+        "manifest": "media/v42/video-manifest.json",
+        "sourceFormat": "PNG",
+        "sourceDimensions": [
+          1920,
+          1080
+        ],
+        "conversion": "Encoded from preserved native frames and accepted timeline, not transcoded or upscaled from compressed 720p delivery",
+        "compatibilityFallback": "media/v41/masterplan-cinematic-1080.mp4",
+        "capabilityPolicy": "AV1 only where browser support and smooth decoding are reported; narrow-screen devices also require reported power efficiency",
+        "firstPacketOffsetBytes": 5097,
+        "bytesThrough1_2Seconds": 197471,
+        "fullFileDecode": "Passed locally; this does not establish browser or network performance"
+      }
+    },
+    {
+      "path": "media/v42/images.json",
+      "source": "Measured dimensions and file receipts for 18 image compositions and 63 public variants",
+      "kind": "Responsive WebP delivery manifest",
+      "status": "Public delivery metadata only; source files remain private",
+      "bytes": 21452,
+      "sha256": "8bf08b25a668c93ee37d314b66c53478ace380938cf48323b95bdf59f617bfd4"
+    },
+    {
+      "path": "media/v42/video-manifest.json",
+      "source": "Measured codec, duration, dimensions, byte offsets and file receipts for the two accepted film timelines",
+      "kind": "AV1 and H.264 film delivery manifest",
+      "status": "Public delivery metadata only; source files remain private",
+      "bytes": 7421,
+      "sha256": "5130bbab13a398d0c8b2396a1b7c93deaae292b41b6da9fbdbac700bb94bae68"
+    }
+  ],
+  "pathBase": "Asset paths are relative to this manifest URL."
+}

@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "preparedOn": "2026-10-02",
+  "timezone": "Asia/Dubai",
+  "status": "four_profiles_applied_three_public_videos_snapchat_video_blocked",
+  "languageDecision": "Arabic + English confirmed by user; Arabic first and English second.",
+  "arabicReview": "Meaning checked by drafting agent; native-speaker review not performed",
+  "brand": {
+    "displayName": "Salalah Eye | عين صلالة",
+    "taglineAr": "صلالة من منظور جديد",
+    "taglineEn": "Salalah from a new perspective",
+    "ctaAr": "تعال واستمتع بإطلالة على صلالة من الأعلى مع عين صلالة.",
+    "ctaEn": "Come and see Salalah from a bird’s-eye view with Salalah Eye."
+  },
+  "instagram": {
+    "target": "https://www.instagram.com/eyesalalah/",
+    "preserveHandle": "eyesalalah",
+    "bio": "عين صلالة 🎡\nشاهد صلالة من منظور جديد\nSee Salalah from a new perspective.\nصلالة، عُمان | Salalah, Oman\nsalalaheye.om",
+    "bioWorkingBudget": 150,
+    "bioLimitVerification": "Live editor observed by root: saved 116/150 including plain website text.",
+    "firstPostAr": "صلالة كما لم ترها من قبل. 🎡\n\nنظرة أولى على عين صلالة، ومنظور جديد للمدينة.\nتعال واستمتع بإطلالة على صلالة من الأعلى مع عين صلالة.\n\nاحفظ المقطع لزيارتك القادمة إلى صلالة.",
+    "firstPostEn": "See Salalah from a whole new angle. 🎡\n\nYour first look at Salalah Eye and a new perspective on the city.\nCome and see Salalah from a bird’s-eye view with Salalah Eye.\n\nSave this for your next visit to Salalah.",
+    "hashtags": [
+      "#عين_صلالة",
+      "#SalalahEye",
+      "#صلالة",
+      "#Salalah",
+      "#Oman"
+    ],
+    "coverAr": "صلالة من الأعلى",
+    "coverEn": "SALALAH FROM ABOVE",
+    "highlights": [
+      {
+        "ar": "الإطلالة",
+        "en": "Views",
+        "gate": "real source photographs/video"
+      },
+      {
+        "ar": "عين صلالة",
+        "en": "The Wheel",
+        "gate": "real source photographs/video"
+      },
+      {
+        "ar": "خطط لزيارتك",
+        "en": "Visit",
+        "gate": "verified location/hours/contact required"
+      },
+      {
+        "ar": "أسئلتكم",
+        "en": "FAQ",
+        "gate": "answers confirmed by operator"
+      }
+    ],
+    "bioUtf16Length": 116,
+    "websiteLink": "https://salalaheye.om/",
+    "mapLink": "https://maps.app.goo.gl/wUrPWsg8K5au6Z53A",
+    "visitCtaAr": "الموقع الرسمي وخريطة الوصول في روابط الملف الشخصي.",
+    "visitCtaEn": "Find the official website and directions in our profile links.",
+    "visitCtaGate": "Do not append yet: clickable profile website/map links were not saved via web; mobile action remains.",
+    "firstPostCombined": "صلالة كما لم ترها من قبل. 🎡\n\nنظرة أولى على عين صلالة، ومنظور جديد للمدينة.\nتعال واستمتع بإطلالة على صلالة من الأعلى مع عين صلالة.\n\nاحفظ المقطع لزيارتك القادمة إلى صلالة.\n\nSee Salalah from a whole new angle. 🎡\n\nYour first look at Salalah Eye and a new perspective on the city.\nCome and see Salalah from a bird’s-eye view with Salalah Eye.\n\nSave this for your next visit to Salalah.\n\n#عين_صلالة #SalalahEye #صلالة #Salalah #Oman",
+    "profileStatus": "avatar_and_bio_applied",
+    "websiteLinkStatus": "Plain salalaheye.om in bio; clickable profile website editor requires mobile app.",
+    "firstPublication": {
+      "status": "published",
+      "url": "https://www.instagram.com/eyesalalah/reel/Dd_SpB9pSol/",
+      "postId": "Dd_SpB9pSol",
+      "reportedDate": "2026-10-02",
+      "evidence": "previews/instagram-published-proof.jpg"
+    }
+  },
+  "facebook": {
+    "target": "https://www.facebook.com/profile.php?id=61595195120290",
+    "identityGate": "Verified personal profile 61595195120290; preserve profile type, not a Page.",
+    "bio": "شاهد صلالة من الأعلى 🎡\nSee Salalah from above.\nصلالة، عُمان | Salalah, Oman",
+    "bioWorkingBudget": 100,
+    "bioLimitVerification": "Conservative working budget only; account-specific editor is authoritative",
+    "aboutAr": "عين صلالة — صلالة من منظور جديد. تابع لقطات عجلة عين صلالة والإطلالات من الأعلى في صلالة، عُمان.",
+    "aboutEn": "Salalah Eye — Salalah from a new perspective. Follow views of the wheel and Salalah from above, in Salalah, Oman.",
+    "firstPostAr": "صلالة كما لم ترها من قبل. 🎡\n\nاكتشف عين صلالة في هذا المقطع، وشاهد المدينة من منظور جديد.\nتعال واستمتع بإطلالة على صلالة من الأعلى مع عين صلالة.\n\nشارك المقطع مع من تود أن يرافقك.\n\nالموقع الرسمي: https://salalaheye.om/\nالموقع على الخريطة: https://maps.app.goo.gl/wUrPWsg8K5au6Z53A",
+    "firstPostEn": "See Salalah from a whole new angle. 🎡\n\nDiscover Salalah Eye in this first look and see the city from a new perspective.\nCome and see Salalah from a bird’s-eye view with Salalah Eye.\n\nShare this with someone you’d bring along.\n\nOfficial website: https://salalaheye.om/\nFind us: https://maps.app.goo.gl/wUrPWsg8K5au6Z53A",
+    "hashtags": [
+      "#عين_صلالة",
+      "#SalalahEye",
+      "#Salalah"
+    ],
+    "bioUtf16Length": 76,
+    "websiteLink": "https://salalaheye.om/",
+    "mapLink": "https://maps.app.goo.gl/wUrPWsg8K5au6Z53A",
+    "firstPostCombined": "صلالة كما لم ترها من قبل. 🎡\n\nاكتشف عين صلالة في هذا المقطع، وشاهد المدينة من منظور جديد.\nتعال واستمتع بإطلالة على صلالة من الأعلى مع عين صلالة.\n\nشارك المقطع مع من تود أن يرافقك.\n\nSee Salalah from a whole new angle. 🎡\n\nDiscover Salalah Eye in this first look and see the city from a new perspective.\nCome and see Salalah from a bird’s-eye view with Salalah Eye.\n\nShare this with someone you’d bring along.\n\nالموقع الرسمي | Official website: https://salalaheye.om/\nالموقع على الخريطة | Find us: https://maps.app.goo.gl/wUrPWsg8K5au6Z53A\n\n#عين_صلالة #SalalahEye #Salalah",
+    "profileStatus": "avatar_bio_cover_and_public_website_saved_and_read_back",
+    "firstPublication": {
+      "status": "public_verified",
+      "url": "https://www.facebook.com/reel/933835899407249",
+      "postId": "933835899407249",
+      "method": "Instagram crosspost",
+      "caption": "Same bilingual caption as Instagram; prepared Facebook-specific draft below not used for this crosspost",
+      "location": "Hafa Beach",
+      "reportedDate": "2026-10-02",
+      "evidence": "previews/facebook-reel-published-proof.jpg"
+    }
+  },
+  "youtube": {
+    "channelId": "UCCMp_lezD2sZhgYKPtqCQRw",
+    "target": "https://www.youtube.com/channel/UCCMp_lezD2sZhgYKPtqCQRw",
+    "studio": "https://studio.youtube.com/channel/UCCMp_lezD2sZhgYKPtqCQRw/editing/profile",
+    "descriptionAr": "عين صلالة — صلالة من منظور جديد.\nلقطات لعجلة عين صلالة وإطلالات على المدينة من الأعلى، في صلالة، عُمان.\nاشترك واكتشف صلالة من زاوية جديدة.",
+    "descriptionEn": "Salalah Eye — Salalah from a new perspective.\nViews of the Salalah Eye wheel and the city from above, in Salalah, Oman.\nSubscribe and discover a new angle on Salalah.",
+    "channelDescriptionWorkingBudget": 1000,
+    "channelDescriptionLimitVerification": "Description accepted and saved by root; numeric maximum not independently captured",
+    "firstTitle": "صلالة من الأعلى 🎡 Salalah from Above | Salalah Eye",
+    "titleLimit": 100,
+    "videoDescriptionLimit": 5000,
+    "firstPostAr": "صلالة كما لم ترها من قبل. 🎡\n\nهذه نظرتك الأولى إلى عين صلالة في عُمان.\nتعال واستمتع بإطلالة على صلالة من الأعلى مع عين صلالة.\n\nاشترك لمشاهدة المزيد من إطلالات صلالة.\n\nالموقع الرسمي: https://salalaheye.om/\nالموقع على الخريطة: https://maps.app.goo.gl/wUrPWsg8K5au6Z53A",
+    "firstPostEn": "See Salalah from a whole new angle. 🎡\n\nYour first look at Salalah Eye in Oman.\nCome and see Salalah from a bird’s-eye view with Salalah Eye.\n\nSubscribe for more views of Salalah.\n\nOfficial website: https://salalaheye.om/\nFind us: https://maps.app.goo.gl/wUrPWsg8K5au6Z53A",
+    "hashtags": [
+      "#SalalahEye",
+      "#صلالة",
+      "#Salalah"
+    ],
+    "playlistAr": "صلالة من الأعلى",
+    "playlistEn": "Salalah from Above",
+    "audienceRecommendation": "General travel audience; select Not made for kids only after reviewing actual content",
+    "links": [
+      {
+        "label": "Official website",
+        "url": "https://salalaheye.om/"
+      },
+      {
+        "label": "Find us",
+        "url": "https://maps.app.goo.gl/wUrPWsg8K5au6Z53A"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/eyesalalah/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=61595195120290"
+      }
+    ],
+    "titleUtf16Length": 51,
+    "channelDescriptionUtf16Length": 306,
+    "firstPostCombined": "صلالة كما لم ترها من قبل. 🎡\n\nهذه نظرتك الأولى إلى عين صلالة في عُمان.\nتعال واستمتع بإطلالة على صلالة من الأعلى مع عين صلالة.\n\nاشترك لمشاهدة المزيد من إطلالات صلالة.\n\nSee Salalah from a whole new angle. 🎡\n\nYour first look at Salalah Eye in Oman.\nCome and see Salalah from a bird’s-eye view with Salalah Eye.\n\nSubscribe for more views of Salalah.\n\nالموقع الرسمي | Official website: https://salalaheye.om/\nالموقع على الخريطة | Find us: https://maps.app.goo.gl/wUrPWsg8K5au6Z53A\n\n#SalalahEye #صلالة #Salalah",
+    "profileStatus": "bilingual_name_description_avatar_banner_and_four_profile_links_saved",
+    "firstPublication": {
+      "status": "published",
+      "visibility": "Public",
+      "url": "https://youtu.be/b1-AwtPmrdc",
+      "postId": "b1-AwtPmrdc",
+      "reportedDate": "2026-10-02",
+      "evidence": "previews/youtube-published-proof.jpg",
+      "copyrightCheck": "No issues reported in UI",
+      "captions": "Burned-in AR+EN present",
+      "limitations": [
+        "Custom thumbnail requires phone verification",
+        "Active video external links require verification"
+      ]
+    }
+  },
+  "snapchat": {
+    "suppliedUrl": "https://accounts.snapchat.com/v2/welcome",
+    "publishingEntry": "https://profile.snapchat.com/",
+    "publicIdentity": "https://www.snapchat.com/@salalaheye",
+    "observedUsername": "salalaheye",
+    "observedUsernameEvidence": "Initially login screenshot; later authenticated account and successful Public Profile creation verified by root.",
+    "identityGate": "Authenticated salalaheye; Public Profile created after user accepted terms; metadata saved and read back.",
+    "bio": "شاهد صلالة من الأعلى 🎡 | See Salalah from above. | صلالة، عُمان · Salalah, Oman",
+    "bioWorkingBudget": 150,
+    "bioLimitVerification": "Saved and read back by root; numeric maximum not independently recorded.",
+    "firstPostAr": "صلالة كما لم ترها من قبل. 🎡\nتعال واستمتع بإطلالة على صلالة من الأعلى مع عين صلالة.",
+    "firstPostEn": "See Salalah from a whole new angle. 🎡\nCome and see Salalah from a bird’s-eye view with Salalah Eye.",
+    "shortCaptionAr": "صلالة من الأعلى 🎡 اكتشف عين صلالة",
+    "shortCaptionEn": "Salalah from above 🎡 Discover Salalah Eye",
+    "topics": [
+      "Salalah",
+      "Oman"
+    ],
+    "storyPanels": [
+      {
+        "ar": "صلالة كما لم ترها من قبل",
+        "en": "See Salalah from a whole new angle"
+      },
+      {
+        "ar": "اكتشف عين صلالة",
+        "en": "Discover Salalah Eye"
+      },
+      {
+        "ar": "تعال وشاهد صلالة من الأعلى",
+        "en": "Come and see Salalah from above"
+      }
+    ],
+    "bioUtf16Length": 80,
+    "websiteLink": "https://salalaheye.om/",
+    "mapLink": "https://maps.app.goo.gl/wUrPWsg8K5au6Z53A",
+    "authenticatedUsername": "salalaheye",
+    "profileStatus": "applied_and_read_back",
+    "termsStatus": "User explicitly accepted; Create Public Profile succeeded",
+    "firstPublication": {
+      "status": "not_published_blocked",
+      "url": null,
+      "blockingStep": "Paid Partnership disables Post with No approved brands yet; later authoritative toast PERMISSION_DENIED: Organization not spend ready.",
+      "serverDraft": "Unverified: file prepared in web form does not prove saved server draft",
+      "evidence": "previews/snapchat-upload-blocked-proof.jpg"
+    },
+    "commercialDisclosure": {
+      "source": "https://www.snap.com/terms/commercial-content?lang=en-US",
+      "effectiveDate": "2026-07-02",
+      "requirement": "Own-business promotional content must identify commercial nature and promoted brand and use Snap paid partnership tool",
+      "paidAds": "No ad account, billing or promotion created.",
+      "applicationStatus": "Required label attempted in web form; Post blocked. No successful publication."
+    },
+    "appliedMetadata": {
+      "status": "Saved and read back by root",
+      "displayName": "Salalah Eye | عين صلالة",
+      "bio": "شاهد صلالة من الأعلى 🎡 | See Salalah from above. | صلالة، عُمان · Salalah, Oman",
+      "category": "Business",
+      "location": "Salalah, Dhofar, Oman",
+      "website": "https://salalaheye.om/",
+      "avatar": "brand/avatar-1080.png",
+      "hero": "video/exports/salalah-eye-cover-vertical.jpg",
+      "publicProfileUrl": "https://www.snapchat.com/@salalaheye"
+    },
+    "firstPostCombined": "صلالة كما لم ترها من قبل 🎡 تعال وشاهد صلالة من الأعلى.\nSee Salalah like never before. Come for a bird’s-eye view. #SalalahEye #صلالة",
+    "firstHeadline": "صلالة من الأعلى | Salalah from above",
+    "firstPostUtf16Length": 133,
+    "mobileHandoff": {
+      "document": "snapchat-handoff.md",
+      "officialSource": "https://help.snapchat.com/hc/en-gb/articles/18418085836948-How-do-I-label-my-sponsored-content-as-a-Paid-Partnership",
+      "status": "Proposed official mobile workflow; not tested in account"
+    }
+  },
+  "editorialConstraints": [
+    "Do not publish prices, opening hours, operating dates, exact height, accessibility, duration or facilities without current evidence.",
+    "Do not use the investor presentation as a visitor booking link.",
+    "Never treat generated sunset/night versions as documentary evidence of actual lighting or operating hours.",
+    "Do not translate unapproved business claims into Arabic or English.",
+    "Prepared copy is not evidence of publication. Applied fields and actual publication receipts are recorded separately; Snapchat video remains unpublished."
+  ],
+  "visitorLinks": {
+    "website": "https://salalaheye.om/",
+    "maps": "https://maps.app.goo.gl/wUrPWsg8K5au6Z53A",
+    "websiteVerified": "Live public page read 2026-10-02",
+    "mapVerification": "Verified 2026-10-02: HTTP 200 redirect to Google Maps place Salalah Eye Hafa Beach at 17.0003048, 54.1051167; use original short URL, not tracking redirect",
+    "hours": "Website shows 14:00–00:00 in Khareef-2026 seasonal context and mixes future opening text with open-now; not confirmed current for October",
+    "booking": "Website links to MyTicket; no checkout or date availability verified; link the official visitor website.",
+    "mapPlaceName": "Salalah Eye Hafa Beach",
+    "mapCoordinates": {
+      "latitude": 17.0003048,
+      "longitude": 54.1051167
+    }
+  },
+  "accessStatus": "Authenticated Chrome verified by root; all four profiles applied and read back; IG/FB/YT first videos Public; Snapchat web publication blocked.",
+  "currentStatusSource": "Root verified browser reports on 2026-10-02; later details in ../publication-ledger.json"
+}

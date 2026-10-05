@@ -146,6 +146,57 @@
       "status": "active",
       "verified": "2026-10-05",
       "visibility": "public"
+    },
+    {
+      "id": "salalah-eye-social-moodboard",
+      "name": {
+        "ar": "عين صلالة — لوحة إلهام التواصل الاجتماعي",
+        "en": "Salalah Eye — Social Media Moodboard"
+      },
+      "summary": {
+        "ar": "الهوية البصرية ومراجع الصور والفيديو والنصوص وخطة المحتوى.",
+        "en": "Visual identity, photo and video references, copy and content plan."
+      },
+      "kind": "website",
+      "group": "ppdc",
+      "status": "live",
+      "verified": "2026-10-05",
+      "visibility": "public",
+      "url": "https://khalidmahrooqi-design.github.io/project-catalogue/projects/salalah-eye-social-moodboard/"
+    },
+    {
+      "id": "salalah-eye",
+      "name": {
+        "ar": "عين صلالة — تصور الواجهة البحرية",
+        "en": "Salalah Eye — Waterfront Concept"
+      },
+      "summary": {
+        "ar": "عرض تصوري للواجهة البحرية والمخطط العام والمساحات العامة؛ مادة مفاهيمية.",
+        "en": "A concept presentation of the waterfront, masterplan and public spaces; conceptual material."
+      },
+      "kind": "website",
+      "group": "ppdc",
+      "status": "live",
+      "verified": "2026-10-05",
+      "visibility": "public",
+      "url": "https://khalidmahrooqi-design.github.io/project-catalogue/projects/salalah-eye/"
+    },
+    {
+      "id": "muscat-amusement-park",
+      "name": {
+        "ar": "منتزه مسقط للألعاب",
+        "en": "Muscat Amusement Park"
+      },
+      "summary": {
+        "ar": "تصور لمنتزه عائلي يضم الألعاب والمنتزه المائي والممشى والمركز العائلي؛ مقترح للتطوير.",
+        "en": "A proposed family park with rides, a water park, City Walk and a family centre."
+      },
+      "kind": "website",
+      "group": "independent",
+      "status": "live",
+      "verified": "2026-10-05",
+      "visibility": "public",
+      "url": "https://khalidmahrooqi-design.github.io/project-catalogue/projects/muscat-amusement-park/"
     }
   ],
   "tasks": [
@@ -219,6 +270,36 @@
       "summary": {
         "ar": "نشر مهارة عامة بترخيص MIT للتخطيط والتنفيذ والتحقق، مع تثبيتها عالمياً وتحديث قواعد العمل.",
         "en": "Published an MIT-licensed skill for planning, execution, and verification; installed it globally and updated work rules."
+      },
+      "status": "completed",
+      "date": "2026-10-05",
+      "visibility": "public"
+    },
+    {
+      "id": "01a10bb7-ca00-7a40-acef-e610f8bb8bcf",
+      "projectId": "project-catalogue",
+      "title": {
+        "ar": "إضافة مشاريع عين صلالة ومسقط",
+        "en": "Add Salalah Eye and Muscat projects"
+      },
+      "summary": {
+        "ar": "إضافة نسخ من لوحة إلهام التواصل الاجتماعي لعين صلالة والعرض التصوري لواجهتها البحرية ومنتزه مسقط، مع روابط مباشرة من الدليل.",
+        "en": "Add hosted copies of the Salalah Eye social moodboard, waterfront concept, and Muscat park presentation with direct catalogue links."
+      },
+      "status": "completed",
+      "date": "2026-10-05",
+      "visibility": "public"
+    },
+    {
+      "id": "catalogue-portrait-charts-2026-10-05",
+      "projectId": "project-catalogue",
+      "title": {
+        "ar": "تحديث الصورة والرسوم البصرية",
+        "en": "Update portrait and visual charts"
+      },
+      "summary": {
+        "ar": "صورة محسّنة بخلفية شفافة، ورسوم لتوزيع المشاريع وحالاتها ومسار المهام وسجل التحديثات، مع دعم الهواتف وتقليل الحركة.",
+        "en": "An enhanced transparent portrait, project distribution and status charts, task pipeline and update timeline, with responsive layouts and reduced-motion support."
       },
       "status": "completed",
       "date": "2026-10-05",

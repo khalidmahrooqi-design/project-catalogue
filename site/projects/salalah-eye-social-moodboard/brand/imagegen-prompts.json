@@ -1,0 +1,13 @@
+{
+  "tool": "built-in image_gen",
+  "source": "source/DJI_20261001055746_0005_D.preview.jpg",
+  "raw_original": "Supplied photo library / DJI_20261001055746_0005_D.DNG",
+  "natural": {
+    "file": "photos/ai-creative/hero-01-natural-ai-retouch.png",
+    "prompt": "Use case: lighting-weather. Edit target: the supplied real drone photograph of Salalah Eye observation wheel, Salalah, Oman. Produce a high-quality natural photographic retouch suitable for a premium tourism social media launch. Keep the exact original landscape composition and camera perspective. Preserve the exact wheel geometry, number and positions and shapes of cabins, cables, supports, palms, sea waves, beach, surrounding buildings and paved area. Keep the real subdued pre-sunrise light and existing warm peach sky; do not replace sky or invent weather. Lift shadows on the white wheel/supports and foreground gently to reveal realistic detail, correct white balance and reduce haze/noise, restrained local contrast, premium documentary photographic finish. No extra structures, no added lights on the wheel, no people, no removal of infrastructure, no signage changes, no invented facilities, no text or logos or borders, no cropping of the wheel. Natural tonal retouch only, no dramatic HDR, no saturation exaggeration. Deliver one landscape image at the original 16:9 composition."
+  },
+  "sunset": {
+    "file": "photos/ai-creative/hero-01-sunset-ai-variant.png",
+    "prompt": "Use case: lighting-weather. Edit target: the supplied real drone photograph of Salalah Eye observation wheel on the beach. Create one artistic evening golden-hour lighting variant for social media, clearly a creative relighting, preserving the real site. Change only the lighting and sky colors to a calm cinematic sunset with subtle gold light on the white wheel supports, a warm peach and lavender sky, teal blue sea and naturally lit sand. Keep the exact landscape 16:9 framing, camera, wheel orientation and complete shape, all existing cabins at the same positions, exact support and cable geometry, palm tree positions, architecture, beach boundary, sea and promenade. Preserve every existing real feature; do not add people, attractions, facilities, wheel LEDs, new buildings, decorative installations, signs, text or logos. No added sun disk because physical sunset direction is not known. No fantasy colors, no dramatic storm clouds, no saturated orange filter, no fake HDR. The result should be elegant, detailed, plausible tourism photography, with foreground and cabins visible and natural contrast. Avoid cropping any existing portion of the wheel."
+  }
+}
