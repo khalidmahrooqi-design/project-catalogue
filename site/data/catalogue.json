@@ -208,6 +208,21 @@
       "status": "completed",
       "date": "2026-10-05",
       "visibility": "public"
+    },
+    {
+      "id": "01a10bc5-b514-7df0-9fdf-2f5829106d6c",
+      "projectId": "codex-system",
+      "title": {
+        "ar": "نشر مهارة تنفيذ المشاريع على مراحل",
+        "en": "Publish a staged project workflow skill"
+      },
+      "summary": {
+        "ar": "نشر مهارة عامة بترخيص MIT للتخطيط والتنفيذ والتحقق، مع تثبيتها عالمياً وتحديث قواعد العمل.",
+        "en": "Published an MIT-licensed skill for planning, execution, and verification; installed it globally and updated work rules."
+      },
+      "status": "completed",
+      "date": "2026-10-05",
+      "visibility": "public"
     }
   ]
 }
