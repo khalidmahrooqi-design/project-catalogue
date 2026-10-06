@@ -240,8 +240,8 @@
         "en": "WATAD Presentation Website"
       },
       "summary": {
-        "ar": "موقع وتد بالعربية والإنجليزية يضم 15 قسماً، وصور تطبيقات، ومشاهد ثلاثية الأبعاد توضيحية، ونمطي عرض فاتح وداكن، وأدوات تقديم. نُشر على GitHub Pages وفُحصت صفحاته وأصوله العامة.",
-        "en": "A live Arabic and English WATAD website with 15 sections, case photos, illustrative 3D scenes, light/dark themes and presentation controls. Published on GitHub Pages; public pages and assets verified."
+        "ar": "موقع وتد بالعربية والإنجليزية يضم 15 قسماً، و639 صورة في 45 معرضاً محلياً، ومشاهد ثلاثية الأبعاد توضيحية، ومؤشرات مقارنة موثّقة في العرض. نُشر التحديث v1.1.0 على GitHub Pages وفُحصت صفحاته وأصوله.",
+        "en": "A live Arabic and English WATAD website with 15 sections, 639 photos in 45 local galleries, illustrative 3D scenes and source-labelled comparison metrics. Update v1.1.0 is published on GitHub Pages; pages and assets verified."
       },
       "kind": "website",
       "group": "al-aoula",
@@ -458,8 +458,8 @@
         "en": "Build and publish the WATAD website"
       },
       "summary": {
-        "ar": "أُنجز تدقيق المصادر وخطة البناء، ثم موقع React ثنائي اللغة مع مشاهد Blender وThree.js، وتحكم بالعروض، وQR وأصول SEO. اجتاز فحوص المتصفحات الآلية وفحص Playwright MCP للموقع المنشور؛ لم تُختبر الأجهزة الفعلية.",
-        "en": "Completed the source audit and build plan, then a bilingual React website with Blender/Three.js scenes, presentation controls, QR and SEO assets. Automated browser checks and live Playwright MCP review passed; physical devices were not tested."
+        "ar": "اكتمل البناء وتحديث المعارض والحركة: إصلاح نماذج Three.js، وإدراج جميع الصور، وست صور توضيحية جديدة، ورسوم مقارنة متحركة. اجتاز 14 فحصاً في Edge و32 فحصاً عبر محركات المتصفحات، إضافة إلى فحص الموقع المنشور بـPlaywright MCP. لم تُختبر الأجهزة الفعلية.",
+        "en": "Completed the build and gallery/motion update: repaired Three.js models, included all photos, added six concept images and animated comparison charts. Passed 14 Edge checks, 32 cross-engine checks and live Playwright MCP review. Physical devices were not tested."
       },
       "status": "completed",
       "date": "2026-10-06",
