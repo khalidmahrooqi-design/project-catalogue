@@ -234,6 +234,23 @@
       "url": "https://khalidmahrooqi-design.github.io/project-catalogue/projects/abs/"
     },
     {
+      "id": "watad-presentation-website",
+      "name": {
+        "ar": "موقع عرض نظام وتد",
+        "en": "WATAD Presentation Website"
+      },
+      "summary": {
+        "ar": "تخطيط موقع عربي وإنجليزي لعرض نظام وتد، مع اتجاه بصري وأقسام مقترحة قيد المراجعة.",
+        "en": "Planning an Arabic and English WATAD presentation website, with a visual direction and proposed sections under review."
+      },
+      "kind": "website",
+      "group": "al-aoula",
+      "status": "active",
+      "verified": "2026-10-06",
+      "visibility": "public",
+      "companyId": "al-aoula-idc"
+    },
+    {
       "id": "mg-group",
       "name": {
         "ar": "مجموعة MG",
@@ -427,6 +444,21 @@
       "summary": {
         "ar": "تحديث نبذة الشركة وإضافة صفحة عربية وإنجليزية لأعمال ABS، مع تسجيل ABS ERP كتطبيق تابع للشركة.",
         "en": "Updated the company introduction and added an Arabic/English ABS overview, with ABS ERP recorded as an application belonging to ABS."
+      },
+      "status": "completed",
+      "date": "2026-10-06",
+      "visibility": "public"
+    },
+    {
+      "id": "01a1123c-1385-7d30-9069-b0f4b8a554a2",
+      "projectId": "watad-presentation-website",
+      "title": {
+        "ar": "تدقيق المصادر وخطة الموقع",
+        "en": "Source audit and website plan"
+      },
+      "summary": {
+        "ar": "أُعدّ تدقيق للعرض ومكتبة الصور، ومخطط من 15 قسماً ولوحة اتجاه بصري. بناء الموقع النهائي ينتظر مراجعة المخطط.",
+        "en": "Prepared a presentation and photo-library audit, a 15-section outline and a visual moodboard. The production build awaits outline review."
       },
       "status": "completed",
       "date": "2026-10-06",
