@@ -178,9 +178,9 @@
       "kind": "website",
       "group": "ppdc",
       "status": "live",
-      "verified": "2026-10-05",
+      "verified": "2026-10-06",
       "visibility": "public",
-      "url": "https://khalidmahrooqi-design.github.io/project-catalogue/projects/salalah-eye/"
+      "url": "https://khalidmahrooqi-design.github.io/salalah-eye/"
     },
     {
       "id": "muscat-amusement-park",
@@ -195,9 +195,9 @@
       "kind": "website",
       "group": "independent",
       "status": "live",
-      "verified": "2026-10-05",
+      "verified": "2026-10-06",
       "visibility": "public",
-      "url": "https://khalidmahrooqi-design.github.io/project-catalogue/projects/muscat-amusement-park/"
+      "url": "https://khalidmahrooqi-design.github.io/muscat-amusement-park/"
     },
     {
       "id": "abs",
@@ -232,6 +232,23 @@
       "verified": "2026-10-06",
       "visibility": "public",
       "url": "https://khalidmahrooqi-design.github.io/project-catalogue/projects/abs/"
+    },
+    {
+      "id": "mg-group",
+      "name": {
+        "ar": "مجموعة MG",
+        "en": "MG Group"
+      },
+      "summary": {
+        "ar": "موقع يعرض الهندسة والتركيب وتشغيل المنتزهات، مع مشاريع ونماذج ألعاب تفاعلية.",
+        "en": "A portfolio of engineering, installation and park operations, with projects and interactive ride models."
+      },
+      "kind": "website",
+      "group": "independent",
+      "status": "live",
+      "verified": "2026-10-06",
+      "visibility": "public",
+      "url": "https://khalidmahrooqi-design.github.io/mg-group/"
     }
   ],
   "tasks": [
@@ -410,6 +427,21 @@
       "summary": {
         "ar": "تحديث نبذة الشركة وإضافة صفحة عربية وإنجليزية لأعمال ABS، مع تسجيل ABS ERP كتطبيق تابع للشركة.",
         "en": "Updated the company introduction and added an Arabic/English ABS overview, with ABS ERP recorded as an application belonging to ABS."
+      },
+      "status": "completed",
+      "date": "2026-10-06",
+      "visibility": "public"
+    },
+    {
+      "id": "01a11242-75f4-7171-b85c-c74c5ff1f3e5",
+      "projectId": "project-catalogue",
+      "title": {
+        "ar": "نشر مواقع عين صلالة ومنتزه مسقط ومجموعة MG",
+        "en": "Publish Salalah Eye, Muscat Amusement Park and MG Group websites"
+      },
+      "summary": {
+        "ar": "نُشرت ثلاثة مواقع مستقلة على GitHub Pages، مع صور WebP وفحص الصفحات على الهاتف وتجربة النماذج التفاعلية المتاحة.",
+        "en": "Published three standalone GitHub Pages websites with WebP images. Mobile page checks and available interactive model checks passed."
       },
       "status": "completed",
       "date": "2026-10-06",
