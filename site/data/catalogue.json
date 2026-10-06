@@ -240,8 +240,8 @@
         "en": "WATAD Presentation Website"
       },
       "summary": {
-        "ar": "تخطيط موقع عربي وإنجليزي لعرض نظام وتد، مع اتجاه بصري وأقسام مقترحة قيد المراجعة.",
-        "en": "Planning an Arabic and English WATAD presentation website, with a visual direction and proposed sections under review."
+        "ar": "خطة موقع عربي وإنجليزي لعرض نظام وتد تشمل 15 قسماً، واتجاهاً بصرياً، ومراحل البناء والاختبار والنشر على GitHub Pages. المخطط والمحتوى قيد المراجعة.",
+        "en": "An Arabic and English WATAD website plan covering 15 sections, visual direction, implementation, testing and GitHub Pages release. Outline and content are under review."
       },
       "kind": "website",
       "group": "al-aoula",
@@ -453,12 +453,12 @@
       "id": "01a1123c-1385-7d30-9069-b0f4b8a554a2",
       "projectId": "watad-presentation-website",
       "title": {
-        "ar": "تدقيق المصادر وخطة الموقع",
-        "en": "Source audit and website plan"
+        "ar": "تدقيق المصادر وخطة البناء والنشر",
+        "en": "Source audit, build and release plan"
       },
       "summary": {
-        "ar": "أُعدّ تدقيق للعرض ومكتبة الصور، ومخطط من 15 قسماً ولوحة اتجاه بصري. بناء الموقع النهائي ينتظر مراجعة المخطط.",
-        "en": "Prepared a presentation and photo-library audit, a 15-section outline and a visual moodboard. The production build awaits outline review."
+        "ar": "أُعدّ تدقيق للمصادر ومخطط من 15 قسماً ولوحة اتجاه بصري، ثم خطة تفصيلية من 12 مرحلة للبناء والاختبار والنشر على GitHub Pages. بناء الموقع ينتظر مراجعة المخطط والمحتوى.",
+        "en": "Prepared a source audit, 15-section outline and visual moodboard, followed by a detailed 12-phase plan for building, testing and releasing on GitHub Pages. Website implementation awaits outline and content review."
       },
       "status": "completed",
       "date": "2026-10-06",
