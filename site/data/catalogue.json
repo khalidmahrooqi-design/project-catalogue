@@ -1,22 +1,39 @@
 {
   "version": 1,
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "projects": [
     {
-      "id": "marasi",
+      "id": "a-shahiq",
       "name": {
-        "ar": "مراسي للتطوير",
-        "en": "Marasi Development LLC"
+        "ar": "شركة A'Shahiq",
+        "en": "A'Shahiq"
       },
       "summary": {
-        "ar": "شركة مسجّلة ضمن دليل مشاريع خالد.",
-        "en": "A company listed in Khalid’s project catalogue."
+        "ar": "شركة مسجّلة ضمن دليل شركات خالد.",
+        "en": "A company listed in Khalid’s company catalogue."
       },
       "kind": "company",
-      "group": "marasi",
+      "group": "independent",
       "status": "listed",
-      "verified": "2026-10-05",
+      "verified": "2026-10-07",
       "visibility": "public"
+    },
+    {
+      "id": "abs",
+      "name": {
+        "ar": "حلول الأعمال العربية ABS",
+        "en": "Arabian Business Solutions ABS LLC"
+      },
+      "summary": {
+        "ar": "شركة عُمانية تعمل في حلول وتد للبناء، وتركيب الألواح وتطبيق الخرسانة المرشوشة.",
+        "en": "An Omani company working with WATAD construction solutions, panel installation, and shotcrete application."
+      },
+      "kind": "company",
+      "group": "ppdc",
+      "status": "listed",
+      "verified": "2026-10-06",
+      "visibility": "public",
+      "url": "https://khalidmahrooqi-design.github.io/project-catalogue/projects/abs/"
     },
     {
       "id": "ppdc",
@@ -48,6 +65,54 @@
       "group": "al-aoula",
       "status": "listed",
       "verified": "2026-10-05",
+      "visibility": "public"
+    },
+    {
+      "id": "marasi",
+      "name": {
+        "ar": "مراسي للتطوير",
+        "en": "Marasi Development LLC"
+      },
+      "summary": {
+        "ar": "شركة مسجّلة ضمن دليل مشاريع خالد.",
+        "en": "A company listed in Khalid’s project catalogue."
+      },
+      "kind": "company",
+      "group": "marasi",
+      "status": "listed",
+      "verified": "2026-10-05",
+      "visibility": "public"
+    },
+    {
+      "id": "salalah-eye-project",
+      "name": {
+        "ar": "عين صلالة",
+        "en": "Salalah Eye"
+      },
+      "summary": {
+        "ar": "مشروع مسجّل في الدليل، مع عروض تصورية وتحديثات العمل المنشورة. حالة الموقع الإلكتروني مستقلة عن حالة تنفيذ المشروع.",
+        "en": "A listed project with concept presentations and published work updates. Website publication is recorded separately from project delivery."
+      },
+      "kind": "project",
+      "group": "ppdc",
+      "status": "listed",
+      "verified": "2026-10-07",
+      "visibility": "public"
+    },
+    {
+      "id": "personal",
+      "name": {
+        "ar": "شخصي",
+        "en": "Personal"
+      },
+      "summary": {
+        "ar": "قسم للمشاريع الشخصية والتحديثات المناسبة للنشر العام.",
+        "en": "A collection of personal projects and updates suitable for public publication."
+      },
+      "kind": "project",
+      "group": "personal",
+      "status": "listed",
+      "verified": "2026-10-07",
       "visibility": "public"
     },
     {
@@ -97,7 +162,8 @@
       "group": "al-aoula",
       "status": "listed",
       "verified": "2026-10-05",
-      "visibility": "public"
+      "visibility": "public",
+      "companyId": "al-aoula-idc"
     },
     {
       "id": "ppdc-erp",
@@ -113,7 +179,8 @@
       "group": "ppdc",
       "status": "listed",
       "verified": "2026-10-05",
-      "visibility": "public"
+      "visibility": "public",
+      "companyId": "ppdc"
     },
     {
       "id": "project-catalogue",
@@ -200,23 +267,6 @@
       "url": "https://khalidmahrooqi-design.github.io/muscat-amusement-park/"
     },
     {
-      "id": "abs",
-      "name": {
-        "ar": "حلول الأعمال العربية ABS",
-        "en": "Arabian Business Solutions ABS LLC"
-      },
-      "summary": {
-        "ar": "شركة عُمانية تعمل في حلول وتد للبناء، وتركيب الألواح وتطبيق الخرسانة المرشوشة.",
-        "en": "An Omani company working with WATAD construction solutions, panel installation, and shotcrete application."
-      },
-      "kind": "company",
-      "group": "ppdc",
-      "status": "listed",
-      "verified": "2026-10-06",
-      "visibility": "public",
-      "url": "https://khalidmahrooqi-design.github.io/project-catalogue/projects/abs/"
-    },
-    {
       "id": "abs-company-projects",
       "name": {
         "ar": "ABS — الشركة والمشاريع",
@@ -231,7 +281,8 @@
       "status": "live",
       "verified": "2026-10-06",
       "visibility": "public",
-      "url": "https://khalidmahrooqi-design.github.io/project-catalogue/projects/abs/"
+      "url": "https://khalidmahrooqi-design.github.io/project-catalogue/projects/abs/",
+      "companyId": "abs"
     },
     {
       "id": "watad-presentation-website",
@@ -422,7 +473,7 @@
     },
     {
       "id": "01a10d76-f271-7eb1-bcb1-29501569c90d",
-      "projectId": "salalah-eye",
+      "projectId": "salalah-eye-project",
       "title": {
         "ar": "صور الموقع وقطاعات توسعة المرحلة الثانية",
         "en": "Site photos and Phase 2 concept sections"
@@ -478,6 +529,21 @@
       },
       "status": "completed",
       "date": "2026-10-06",
+      "visibility": "public"
+    },
+    {
+      "id": "01a11593-cf57-7de2-97a5-41eacd66ad78",
+      "projectId": "project-catalogue",
+      "title": {
+        "ar": "تنظيم الشركات والمشاريع في الدليل",
+        "en": "Organize companies and projects in the catalogue"
+      },
+      "summary": {
+        "ar": "مواءمة الدليل مع خمس شركات، وإضافة قسم شخصي وسجل مستقل لمشروع عين صلالة، مع الحفاظ على المواقع وتاريخ التحديثات.",
+        "en": "Aligned the catalogue with five companies, added Personal and a separate Salalah Eye project record, and preserved websites and update history."
+      },
+      "status": "completed",
+      "date": "2026-10-07",
       "visibility": "public"
     }
   ]

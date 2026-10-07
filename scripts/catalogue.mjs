@@ -22,7 +22,7 @@ export function validateEntry(entry, kind) {
  bilingual(entry.summary);
  if(kind==='project'){
   if(entry.companyId && (typeof entry.companyId!=='string'||entry.kind==='company'))fail('Only applications or projects can belong to a company');
-  bilingual(entry.name);if(!['company','app','website'].includes(entry.kind))fail('Invalid project kind');
+  bilingual(entry.name);if(!['company','project','app','website'].includes(entry.kind))fail('Invalid project kind');
   if(!['marasi','ppdc','al-aoula','independent','personal'].includes(entry.group))fail('Invalid project group');
   if(!['listed','active','live','paused','completed'].includes(entry.status))fail('Invalid project status');date(entry.verified);
   if(entry.url){const url=new URL(entry.url);if(url.protocol!=='https:'||url.username||url.password||url.search||url.hash)fail('Use a public HTTPS URL without credentials, queries or fragments');}

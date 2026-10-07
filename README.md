@@ -37,3 +37,9 @@ A task entry has `id`, `projectId`, `title: {ar, en}`, `summary: {ar, en}`, `sta
 Before editing, fetch the latest `main` and preserve changes from other sessions. Stage only the intended public files. A push to `main` triggers validation and GitHub Pages publication. Confirm both workflow success and live data before reporting a change as published. The workflow follows [GitHub’s Pages instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
 
 The owner’s local catalogue instructions and verification screenshots are excluded from Git. The website does not read private project folders, access Codex chats, or run a background sync. Future sessions publish summaries when the owner’s catalogue instructions are loaded. Earlier task history is not bulk imported.
+
+## Companies and projects
+
+The catalogue lists A'Shahiq, ABS, PPDC, Al Aoula and Marasi as companies. `kind: "project"` records projects such as Salalah Eye and the Personal collection separately from their published websites. Company filters include the company and entries with a matching `companyId`; broader `group` placement does not establish ownership.
+
+Sidebar sections organize chats locally. They do not feed this public website automatically. During authorized work sessions, Codex publishes reviewed Arabic/English summaries using stable project and task IDs, validates them, and verifies deployment. Private personal tasks remain outside the public catalogue.
