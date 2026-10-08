@@ -138,13 +138,13 @@
         "en": "ABS ERP"
       },
       "summary": {
-        "ar": "نظام إدارة موارد المؤسسة الخاص بـ ABS.",
-        "en": "The enterprise resource planning application for ABS."
+        "ar": "نظام ABS ERP يعمل على الإنترنت؛ تحسنت ضوابط حفظ البيانات والمعاملات والصلاحيات والتنقل، واجتازت الاختبارات البرمجية.",
+        "en": "ABS ERP is online, with improved data saving, transaction checks, permissions and navigation; code tests passed."
       },
       "kind": "app",
       "group": "ppdc",
-      "status": "listed",
-      "verified": "2026-10-06",
+      "status": "live",
+      "verified": "2026-10-08",
       "visibility": "public",
       "companyId": "abs"
     },
@@ -550,12 +550,12 @@
       "id": "01a11b66-82db-7560-a3de-0b71ef4451f1",
       "projectId": "abs",
       "title": {
-        "ar": "مراجعة النموذج المالي وتطبيقَي التقديرات وERP",
-        "en": "Review the financial model, estimator and ERP apps"
+        "ar": "مراجعة وتحسين تطبيقَي التقديرات وERP لدى ABS",
+        "en": "Audit and improve the ABS Estimator and ERP apps"
       },
       "summary": {
-        "ar": "مراجعة بنية النموذج المالي والتطبيقات ومراجع العمل، وتحديد العلاقة بين التقديرات وإدارة المشاريع لتأسيس سياق المهام اللاحقة.",
-        "en": "Reviewed financial-model and application structure, working references, and the relationship between estimating and project management to establish context for subsequent tasks."
+        "ar": "نُفذت تحسينات معتمدة لحفظ البيانات والصلاحيات والتنقل والتكاليف، مع اختبارات برمجية والتحقق من التطبيقين على الإنترنت.",
+        "en": "Implemented approved improvements to data saving, permissions, navigation and costing displays; tested the code and verified both online apps."
       },
       "status": "completed",
       "date": "2026-10-08",
