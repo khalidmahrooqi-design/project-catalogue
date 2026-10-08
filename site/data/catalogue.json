@@ -569,8 +569,8 @@
         "en": "Test WATAD take-off and estimating"
       },
       "summary": {
-        "ar": "اختُبرت قراءة الرسومات وحسابات التقدير، وأُعد جدول كميات تجريبي وقورنت مراجع الكميات والتسعير. ظهرت فروق في القياسات ونطاق الأعمال والحسابات، ويستمر التحقق قبل اعتماد التقدير.",
-        "en": "Tested drawing extraction and estimating, prepared a trial BoQ, and compared quantity and pricing references. Measurement, scope and arithmetic differences require further verification before approval."
+        "ar": "اختُبرت قراءة الرسومات وحسابات التقدير، وقورنت مراجع الكميات والأسعار. أُعد خياران أوليان للأعمال الإنشائية مع جداول كميات وتسعير، ويستمر التحقق من القياسات والتصميم قبل الاعتماد.",
+        "en": "Tested drawing extraction and estimating and compared quantity and pricing references. Prepared two preliminary structural options with priced BoQs; measurement and structural validation remain outstanding."
       },
       "status": "active",
       "date": "2026-10-08",
