@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "projects": [
     {
       "id": "a-shahiq",
@@ -544,6 +544,21 @@
       },
       "status": "completed",
       "date": "2026-10-07",
+      "visibility": "public"
+    },
+    {
+      "id": "01a11b66-82db-7560-a3de-0b71ef4451f1",
+      "projectId": "abs",
+      "title": {
+        "ar": "مراجعة النموذج المالي وتطبيقَي التقديرات وERP",
+        "en": "Review the financial model, estimator and ERP apps"
+      },
+      "summary": {
+        "ar": "مراجعة بنية النموذج المالي والتطبيقات ومراجع العمل، وتحديد العلاقة بين التقديرات وإدارة المشاريع لتأسيس سياق المهام اللاحقة.",
+        "en": "Reviewed financial-model and application structure, working references, and the relationship between estimating and project management to establish context for subsequent tasks."
+      },
+      "status": "completed",
+      "date": "2026-10-08",
       "visibility": "public"
     }
   ]
