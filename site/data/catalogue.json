@@ -122,13 +122,13 @@
         "en": "WATAD Estimator"
       },
       "summary": {
-        "ar": "تطبيق التقديرات، وتحديثات العمل المرتبطة به.",
-        "en": "The estimator application and related work updates."
+        "ar": "تطبيق تقديرات وتد؛ اختُبرت حسابات الهيكل والتكاليف وقراءة الرسومات، مع استمرار التحقق من دقة حصر الكميات.",
+        "en": "WATAD estimating application. Structural calculations, costs and drawing extraction tested; quantity accuracy remains under review."
       },
       "kind": "app",
       "group": "independent",
-      "status": "listed",
-      "verified": "2026-10-05",
+      "status": "active",
+      "verified": "2026-10-08",
       "visibility": "public"
     },
     {
@@ -558,6 +558,21 @@
         "en": "Reviewed financial-model and application structure, working references, and the relationship between estimating and project management to establish context for subsequent tasks."
       },
       "status": "completed",
+      "date": "2026-10-08",
+      "visibility": "public"
+    },
+    {
+      "id": "01a116e2-4bd3-7773-b8f5-39b94933ede8",
+      "projectId": "watad-estimator",
+      "title": {
+        "ar": "اختبار حصر الكميات والتقدير لنظام وتد",
+        "en": "Test WATAD take-off and estimating"
+      },
+      "summary": {
+        "ar": "اكتمل اختبار قراءة الرسومات وحسابات التقدير والتسعير، وأُعد جدول كميات تجريبي. ما زالت بعض القياسات ونطاق الأعمال بحاجة إلى التحقق قبل اعتماد التقدير.",
+        "en": "Tested drawing extraction, estimation calculations and pricing, and prepared a trial BoQ. Some measurements and scope items still need verification before the estimate is approved."
+      },
+      "status": "active",
       "date": "2026-10-08",
       "visibility": "public"
     }
