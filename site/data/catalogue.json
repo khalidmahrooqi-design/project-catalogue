@@ -590,6 +590,21 @@
       "status": "completed",
       "date": "2026-10-09",
       "visibility": "public"
+    },
+    {
+      "id": "watad-hand-estimation-2026-10-09-ho",
+      "projectId": "codex-system",
+      "title": {
+        "ar": "مهارة للتقدير اليدوي ومراجعة الرسومات",
+        "en": "Manual estimating and drawing review skill"
+      },
+      "summary": {
+        "ar": "إعداد سير عمل لفحص توافق النظام الإنشائي، ومقارنة الجدران بين الطوابق، ومراجعة المساند والكمرات والبروزات وحصر الكميات. فحوص المهارة اجتازت؛ التنفيذ على رسومات مشروع والتحقق الهندسي لم يُختبرا بعد.",
+        "en": "Created a workflow for structural-system compatibility screening, inter-floor wall comparison, supports, beams, projections and quantities. Skill checks passed; real-project drawing execution and engineering verification remain untested."
+      },
+      "status": "completed",
+      "date": "2026-10-09",
+      "visibility": "public"
     }
   ]
 }
