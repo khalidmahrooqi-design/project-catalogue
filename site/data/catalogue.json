@@ -736,8 +736,8 @@
         "en": "Review residential drawings for WATAD compatibility"
       },
       "summary": {
-        "ar": "أُنجز فحص أولي للرسومات ومسارات الأحمال؛ خيارات التحويل تحتاج مراجعة قبل الحصر والتسعير.",
-        "en": "Preliminary drawing and load-path screening completed; conversion options need review before take-off and pricing."
+        "ar": "أُعد حصر يدوي أولي وتكلفة جزئية، واجتازت الحسابات فحوص المطابقة. حصر الأساسات والبلاطات والتسليح والدعامات ما زال غير مكتمل؛ مراجعة المرحلة الثانية مطلوبة.",
+        "en": "Provisional hand quantities and partial costing prepared; arithmetic reconciliations passed. Foundations, full slabs, reinforcement and supports remain incomplete; Stage 2 review pending."
       },
       "status": "active",
       "date": "2026-10-09",
