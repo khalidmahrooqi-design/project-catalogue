@@ -646,8 +646,8 @@
         "en": "WATAD hand quantities and reference costing"
       },
       "summary": {
-        "ar": "مراجعة التقدير اليدوي وفق منهج التطبيق في تحديد النطاق والكميات والتكاليف ومصاريف الموقع والهوامش. تمت مطابقة الحسابات المرجعية؛ لا تزال التفاصيل الهندسية وبعض بنود النطاق قيد المراجعة.",
-        "en": "Reworked the hand estimate around the app’s scope, quantity, cost, site-expense and markup methods. Reference calculations reconciled; engineering details and some scope items remain under review."
+        "ar": "تم حفظ تقدير أولي في التطبيق والتحقق من استرجاع الكميات والحسابات. لا تزال مطابقة إعدادات الأسقف والأساسات بين التقدير اليدوي والتطبيق قيد المراجعة قبل اعتماد أساس العرض.",
+        "en": "Saved a preliminary app estimate and verified quantity persistence and arithmetic. Roof and foundation settings still need mapping review against the hand estimate before approving an offer basis."
       },
       "status": "active",
       "date": "2026-10-09",
