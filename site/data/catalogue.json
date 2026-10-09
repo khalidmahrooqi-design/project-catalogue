@@ -697,6 +697,21 @@
       "status": "completed",
       "date": "2026-10-09",
       "visibility": "public"
+    },
+    {
+      "id": "01a12166-7324-7fd2-bd41-4fc74aeb7a46",
+      "projectId": "abs",
+      "title": {
+        "ar": "ريل فيلا الأنصب بنظام وتد",
+        "en": "Al Ansab WATAD villa reel"
+      },
+      "summary": {
+        "ar": "إنتاج ونشر ريل عربي على حساب ABS يعرض فيلا الأنصب بنظام وتد ومزايا النظام والمرونة التصميمية. تم التحقق من النشر في 9 أكتوبر 2026.",
+        "en": "Produced and published an Arabic ABS Instagram reel showcasing the Al Ansab WATAD villa, system benefits and design flexibility. Publication verified on 9 October 2026."
+      },
+      "status": "completed",
+      "date": "2026-10-09",
+      "visibility": "public"
     }
   ]
 }
