@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "projects": [
     {
       "id": "a-shahiq",
@@ -212,7 +212,7 @@
       "kind": "app",
       "group": "personal",
       "status": "active",
-      "verified": "2026-10-05",
+      "verified": "2026-10-09",
       "visibility": "public"
     },
     {
@@ -574,6 +574,21 @@
       },
       "status": "active",
       "date": "2026-10-08",
+      "visibility": "public"
+    },
+    {
+      "id": "emmedue-construction-skills-2026-10-09-ho",
+      "projectId": "codex-system",
+      "title": {
+        "ar": "إعداد مهارات لسير عمل البناء",
+        "en": "Create construction workflow skills"
+      },
+      "summary": {
+        "ar": "إعداد أربع مهارات لتصنيف الألواح وحصر الكميات ومراجعة التركيب ومدخلات التحليل الإنشائي. اجتازت فحوص الملفات وأمثلة الحساب؛ التطبيق على مشروع فعلي والتحقق الهندسي لم يُختبرا بعد.",
+        "en": "Created four skills for panel classification, quantity take-off, installation review and structural inputs. File checks and calculation examples passed; real-project use and engineering verification remain untested."
+      },
+      "status": "completed",
+      "date": "2026-10-09",
       "visibility": "public"
     }
   ]
