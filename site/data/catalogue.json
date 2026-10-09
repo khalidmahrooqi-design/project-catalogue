@@ -742,6 +742,21 @@
       "status": "active",
       "date": "2026-10-09",
       "visibility": "public"
+    },
+    {
+      "id": "abs-pipeline-github-automation-2026-10-09-ho",
+      "projectId": "abs-pipeline",
+      "title": {
+        "ar": "النشر من جيتهب وتحديث قيم التقديرات",
+        "en": "GitHub deployment and estimate value updates"
+      },
+      "summary": {
+        "ar": "إعداد نشر الموقع عبر جيتهب وتحديث قيم التقديرات ومسودات العروض من الجلسة عبر مسار مصادق عليه. اجتازت الفحوص المحلية وفحوص بيئة التجربة. تفعيل بيانات الوصول قيد الموافقة؛ لم تُغيّر قيم العملاء.",
+        "en": "Prepared GitHub website deployment and authenticated session updates to estimate and draft-offer values. Local and staging checks passed. Credential activation awaits approval; no client values changed."
+      },
+      "status": "active",
+      "date": "2026-10-09",
+      "visibility": "public"
     }
   ]
 }
