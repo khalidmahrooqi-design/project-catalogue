@@ -712,6 +712,21 @@
       "status": "completed",
       "date": "2026-10-09",
       "visibility": "public"
+    },
+    {
+      "id": "01a12192-4896-74b1-a3f6-af7a523b3cd6",
+      "projectId": "codex-system",
+      "title": {
+        "ar": "اختبار تحويل المستندات وتحريرها محلياً",
+        "en": "Test local document conversion and editing"
+      },
+      "summary": {
+        "ar": "اختبار أدوات محلية مجانية على ملفات تجريبية، والتحقق من إعادة حساب الصيغ وتصدير مستندات Word وExcel وPowerPoint إلى PDF. تحديث سير العمل ليسمح بالتحرير المحلي بعد قراءة المحتوى عبر Docker. لا يشمل التحقق المستندات المعقدة أو وحدات الماكرو.",
+        "en": "Tested free local tools on sample files, verified formula recalculation and Word, Excel and PowerPoint PDF exports, and updated the workflow to allow local editing after Docker content reading. Complex documents and macros remain untested."
+      },
+      "status": "completed",
+      "date": "2026-10-09",
+      "visibility": "public"
     }
   ]
 }
