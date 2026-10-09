@@ -692,8 +692,8 @@
         "en": "Launch ABS leads and projects application"
       },
       "summary": {
-        "ar": "نُشر التطبيق الخاص بتصميم مماثل للدليل، واجتازت اختبارات سير العمل والصلاحيات في بيئة الاختبار.",
-        "en": "Published the private application with catalogue styling; workflow and access checks passed in staging."
+        "ar": "نُشر التطبيق الخاص بتصميم مماثل للدليل، وأضيف ربط الفرص بجلسات التقدير ومراجع مجلدات المشاريع. اجتازت اختبارات سير العمل والصلاحيات.",
+        "en": "Published the private application with catalogue styling and links from leads to estimating sessions and project folder references. Workflow and access checks passed."
       },
       "status": "completed",
       "date": "2026-10-09",
