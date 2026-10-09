@@ -291,13 +291,13 @@
         "en": "WATAD Presentation Website"
       },
       "summary": {
-        "ar": "موقع وتد بالعربية والإنجليزية يضم 15 قسماً، و639 صورة في 45 معرضاً محلياً، ومشاهد ثلاثية الأبعاد توضيحية، ومؤشرات مقارنة موثّقة في العرض. نُشر التحديث v1.1.0 على GitHub Pages وفُحصت صفحاته وأصوله.",
-        "en": "A live Arabic and English WATAD website with 15 sections, 639 photos in 45 local galleries, illustrative 3D scenes and source-labelled comparison metrics. Update v1.1.0 is published on GitHub Pages; pages and assets verified."
+        "ar": "كتالوج تسويقي لنظام وتد بالعربية والإنجليزية، موجّه للمهندسين والمقاولين والمطورين وأصحاب المنازل. يضم صور التطبيقات، وستة عناصر للنظام، ومقارنات أداء محددة المراجع. نُشر الإصدار v1.1.2 وفُحص الموقع الحي.",
+        "en": "An Arabic and English WATAD marketing catalogue for engineers, contractors, developers and homeowners, with project galleries, six system elements and source-qualified performance comparisons. Release v1.1.2 is published and live-verified."
       },
       "kind": "website",
       "group": "al-aoula",
       "status": "live",
-      "verified": "2026-10-06",
+      "verified": "2026-10-09",
       "visibility": "public",
       "companyId": "al-aoula-idc",
       "url": "https://khalidmahrooqi-design.github.io/watad-presentation/"
@@ -509,11 +509,11 @@
         "en": "Build and publish the WATAD website"
       },
       "summary": {
-        "ar": "اكتمل البناء وتحديث المعارض والحركة: إصلاح نماذج Three.js، وإدراج جميع الصور، وست صور توضيحية جديدة، ورسوم مقارنة متحركة. اجتاز 14 فحصاً في Edge و32 فحصاً عبر محركات المتصفحات، إضافة إلى فحص الموقع المنشور بـPlaywright MCP. لم تُختبر الأجهزة الفعلية.",
-        "en": "Completed the build and gallery/motion update: repaired Three.js models, included all photos, added six concept images and animated comparison charts. Passed 14 Edge checks, 32 cross-engine checks and live Playwright MCP review. Physical devices were not tested."
+        "ar": "نُشرت صور عناصر وتد والمحتويات التسويقية المنقحة، مع إزالة الملاحظات الداخلية وإضافة مقارنة حرارية محددة المرجع. اجتاز الإصدار 15 فحصاً في Edge و35 فحصاً عبر محركات المتصفحات، ثم التحقق من الصفحات المنشورة بالعربية والإنجليزية.",
+        "en": "Published WATAD element renders and revised marketing copy, removed internal notes and added a qualified thermal comparison. Passed 15 Edge checks, 35 cross-engine checks and live Arabic/English page verification."
       },
       "status": "completed",
-      "date": "2026-10-06",
+      "date": "2026-10-09",
       "visibility": "public"
     },
     {
