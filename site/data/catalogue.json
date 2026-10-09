@@ -599,8 +599,23 @@
         "en": "Manual estimating and drawing review skill"
       },
       "summary": {
-        "ar": "إعداد سير عمل لفحص توافق النظام الإنشائي، ومقارنة الجدران بين الطوابق، ومراجعة المساند والكمرات والبروزات وحصر الكميات. فحوص المهارة اجتازت؛ التنفيذ على رسومات مشروع والتحقق الهندسي لم يُختبرا بعد.",
-        "en": "Created a workflow for structural-system compatibility screening, inter-floor wall comparison, supports, beams, projections and quantities. Skill checks passed; real-project drawing execution and engineering verification remain untested."
+        "ar": "إعداد سير عمل لفحص النظام الإنشائي ومقارنة الجدران والمساند والكمرات والبروزات وحصر الكميات، وإضافة قواعد مجلدات المراجعة والحصر والتكلفة والعروض إلى خمس مهارات إنشائية. اجتازت فحوص المهارات؛ لم يُختبر التنفيذ على رسومات مشروع أو التحقق الهندسي.",
+        "en": "Created a workflow for structural-system screening, floor-wall comparison, supports, beams, projections and quantities. Added output-folder rules for reviews, quantities/costing and offers across five construction skills. Skill checks passed; project drawing execution and engineering verification remain untested."
+      },
+      "status": "completed",
+      "date": "2026-10-09",
+      "visibility": "public"
+    },
+    {
+      "id": "watad-drawing-screen-01a1201f-e3c9-7a22-bcda-9d50bff866dc",
+      "projectId": "abs",
+      "title": {
+        "ar": "مراجعة رسومات للتقدير بنظام وتد",
+        "en": "WATAD estimating drawing review"
+      },
+      "summary": {
+        "ar": "فحص الرسومات المعمارية وتحديد متطلبات المساند والبروزات والحصر. المراجعة المعمارية مكتملة؛ الحصر الكامل والتحقق الإنشائي يتطلبان تفاصيل إضافية.",
+        "en": "Screened architectural drawings and identified support, projection and take-off requirements. Architectural review completed; full quantities and structural verification require further details."
       },
       "status": "completed",
       "date": "2026-10-09",
