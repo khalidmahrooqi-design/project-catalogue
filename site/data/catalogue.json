@@ -318,6 +318,24 @@
       "verified": "2026-10-06",
       "visibility": "public",
       "url": "https://khalidmahrooqi-design.github.io/mg-group/"
+    },
+    {
+      "id": "abs-pipeline",
+      "name": {
+        "ar": "ABS — الفرص والمشاريع",
+        "en": "ABS — Leads & Projects"
+      },
+      "summary": {
+        "ar": "تطبيق خاص لمتابعة الفرص وجهات الاتصال والرسومات والتقديرات والعروض والمشاريع، بصلاحيات للفريق.",
+        "en": "A private application for leads, contacts, drawings, estimates, offers and projects, with team access controls."
+      },
+      "kind": "app",
+      "group": "ppdc",
+      "companyId": "abs",
+      "status": "live",
+      "verified": "2026-10-09",
+      "visibility": "public",
+      "url": "https://pipeline.premierco.om"
     }
   ],
   "tasks": [
@@ -668,16 +686,16 @@
     },
     {
       "id": "01a1211e-f649-7360-8087-3675604c2720",
-      "projectId": "abs",
+      "projectId": "abs-pipeline",
       "title": {
-        "ar": "تصور موقع متابعة فرص ومشاريع ABS",
-        "en": "ABS leads and projects website proposal"
+        "ar": "إطلاق تطبيق فرص ومشاريع ABS",
+        "en": "Launch ABS leads and projects application"
       },
       "summary": {
-        "ar": "مراجعة تصميم الدليل واقتراح وظائف لمتابعة الفرص والمشاريع بصلاحيات محددة. مرحلة التصور؛ لم يُنشأ التطبيق بعد.",
-        "en": "Reviewed the catalogue design and proposed lead and project tracking functions with controlled access. Planning stage; the application has not been built."
+        "ar": "نُشر التطبيق الخاص بتصميم مماثل للدليل، واجتازت اختبارات سير العمل والصلاحيات في بيئة الاختبار.",
+        "en": "Published the private application with catalogue styling; workflow and access checks passed in staging."
       },
-      "status": "planned",
+      "status": "completed",
       "date": "2026-10-09",
       "visibility": "public"
     }
