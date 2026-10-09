@@ -291,16 +291,15 @@
         "en": "WATAD Presentation Website"
       },
       "summary": {
-        "ar": "كتالوج تسويقي لنظام وتد بالعربية والإنجليزية، موجّه للمهندسين والمقاولين والمطورين وأصحاب المنازل. يضم صور التطبيقات وعناصر النظام ومقارنات أداء محددة المراجع. نُشر الإصدار v1.1.3 بصياغة عربية محدّثة واسم الشركة وشعار وتد المعتمدين، وتحقق تشغيله على الموقع الحي في 9 أكتوبر 2026.",
-        "en": "An Arabic and English WATAD marketing catalogue for engineers, contractors, developers and homeowners, with project galleries, system elements and source-qualified performance comparisons. Release v1.1.3 adds revised Arabic wording and the approved company name and WATAD logo; verified live on 9 October 2026."
+        "ar": "كتالوج تسويقي لنظام وتد بالعربية والإنجليزية، موجّه للمهندسين والمقاولين والمطورين وأصحاب المنازل. يضم صور التطبيقات وعناصر النظام ومقارنات أداء محددة المراجع. أُعد الموقع ونُشر للانتقال إلى نطاق الشركة www.aloulaidc.om؛ تفعيل الاتصال الآمن والفحوص النهائية للموقع قيد الاستكمال.",
+        "en": "An Arabic and English WATAD marketing catalogue for engineers, contractors, developers and homeowners, with project galleries, system elements and source-qualified performance comparisons. Prepared and published for the company domain www.aloulaidc.om; secure-domain activation and final live checks are pending."
       },
       "kind": "website",
       "group": "al-aoula",
-      "status": "live",
+      "status": "active",
       "verified": "2026-10-09",
       "visibility": "public",
-      "companyId": "al-aoula-idc",
-      "url": "https://khalidmahrooqi-design.github.io/watad-presentation/"
+      "companyId": "al-aoula-idc"
     },
     {
       "id": "mg-group",
@@ -523,14 +522,14 @@
       "id": "01a1123c-1385-7d30-9069-b0f4b8a554a2",
       "projectId": "watad-presentation-website",
       "title": {
-        "ar": "بناء موقع وتد ونشره",
-        "en": "Build and publish the WATAD website"
+        "ar": "نقل موقع وتد إلى نطاق الشركة",
+        "en": "Move the WATAD website to the company domain"
       },
       "summary": {
-        "ar": "تحديث 13 موضعاً في النص العربي وتوحيد اسم الشركة الأولى للاستثمار والتطوير. اعتُمد شعار وتد في الموقع ورمز QR والأيقونات وصور معاينة الروابط. نُشر الإصدار v1.1.3 وتحقق تشغيله حياً، مع اجتياز 15 فحصاً في Edge وقراءة رمز QR بسبعة أحجام.",
-        "en": "Updated 13 Arabic wording items and standardized the approved Arabic company name. Applied the approved WATAD logo across the website, QR code, icons and link previews. Published and live-verified v1.1.3, with 15 Edge checks and QR decoding at seven sizes passed."
+        "ar": "تجهيز الموقع للنشر على نطاق الشركة، وتحديث روابط الصفحات والمعاينات والتحويلات من الروابط السابقة، مع الحفاظ على المحتوى العربي والإنجليزي ومعارض الصور. نُشرت إعدادات الانتقال؛ تفعيل الاتصال الآمن والفحوص النهائية على النطاق الجديد ما زالا قيد الاستكمال.",
+        "en": "Prepared the website for the company domain and updated page links, previews and redirects from previous URLs while preserving bilingual content and galleries. Migration settings are published; secure-domain activation and final checks on the new domain remain pending."
       },
-      "status": "completed",
+      "status": "active",
       "date": "2026-10-09",
       "visibility": "public"
     },
