@@ -616,11 +616,11 @@
         "en": "Manual estimating and drawing review skill"
       },
       "summary": {
-        "ar": "تحديث مهارة تقدير واتد ذات المراحل الخمس بمنهج تكلفة ونطاق واضحين، وإضافة تسجيل التقدير ومسودة العرض في نظام متابعة الفرص بنهاية المرحلة الخامسة. رسومات الهيكل التقليدي مرجع للأبعاد فقط. اجتازت فحوص المهارة؛ لم يُختبر الحفظ الفعلي للسجلات.",
-        "en": "Updated the five-stage WATAD skill with explicit costing scope and a final Stage 5 step to record the estimate and draft offer in the private pipeline. Conventional frame drawings serve as dimension references only. Skill checks passed; live record writes remain untested."
+        "ar": "تحديث مهارة تقدير واتد ذات المراحل الخمس لتتبع منهج التطبيق في المصاريف والربح ومخصص السلالم والبسطات وشبك الأرضية، مع منع تكرار التكاليف. تم فحص التطبيق والمصدر المحلي؛ يبقى التحقق الإنشائي مستقلاً.",
+        "en": "Updated the five-stage WATAD estimating skill to follow the app method for overhead/profit, stair and landing allowances and ground-slab mesh, with duplicate-cost checks. Live app and local source reviewed; structural verification remains separate."
       },
       "status": "completed",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "visibility": "public"
     },
     {
