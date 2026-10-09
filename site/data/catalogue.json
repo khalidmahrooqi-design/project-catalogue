@@ -620,6 +620,21 @@
       "status": "completed",
       "date": "2026-10-09",
       "visibility": "public"
+    },
+    {
+      "id": "watad-hand-stage2-01a1201f-e3c9-7a22-bcda-9d50bff866dc",
+      "projectId": "abs",
+      "title": {
+        "ar": "حصر يدوي وتكلفة مرجعية بنظام وتد",
+        "en": "WATAD hand quantities and reference costing"
+      },
+      "summary": {
+        "ar": "إعداد قياسات معايرة وسجلات للكميات ومرجع تكلفة بالأسعار الحالية. الكميات الصافية والسعر الكامل ما زالا غير مكتملين بسبب تفاصيل الفتحات والمساند والمواصفات.",
+        "en": "Prepared calibrated measurements, quantity registers and costing references using current rates. Net quantities and a complete price remain incomplete pending opening, support and specification details."
+      },
+      "status": "active",
+      "date": "2026-10-09",
+      "visibility": "public"
     }
   ]
 }
