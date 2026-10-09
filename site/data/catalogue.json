@@ -646,8 +646,8 @@
         "en": "WATAD hand quantities and reference costing"
       },
       "summary": {
-        "ar": "توسيع التقدير اليدوي ليشمل الأسقف والأساسات والأرضيات وبنود الهيكل الأخرى، مع فصل مخصصات الميزانية عن الكميات المقاسة. المراجعة معلقة إلى حين تأكيد التفاصيل الهندسية والكميات الصافية.",
-        "en": "Expanded the hand budget to roofs, foundations, ground floors and other shell items, separating budget provisions from measured quantities. Review remains pending engineering details and net quantities."
+        "ar": "مراجعة التقدير اليدوي وفق منهج التطبيق في تحديد النطاق والكميات والتكاليف ومصاريف الموقع والهوامش. تمت مطابقة الحسابات المرجعية؛ لا تزال التفاصيل الهندسية وبعض بنود النطاق قيد المراجعة.",
+        "en": "Reworked the hand estimate around the app’s scope, quantity, cost, site-expense and markup methods. Reference calculations reconciled; engineering details and some scope items remain under review."
       },
       "status": "active",
       "date": "2026-10-09",
