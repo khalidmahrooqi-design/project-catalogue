@@ -616,8 +616,8 @@
         "en": "Manual estimating and drawing review skill"
       },
       "summary": {
-        "ar": "تحديث سير عمل تقدير واتد ذي المراحل الخمس بمنهج تكلفة ونطاق واضحين. تُستخدم رسومات الهيكل الخرساني التقليدي مرجعاً للأبعاد، وتُراجع مساند واتد وأساساته بصورة مستقلة. اجتازت فحوص المهارة؛ لم يُختبر التنفيذ على مشروع فعلي.",
-        "en": "Updated the five-stage WATAD workflow with reviewed costing and explicit scope. Conventional RCC drawings provide dimension references; WATAD supports and foundations are assessed independently. Skill validation passed; real project execution remains untested."
+        "ar": "تحديث مهارة تقدير واتد ذات المراحل الخمس بمنهج تكلفة ونطاق واضحين، وإضافة تسجيل التقدير ومسودة العرض في نظام متابعة الفرص بنهاية المرحلة الخامسة. رسومات الهيكل التقليدي مرجع للأبعاد فقط. اجتازت فحوص المهارة؛ لم يُختبر الحفظ الفعلي للسجلات.",
+        "en": "Updated the five-stage WATAD skill with explicit costing scope and a final Stage 5 step to record the estimate and draft offer in the private pipeline. Conventional frame drawings serve as dimension references only. Skill checks passed; live record writes remain untested."
       },
       "status": "completed",
       "date": "2026-10-09",
