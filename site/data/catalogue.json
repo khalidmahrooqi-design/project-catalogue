@@ -650,6 +650,21 @@
       "status": "active",
       "date": "2026-10-09",
       "visibility": "public"
+    },
+    {
+      "id": "01a120ef-3835-7791-8334-93ad9147410b",
+      "projectId": "al-aoula-idc",
+      "title": {
+        "ar": "تنظيم ملفات الهوية البصرية",
+        "en": "Brand asset organisation"
+      },
+      "summary": {
+        "ar": "تنظيم الأدلة والقوالب والشعارات وأرشفة النسخ المكررة مع التحقق من حفظ الملفات الأصلية.",
+        "en": "Organised brand guides, templates and logos; archived duplicate copies and verified preservation of the original files."
+      },
+      "status": "completed",
+      "date": "2026-10-09",
+      "visibility": "public"
     }
   ]
 }
