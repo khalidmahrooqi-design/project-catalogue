@@ -727,6 +727,21 @@
       "status": "completed",
       "date": "2026-10-09",
       "visibility": "public"
+    },
+    {
+      "id": "01a121e1-f9b9-7852-9bf2-8cbaffeeb2a6",
+      "projectId": "abs",
+      "title": {
+        "ar": "مراجعة توافق رسومات سكنية مع نظام وتد",
+        "en": "Review residential drawings for WATAD compatibility"
+      },
+      "summary": {
+        "ar": "أُنجز فحص أولي للرسومات ومسارات الأحمال؛ خيارات التحويل تحتاج مراجعة قبل الحصر والتسعير.",
+        "en": "Preliminary drawing and load-path screening completed; conversion options need review before take-off and pricing."
+      },
+      "status": "active",
+      "date": "2026-10-09",
+      "visibility": "public"
     }
   ]
 }
