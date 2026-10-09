@@ -635,6 +635,21 @@
       "status": "active",
       "date": "2026-10-09",
       "visibility": "public"
+    },
+    {
+      "id": "01a120e7-809c-7262-a67b-4519308c9776",
+      "projectId": "al-aoula-idc",
+      "title": {
+        "ar": "تطوير رمز شعار وتد",
+        "en": "WATAD logo icon refinement"
+      },
+      "summary": {
+        "ar": "إعداد مسودة شعار برمز ألواح بناء أكثر وضوحاً، مع الحفاظ على ألوان علم عُمان والاسم بالعربية والإنجليزية. بانتظار مراجعة التصميم.",
+        "en": "Prepared a logo draft with a clearer construction-panel icon, retaining Oman flag colours and Arabic and English naming. Design review pending."
+      },
+      "status": "active",
+      "date": "2026-10-09",
+      "visibility": "public"
     }
   ]
 }
