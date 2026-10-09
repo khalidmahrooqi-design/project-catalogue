@@ -616,8 +616,8 @@
         "en": "Manual estimating and drawing review skill"
       },
       "summary": {
-        "ar": "إعداد خمس مراحل بمراجعة المستخدم: توافق التصميم، والحصر والتكلفة اليدويان، وإدخال التقدير في التطبيق، والمقارنة، وقرار إعداد مسودة عرض. تعرض كل مرحلة ملخصاً في المحادثة وتنتظر الموافقة. اجتازت فحوص المهارة؛ لم يُختبر التنفيذ على الرسومات أو التطبيق.",
-        "en": "Configured five reviewed stages: design compatibility, hand take-off/costing, Estimator app entry, comparison and a draft-offer decision. Each stage gives a chat summary and waits for approval. Skill checks passed; drawing and live app execution remain untested."
+        "ar": "تحديث سير عمل تقدير واتد ذي المراحل الخمس بنطاق التكلفة والحصر المقاس وبناء التكاليف وتسعير القوالب وفحوص التطبيق ومطابقة العرض، بعد الموافقة. بقيت نقاط المراجعة؛ اجتازت فحوص المهارة، ولم يُختبر التنفيذ على مشروع فعلي.",
+        "en": "Updated the five-stage WATAD workflow with approved costing scope, measured quantities, cost build-up, template pricing, app checks and offer reconciliation. Review checkpoints retained. Skill validation passed; live project execution remains untested."
       },
       "status": "completed",
       "date": "2026-10-09",
