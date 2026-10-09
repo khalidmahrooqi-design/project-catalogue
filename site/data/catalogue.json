@@ -665,6 +665,21 @@
       "status": "completed",
       "date": "2026-10-09",
       "visibility": "public"
+    },
+    {
+      "id": "01a1211e-f649-7360-8087-3675604c2720",
+      "projectId": "abs",
+      "title": {
+        "ar": "تصور موقع متابعة فرص ومشاريع ABS",
+        "en": "ABS leads and projects website proposal"
+      },
+      "summary": {
+        "ar": "مراجعة تصميم الدليل واقتراح وظائف لمتابعة الفرص والمشاريع بصلاحيات محددة. مرحلة التصور؛ لم يُنشأ التطبيق بعد.",
+        "en": "Reviewed the catalogue design and proposed lead and project tracking functions with controlled access. Planning stage; the application has not been built."
+      },
+      "status": "planned",
+      "date": "2026-10-09",
+      "visibility": "public"
     }
   ]
 }
