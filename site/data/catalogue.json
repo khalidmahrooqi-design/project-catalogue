@@ -629,8 +629,8 @@
         "en": "WATAD hand quantities and reference costing"
       },
       "summary": {
-        "ar": "إعداد قياسات معايرة وسجلات للكميات ومرجع تكلفة بالأسعار الحالية. الكميات الصافية والسعر الكامل ما زالا غير مكتملين بسبب تفاصيل الفتحات والمساند والمواصفات.",
-        "en": "Prepared calibrated measurements, quantity registers and costing references using current rates. Net quantities and a complete price remain incomplete pending opening, support and specification details."
+        "ar": "توسيع التقدير اليدوي ليشمل الأسقف والأساسات والأرضيات وبنود الهيكل الأخرى، مع فصل مخصصات الميزانية عن الكميات المقاسة. المراجعة معلقة إلى حين تأكيد التفاصيل الهندسية والكميات الصافية.",
+        "en": "Expanded the hand budget to roofs, foundations, ground floors and other shell items, separating budget provisions from measured quantities. Review remains pending engineering details and net quantities."
       },
       "status": "active",
       "date": "2026-10-09",
