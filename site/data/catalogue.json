@@ -736,8 +736,8 @@
         "en": "Review residential drawings for WATAD compatibility"
       },
       "summary": {
-        "ar": "أُعد حصر يدوي أولي وتكلفة جزئية، واجتازت الحسابات فحوص المطابقة. حصر الأساسات والبلاطات والتسليح والدعامات ما زال غير مكتمل؛ مراجعة المرحلة الثانية مطلوبة.",
-        "en": "Provisional hand quantities and partial costing prepared; arithmetic reconciliations passed. Foundations, full slabs, reinforcement and supports remain incomplete; Stage 2 review pending."
+        "ar": "أُعدت ميزانية أولية لكامل النطاق الإنشائي بمخصصات معلنة، واجتازت الحسابات والمطابقات الفحص. مراجعة المرحلة الثانية مطلوبة قبل إدخال التقدير؛ التصميم وعروض الموردين بحاجة إلى تأكيد.",
+        "en": "Full preliminary structural budget prepared with explicit allowances; arithmetic and reconciliations passed. Stage 2 review pending before app entry; design and supplier quotations need confirmation."
       },
       "status": "active",
       "date": "2026-10-09",
