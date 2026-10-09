@@ -751,8 +751,8 @@
         "en": "GitHub deployment and estimate value updates"
       },
       "summary": {
-        "ar": "إعداد نشر الموقع عبر جيتهب وتحديث قيم التقديرات ومسودات العروض من الجلسة عبر مسار مصادق عليه. اجتازت الفحوص المحلية وفحوص بيئة التجربة. تفعيل بيانات الوصول قيد الموافقة؛ لم تُغيّر قيم العملاء.",
-        "en": "Prepared GitHub website deployment and authenticated session updates to estimate and draft-offer values. Local and staging checks passed. Credential activation awaits approval; no client values changed."
+        "ar": "اجتاز النشر عبر جيتهب فحوص بيئتي التجربة والإنتاج. نجح تحديث قيم تقدير ومسودة عرض ببيانات اختبار مع التحقق من سجل التعديلات. لم تُغيّر قيم العملاء؛ المراجعة النهائية للإعداد قيد الإنجاز.",
+        "en": "GitHub deployment passed staging and production checks. Synthetic estimate and draft-offer value updates passed with revision history verified. No client values changed; final setup review remains in progress."
       },
       "status": "active",
       "date": "2026-10-09",
