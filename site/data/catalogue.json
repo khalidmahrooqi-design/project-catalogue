@@ -291,8 +291,8 @@
         "en": "WATAD Presentation Website"
       },
       "summary": {
-        "ar": "كتالوج تسويقي لنظام وتد بالعربية والإنجليزية، موجّه للمهندسين والمقاولين والمطورين وأصحاب المنازل. يضم صور التطبيقات، وستة عناصر للنظام، ومقارنات أداء محددة المراجع. نُشر الإصدار v1.1.2 وفُحص الموقع الحي.",
-        "en": "An Arabic and English WATAD marketing catalogue for engineers, contractors, developers and homeowners, with project galleries, six system elements and source-qualified performance comparisons. Release v1.1.2 is published and live-verified."
+        "ar": "كتالوج تسويقي لنظام وتد بالعربية والإنجليزية، موجّه للمهندسين والمقاولين والمطورين وأصحاب المنازل. يضم صور التطبيقات وعناصر النظام ومقارنات أداء محددة المراجع. نُشر الإصدار v1.1.3 بصياغة عربية محدّثة واسم الشركة وشعار وتد المعتمدين، وتحقق تشغيله على الموقع الحي في 9 أكتوبر 2026.",
+        "en": "An Arabic and English WATAD marketing catalogue for engineers, contractors, developers and homeowners, with project galleries, system elements and source-qualified performance comparisons. Release v1.1.3 adds revised Arabic wording and the approved company name and WATAD logo; verified live on 9 October 2026."
       },
       "kind": "website",
       "group": "al-aoula",
@@ -509,8 +509,8 @@
         "en": "Build and publish the WATAD website"
       },
       "summary": {
-        "ar": "نُشرت صور عناصر وتد والمحتويات التسويقية المنقحة، مع إزالة الملاحظات الداخلية وإضافة مقارنة حرارية محددة المرجع. اجتاز الإصدار 15 فحصاً في Edge و35 فحصاً عبر محركات المتصفحات، ثم التحقق من الصفحات المنشورة بالعربية والإنجليزية.",
-        "en": "Published WATAD element renders and revised marketing copy, removed internal notes and added a qualified thermal comparison. Passed 15 Edge checks, 35 cross-engine checks and live Arabic/English page verification."
+        "ar": "تحديث 13 موضعاً في النص العربي وتوحيد اسم الشركة الأولى للاستثمار والتطوير. اعتُمد شعار وتد في الموقع ورمز QR والأيقونات وصور معاينة الروابط. نُشر الإصدار v1.1.3 وتحقق تشغيله حياً، مع اجتياز 15 فحصاً في Edge وقراءة رمز QR بسبعة أحجام.",
+        "en": "Updated 13 Arabic wording items and standardized the approved Arabic company name. Applied the approved WATAD logo across the website, QR code, icons and link previews. Published and live-verified v1.1.3, with 15 Edge checks and QR decoding at seven sizes passed."
       },
       "status": "completed",
       "date": "2026-10-09",
