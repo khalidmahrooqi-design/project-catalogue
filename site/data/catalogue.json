@@ -122,8 +122,8 @@
         "en": "WATAD Estimator"
       },
       "summary": {
-        "ar": "تطبيق تقديرات وتد؛ أُضيف Codex إلى شاشة رفع المخططات مع مراجعة مصادر الغرف وحفظ نتائج القراءة. دقة الحصر ومراجعة التصميم تحتاجان إلى تحقق مستقل.",
-        "en": "WATAD estimating application. Codex is integrated into drawing uploads with room-source review and saved readings. Quantity accuracy and design verification require separate checks."
+        "ar": "تطبيق تقديرات وتد؛ يعيد Codex قراءة المخططات غير المكتملة ويطابق الطوابق والغرف والفتحات تلقائياً داخل التطبيق. اختُبر الحفظ ورفض التعارض مع الحفاظ على التقديرات السابقة. اكتمال الحصر والتصميم يحتاجان إلى تحقق مستقل.",
+        "en": "WATAD estimating application. Codex rereads incomplete plans and reconciles floors, rooms and openings automatically inside the App. Persistence and save-conflict protection were tested while existing estimates were preserved. Complete take-off and design require separate verification."
       },
       "kind": "app",
       "group": "independent",
@@ -572,8 +572,8 @@
         "en": "Audit and improve the ABS Estimator and ERP apps"
       },
       "summary": {
-        "ar": "أُدمج قارئ Codex في شاشة رفع الرسومات وجُعل الخيار الافتراضي للمشرفين، مع دعم ملفات PDF حتى 30 صفحة على دفعات صغيرة. اختُبر الاستيراد والحفظ وإعادة التحميل ورفض الحفظ القديم. أكدت مقارنة إعادة مسح محفوظة أن الأدلة الجديدة تنتظر استيراد الكميات، بينما بقيت كميات التقدير وتسعيره الفعلي دون تغيير. دقة الحصر تتطلب مراجعة مستقلة.",
-        "en": "Integrated Codex into the drawing-upload screen as the admin default, with PDFs up to 30 pages read in small batches. Import, save/reload and stale-save rejection were tested. A saved rescan comparison confirmed that new drawing evidence awaited quantity import; existing estimate quantities and effective pricing were unchanged. Quantity accuracy requires independent review."
+        "ar": "نُشر إصلاح القراءة والمطابقة التلقائية في شاشة المخططات، مع إعادة قراءة التفاصيل، وتمييز المساحات وأعداد الفتحات، ومنع تكرار الصفوف المدعوم بالأدلة. نجح اختبار حي للاستيراد والحفظ وإعادة التحميل ورفض الحفظ القديم. بقيت السجلات الأصلية ومعدلات التسعير دون تغيير. يعرض التطبيق الأدلة غير المكتملة بوضوح؛ ولا تعني النتيجة حصر كميات مكتملًا أو اعتماداً هندسياً.",
+        "en": "Deployed automatic drawing reconciliation in the existing upload screen, with detailed rereads, area/count distinctions and evidence-based duplicate removal. Live import, save/reload and stale-save rejection passed. Original records and rate masters were preserved. Unresolved evidence remains visible; the result does not establish a complete take-off or engineering approval."
       },
       "status": "completed",
       "date": "2026-10-10",
