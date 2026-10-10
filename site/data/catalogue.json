@@ -572,8 +572,8 @@
         "en": "Audit and improve the ABS Estimator and ERP apps"
       },
       "summary": {
-        "ar": "أُدمج قارئ Codex في شاشة رفع الرسومات وجُعل الخيار الافتراضي للمشرفين. اختُبر الاستيراد والحفظ وإعادة التحميل ورفض الحفظ القديم، ثم عُدّل حد ملفات PDF إلى 30 صفحة مع إبقاء القراءة في دفعات صغيرة. بقيت التقديرات الحالية محفوظة، ودقة الكميات تتطلب مراجعة مستقلة.",
-        "en": "Integrated Codex into the existing drawing-upload screen as the admin default. Tested import, save/reload and stale-save rejection, then extended PDFs to 30 pages while retaining small reading batches. Existing estimates are preserved; quantity accuracy requires independent review."
+        "ar": "أُدمج قارئ Codex في شاشة رفع الرسومات وجُعل الخيار الافتراضي للمشرفين، مع دعم ملفات PDF حتى 30 صفحة على دفعات صغيرة. اختُبر الاستيراد والحفظ وإعادة التحميل ورفض الحفظ القديم. أكدت مقارنة إعادة مسح محفوظة أن الأدلة الجديدة تنتظر استيراد الكميات، بينما بقيت كميات التقدير وتسعيره الفعلي دون تغيير. دقة الحصر تتطلب مراجعة مستقلة.",
+        "en": "Integrated Codex into the drawing-upload screen as the admin default, with PDFs up to 30 pages read in small batches. Import, save/reload and stale-save rejection were tested. A saved rescan comparison confirmed that new drawing evidence awaited quantity import; existing estimate quantities and effective pricing were unchanged. Quantity accuracy requires independent review."
       },
       "status": "completed",
       "date": "2026-10-10",
