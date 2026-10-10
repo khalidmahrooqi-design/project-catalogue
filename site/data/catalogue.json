@@ -763,14 +763,14 @@
       "id": "01a12549-5140-7cd2-8116-1a57c88b1728",
       "projectId": "al-aoula-idc",
       "title": {
-        "ar": "تعريب فيديو نظام إمديو",
-        "en": "Arabic Emmedue video"
+        "ar": "فيديو وتد بصوت عربي وشعار الأولى",
+        "en": "WATAD video with Arabic narration and Al Oula logo"
       },
       "summary": {
-        "ar": "أُضيف شعار الأولى إلى الفيديو بدقة 1080p. يجري تحسين النطق والتعليق الصوتي العربي، مع إعداد نص مضبوط وعينة للمراجعة.",
-        "en": "Added the Al Oula logo to the 1080p video. Arabic pronunciation and narration are being revised, with a pronunciation-marked script and review sample prepared."
+        "ar": "اكتملت نسخة بدقة 1080p بتعليق صوتي عربي محسّن، وترجمة عربية متزامنة، وشعار الأولى. اعتمد خالد عينة الصوت، وأُدرج اسم وتد في التعليق الصوتي والترجمة. اجتازت النسخة فحوص التوقيت وسلامة الملف.",
+        "en": "Completed a 1080p version with improved Arabic narration, synchronized Arabic subtitles and the Al Oula logo. Khalid accepted the voice sample, and WATAD was used in narration and subtitles. Timing and file decoding checks passed."
       },
-      "status": "active",
+      "status": "completed",
       "date": "2026-10-10",
       "visibility": "public"
     }
