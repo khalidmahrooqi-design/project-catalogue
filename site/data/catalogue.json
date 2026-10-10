@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "projects": [
     {
       "id": "a-shahiq",
@@ -291,15 +291,16 @@
         "en": "WATAD Presentation Website"
       },
       "summary": {
-        "ar": "كتالوج تسويقي لنظام وتد بالعربية والإنجليزية، موجّه للمهندسين والمقاولين والمطورين وأصحاب المنازل. يضم صور التطبيقات وعناصر النظام ومقارنات أداء محددة المراجع. أُعد الموقع ونُشر للانتقال إلى نطاق الشركة www.aloulaidc.om؛ تفعيل الاتصال الآمن والفحوص النهائية للموقع قيد الاستكمال.",
-        "en": "An Arabic and English WATAD marketing catalogue for engineers, contractors, developers and homeowners, with project galleries, system elements and source-qualified performance comparisons. Prepared and published for the company domain www.aloulaidc.om; secure-domain activation and final live checks are pending."
+        "ar": "كتالوج تسويقي لنظام وتد بالعربية والإنجليزية، موجّه للمهندسين والمقاولين والمطورين وأصحاب المنازل. يضم عناصر النظام ومقارنات أداء محددة المراجع و639 صورة ضمن 45 مجموعة. يعمل على نطاق الشركة www.aloulaidc.om باتصال آمن، وتحقق تشغيله وتحويل الروابط السابقة في 10 أكتوبر 2026.",
+        "en": "An Arabic and English WATAD marketing catalogue for engineers, contractors, developers and homeowners, with system elements, source-qualified performance comparisons and 639 photos across 45 collections. Live securely on www.aloulaidc.om, with the website and previous-link redirects verified on 10 October 2026."
       },
       "kind": "website",
       "group": "al-aoula",
-      "status": "active",
-      "verified": "2026-10-09",
+      "status": "live",
+      "verified": "2026-10-10",
       "visibility": "public",
-      "companyId": "al-aoula-idc"
+      "companyId": "al-aoula-idc",
+      "url": "https://www.aloulaidc.om/"
     },
     {
       "id": "mg-group",
@@ -526,11 +527,11 @@
         "en": "Move the WATAD website to the company domain"
       },
       "summary": {
-        "ar": "تجهيز الموقع للنشر على نطاق الشركة، وتحديث روابط الصفحات والمعاينات والتحويلات من الروابط السابقة، مع الحفاظ على المحتوى العربي والإنجليزي ومعارض الصور. نُشرت إعدادات الانتقال؛ تفعيل الاتصال الآمن والفحوص النهائية على النطاق الجديد ما زالا قيد الاستكمال.",
-        "en": "Prepared the website for the company domain and updated page links, previews and redirects from previous URLs while preserving bilingual content and galleries. Migration settings are published; secure-domain activation and final checks on the new domain remain pending."
+        "ar": "اكتمل نقل موقع وتد إلى نطاق الشركة وتفعيل اتصال HTTPS وتحويل الروابط السابقة إلى الموقع الجديد. اجتازت الصفحات والوسائط وأدوات العرض الفحوص على الموقع الحي، وتحقق تحميل مجموعات الصور الـ45 التي تضم 639 صورة.",
+        "en": "Completed the WATAD website move to the company domain with HTTPS and redirects from previous URLs. Live page, media and presentation-control checks passed, along with checks of all 45 photo collections containing 639 photos."
       },
-      "status": "active",
-      "date": "2026-10-09",
+      "status": "completed",
+      "date": "2026-10-10",
       "visibility": "public"
     },
     {
