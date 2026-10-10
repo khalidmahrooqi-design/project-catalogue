@@ -291,8 +291,8 @@
         "en": "WATAD Presentation Website"
       },
       "summary": {
-        "ar": "كتالوج تسويقي لنظام وتد بالعربية والإنجليزية، موجّه للمهندسين والمقاولين والمطورين وأصحاب المنازل. يضم عناصر النظام ومقارنات أداء محددة المراجع و639 صورة ضمن 45 مجموعة. يعمل على نطاق الشركة www.aloulaidc.om باتصال آمن، وتحقق تشغيله وتحويل الروابط السابقة في 10 أكتوبر 2026.",
-        "en": "An Arabic and English WATAD marketing catalogue for engineers, contractors, developers and homeowners, with system elements, source-qualified performance comparisons and 639 photos across 45 collections. Live securely on www.aloulaidc.om, with the website and previous-link redirects verified on 10 October 2026."
+        "ar": "كتالوج نظام وتد بالعربية والإنجليزية للمهندسين والمقاولين والمطورين وأصحاب المنازل. يضم نبذة عن الأولى ومصنع وتد، وفيديوهات التركيب والاختبارات، ومراجع أداء مرتبطة بتقاريرها، و639 صورة ضمن 45 مجموعة، منها معرض مختار من 14 صورة للمرونة المعمارية. تحقق الموقع الآمن على www.aloulaidc.om في 10 أكتوبر 2026.",
+        "en": "An Arabic and English WATAD catalogue for engineers, contractors, developers and homeowners. Includes Al Oula and factory sections, installation and test videos, performance results linked to source reports, and 639 photos across 45 collections, with a selected 14-photo architectural gallery. The secure www.aloulaidc.om website was verified on 10 October 2026."
       },
       "kind": "website",
       "group": "al-aoula",
@@ -523,12 +523,12 @@
       "id": "01a1123c-1385-7d30-9069-b0f4b8a554a2",
       "projectId": "watad-presentation-website",
       "title": {
-        "ar": "نقل موقع وتد إلى نطاق الشركة",
-        "en": "Move the WATAD website to the company domain"
+        "ar": "إطلاق موقع وتد وتحديث المحتوى والمراجع الفنية",
+        "en": "Launch WATAD and update its content and technical references"
       },
       "summary": {
-        "ar": "اكتمل نقل موقع وتد إلى نطاق الشركة وتفعيل اتصال HTTPS وتحويل الروابط السابقة إلى الموقع الجديد. اجتازت الصفحات والوسائط وأدوات العرض الفحوص على الموقع الحي، وتحقق تحميل مجموعات الصور الـ45 التي تضم 639 صورة. أُضيف شعار الأولى بجوار شعار وتد، مع زيادة تباين النصوص الصغيرة على الخلفية الرمادية الفاتحة. أصبح النمط الداكن هو الافتراضي للزيارة الأولى، مع حفظ اختيار الزائر ومزامنة لون المتصفح مع النمط المختار.",
-        "en": "Completed the WATAD website move to the company domain with HTTPS and redirects from previous URLs. Live page, media and presentation-control checks passed, along with checks of all 45 photo collections containing 639 photos. Added the Al Oula logo beside WATAD and improved small-text contrast on light-grey backgrounds. Dark mode is now the first-visit default, with saved theme choices retained and browser theme colour kept in sync."
+        "ar": "اكتمل نقل الموقع إلى نطاق الشركة باتصال آمن، مع الشعارين والنمط الداكن الافتراضي وتحسين التباين. نُشرت أقسام الأولى والمصنع وفيديوهات التركيب والاختبارات ومعرض من 14 صورة أسفل عناصر النظام. أضيفت روابط لثمانية مستندات فنية، مع توضيح العينة وشروط الاختبار ومصدر كل نتيجة. اجتازت النسخة المنشورة فحوص المتصفحات الثلاثة والفحوص الحية بالعربية والإنجليزية في 10 أكتوبر 2026.",
+        "en": "Completed the secure company-domain launch, paired logos, dark default and improved contrast. Published Al Oula and factory sections, installation and test videos, and a 14-photo gallery below the system elements. Linked eight technical documents with results tied to their tested assemblies, conditions and sources. The published version passed three-engine browser checks and live Arabic and English checks on 10 October 2026."
       },
       "status": "completed",
       "date": "2026-10-10",
