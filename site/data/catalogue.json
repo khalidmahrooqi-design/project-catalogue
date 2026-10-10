@@ -773,6 +773,21 @@
       "status": "completed",
       "date": "2026-10-10",
       "visibility": "public"
+    },
+    {
+      "id": "01a12599-6896-7ce3-bf9f-be4ebfb324d7",
+      "projectId": "marasi",
+      "title": {
+        "ar": "مراجعة موقع مراسي",
+        "en": "Marasi website review"
+      },
+      "summary": {
+        "ar": "مراجعة الصفحات الرئيسية وعرض الهاتف تمهيداً لتحديد تحديثات المحتوى والتصميم. لم تُنفّذ تعديلات على الموقع.",
+        "en": "Reviewed the main pages and mobile layout to prepare content and design updates. No website changes implemented."
+      },
+      "status": "completed",
+      "date": "2026-10-10",
+      "visibility": "public"
     }
   ]
 }
