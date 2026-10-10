@@ -122,13 +122,13 @@
         "en": "WATAD Estimator"
       },
       "summary": {
-        "ar": "تطبيق تقديرات وتد؛ اختُبرت حسابات الهيكل والتكاليف وقراءة الرسومات، مع استمرار التحقق من دقة حصر الكميات.",
-        "en": "WATAD estimating application. Structural calculations, costs and drawing extraction tested; quantity accuracy remains under review."
+        "ar": "تطبيق تقديرات وتد؛ أُضيف Codex إلى شاشة رفع المخططات مع مراجعة مصادر الغرف وحفظ نتائج القراءة. دقة الحصر ومراجعة التصميم تحتاجان إلى تحقق مستقل.",
+        "en": "WATAD estimating application. Codex is integrated into drawing uploads with room-source review and saved readings. Quantity accuracy and design verification require separate checks."
       },
       "kind": "app",
       "group": "independent",
       "status": "active",
-      "verified": "2026-10-08",
+      "verified": "2026-10-10",
       "visibility": "public"
     },
     {
@@ -572,11 +572,11 @@
         "en": "Audit and improve the ABS Estimator and ERP apps"
       },
       "summary": {
-        "ar": "نُفذت تحسينات معتمدة لحفظ البيانات والصلاحيات والتنقل والتكاليف، مع اختبارات برمجية والتحقق من التطبيقين على الإنترنت.",
-        "en": "Implemented approved improvements to data saving, permissions, navigation and costing displays; tested the code and verified both online apps."
+        "ar": "نُفذت تحسينات معتمدة في التطبيقين. أُضيف Codex إلى شاشة رفع المخططات في تطبيق التقديرات، واختُبر الاستيراد والحفظ وإعادة التحميل ورفض تعارض الحفظ، مع الحفاظ على التقديرات القائمة.",
+        "en": "Delivered approved app improvements. Integrated Codex into the Estimator drawing-upload workflow and tested import, save/reload and stale-save rejection while preserving existing estimates."
       },
       "status": "completed",
-      "date": "2026-10-08",
+      "date": "2026-10-10",
       "visibility": "public"
     },
     {
