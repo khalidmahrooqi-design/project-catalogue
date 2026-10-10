@@ -767,10 +767,10 @@
         "en": "Arabic Emmedue video"
       },
       "summary": {
-        "ar": "أُعدّت نسخة بدقة 1080p بتعليق صوتي عربي آلي وترجمة عربية اختيارية. اجتازت فحوص التوقيت وسلامة الملف مع الحفاظ على الصور الأصلية.",
-        "en": "Prepared a 1080p version with synthetic Arabic narration and selectable Arabic subtitles. Timing and file decoding checks passed, with the original visuals preserved."
+        "ar": "أُضيف شعار الأولى إلى الفيديو بدقة 1080p. يجري تحسين النطق والتعليق الصوتي العربي، مع إعداد نص مضبوط وعينة للمراجعة.",
+        "en": "Added the Al Oula logo to the 1080p video. Arabic pronunciation and narration are being revised, with a pronunciation-marked script and review sample prepared."
       },
-      "status": "completed",
+      "status": "active",
       "date": "2026-10-10",
       "visibility": "public"
     }
