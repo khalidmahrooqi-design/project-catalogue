@@ -758,6 +758,21 @@
       "status": "completed",
       "date": "2026-10-09",
       "visibility": "public"
+    },
+    {
+      "id": "01a12549-5140-7cd2-8116-1a57c88b1728",
+      "projectId": "al-aoula-idc",
+      "title": {
+        "ar": "تعريب فيديو نظام إمديو",
+        "en": "Arabic Emmedue video"
+      },
+      "summary": {
+        "ar": "أُعدّت نسخة بدقة 1080p بتعليق صوتي عربي آلي وترجمة عربية اختيارية. اجتازت فحوص التوقيت وسلامة الملف مع الحفاظ على الصور الأصلية.",
+        "en": "Prepared a 1080p version with synthetic Arabic narration and selectable Arabic subtitles. Timing and file decoding checks passed, with the original visuals preserved."
+      },
+      "status": "completed",
+      "date": "2026-10-10",
+      "visibility": "public"
     }
   ]
 }
