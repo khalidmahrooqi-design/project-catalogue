@@ -122,8 +122,8 @@
         "en": "WATAD Estimator"
       },
       "summary": {
-        "ar": "تطبيق تقديرات وتد؛ يعيد Codex قراءة المخططات غير المكتملة ويطابق الطوابق والغرف والفتحات تلقائياً داخل التطبيق. اختُبر الحفظ ورفض التعارض مع الحفاظ على التقديرات السابقة. اكتمال الحصر والتصميم يحتاجان إلى تحقق مستقل.",
-        "en": "WATAD estimating application. Codex rereads incomplete plans and reconciles floors, rooms and openings automatically inside the App. Persistence and save-conflict protection were tested while existing estimates were preserved. Complete take-off and design require separate verification."
+        "ar": "تطبيق تقديرات وتد. Codex هو الماسح الافتراضي للمستخدمين المخولين، ويقرأ التفاصيل ويطابق الطوابق والغرف والفتحات داخل التطبيق. نُشرت أدوات حصر الكميات مع ضوابط المصدر ونطاق الأعمال والتعارض في الحفظ؛ ويستمر التحقق المستقل من اكتمال النتائج.",
+        "en": "WATAD estimating application. Codex is the default scanner for authorised users and reads details and reconciles floors, rooms and openings inside the App. Quantity tools were deployed with source, scope and save-conflict controls; independent completeness acceptance remains active."
       },
       "kind": "app",
       "group": "independent",
@@ -572,10 +572,10 @@
         "en": "Audit and improve the ABS Estimator and ERP apps"
       },
       "summary": {
-        "ar": "نُشر إصلاح القراءة والمطابقة التلقائية في شاشة المخططات، مع إعادة قراءة التفاصيل، وتمييز المساحات وأعداد الفتحات، ومنع تكرار الصفوف المدعوم بالأدلة. نجح اختبار حي للاستيراد والحفظ وإعادة التحميل ورفض الحفظ القديم. بقيت السجلات الأصلية ومعدلات التسعير دون تغيير. يعرض التطبيق الأدلة غير المكتملة بوضوح؛ ولا تعني النتيجة حصر كميات مكتملًا أو اعتماداً هندسياً.",
-        "en": "Deployed automatic drawing reconciliation in the existing upload screen, with detailed rereads, area/count distinctions and evidence-based duplicate removal. Live import, save/reload and stale-save rejection passed. Original records and rate masters were preserved. Unresolved evidence remains visible; the result does not establish a complete take-off or engineering approval."
+        "ar": "نُشرت تحديثات ماسح Codex في شاشة المخططات الحالية، مع أدوات لقراءة التفاصيل والكميات وضوابط تمنع تكرار احتسابها. اجتازت الاختبارات البرمجية والحفظ، ويستمر التحقق من نتائج المخططات والمسار الحي. تبقى الكميات غير المكتملة ظاهرة ولا تُعد اعتماداً هندسياً.",
+        "en": "Deployed Codex scanner updates in the existing drawing screen, with detail-reading and quantity tools and duplicate-pricing safeguards. Software and persistence checks passed; drawing-result and live-workflow acceptance remain active. Incomplete quantities stay visible and do not constitute engineering approval."
       },
-      "status": "completed",
+      "status": "active",
       "date": "2026-10-10",
       "visibility": "public"
     },
