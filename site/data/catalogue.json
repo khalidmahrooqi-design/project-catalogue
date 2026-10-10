@@ -527,8 +527,8 @@
         "en": "Move the WATAD website to the company domain"
       },
       "summary": {
-        "ar": "اكتمل نقل موقع وتد إلى نطاق الشركة وتفعيل اتصال HTTPS وتحويل الروابط السابقة إلى الموقع الجديد. اجتازت الصفحات والوسائط وأدوات العرض الفحوص على الموقع الحي، وتحقق تحميل مجموعات الصور الـ45 التي تضم 639 صورة. أُضيف شعار الأولى بجوار شعار وتد، مع زيادة تباين النصوص الصغيرة على الخلفية الرمادية الفاتحة.",
-        "en": "Completed the WATAD website move to the company domain with HTTPS and redirects from previous URLs. Live page, media and presentation-control checks passed, along with checks of all 45 photo collections containing 639 photos. Added the Al Oula logo beside WATAD and improved small-text contrast on light-grey backgrounds."
+        "ar": "اكتمل نقل موقع وتد إلى نطاق الشركة وتفعيل اتصال HTTPS وتحويل الروابط السابقة إلى الموقع الجديد. اجتازت الصفحات والوسائط وأدوات العرض الفحوص على الموقع الحي، وتحقق تحميل مجموعات الصور الـ45 التي تضم 639 صورة. أُضيف شعار الأولى بجوار شعار وتد، مع زيادة تباين النصوص الصغيرة على الخلفية الرمادية الفاتحة. أصبح النمط الداكن هو الافتراضي للزيارة الأولى، مع حفظ اختيار الزائر ومزامنة لون المتصفح مع النمط المختار.",
+        "en": "Completed the WATAD website move to the company domain with HTTPS and redirects from previous URLs. Live page, media and presentation-control checks passed, along with checks of all 45 photo collections containing 639 photos. Added the Al Oula logo beside WATAD and improved small-text contrast on light-grey backgrounds. Dark mode is now the first-visit default, with saved theme choices retained and browser theme colour kept in sync."
       },
       "status": "completed",
       "date": "2026-10-10",
