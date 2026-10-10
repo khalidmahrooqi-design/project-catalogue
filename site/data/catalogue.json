@@ -778,12 +778,12 @@
       "id": "01a12599-6896-7ce3-bf9f-be4ebfb324d7",
       "projectId": "marasi",
       "title": {
-        "ar": "مراجعة موقع مراسي",
-        "en": "Marasi website review"
+        "ar": "مراجعة موقع مراسي وتحديثه",
+        "en": "Marasi website review and update"
       },
       "summary": {
-        "ar": "مراجعة الصفحات الرئيسية وعرض الهاتف تمهيداً لتحديد تحديثات المحتوى والتصميم. لم تُنفّذ تعديلات على الموقع.",
-        "en": "Reviewed the main pages and mobile layout to prepare content and design updates. No website changes implemented."
+        "ar": "مراجعة الموقع وتحديث عرض المشاريع والأخبار، مع التحقق من التغييرات على الموقع المنشور.",
+        "en": "Reviewed the website and updated its project and news presentation, with changes verified on the live site."
       },
       "status": "completed",
       "date": "2026-10-10",
