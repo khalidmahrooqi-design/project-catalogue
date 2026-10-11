@@ -122,8 +122,8 @@
         "en": "WATAD Estimator"
       },
       "summary": {
-        "en": "Scanner review reproduced ten processing/import defects, including lost opening types, physical-identity conflicts and synthetic room geometry. A cached result confirmed that some saved errors arose during App import. The recommended repair order is shared evidence handling, Gemini processing, then a comparable Codex first pass with separate physical-quantity checks. Earlier Codex repairs remain undeployed after failing fresh completeness/timing acceptance. No model-superiority or engineering-approval claim.",
-        "ar": "أعادت مراجعة الماسحات إنتاج عشرة أخطاء في المعالجة والاستيراد، منها فقد أنواع الفتحات وتعارض تعريف العناصر وإضافة غرف هندسية افتراضية. أكدت نتيجة محفوظة أن بعض الأخطاء نشأ عند الاستيراد إلى التطبيق. ترتيب الإصلاح المقترح: حفظ الأدلة المشترك، ثم معالجة Gemini، ثم قراءة أولية مماثلة في Codex مع تحقق منفصل من الكميات الفعلية. تبقى إصلاحات Codex السابقة غير منشورة لعدم اجتياز اختبار الاكتمال والمدة. لا ادعاء بتفوق نموذج أو اعتماد هندسي."
+        "en": "Released Gemini processing/import repairs and the Codex scanner candidate for user testing. Regression checks and local App import/save/reload passed; existing project and rate records were preserved. Fresh drawing accuracy remains subject to testing, and Codex still reports incomplete physical quantities explicitly. No claim of model superiority or engineering approval.",
+        "ar": "نُشرت إصلاحات معالجة واستيراد Gemini ونسخة Codex المحسّنة لاختبار المستخدم. اجتازت فحوص الانحدار والاستيراد والحفظ وإعادة الفتح محلياً، مع الحفاظ على سجلات المشاريع والأسعار. تبقى دقة قراءة الرسومات الجديدة قيد الاختبار، ويعرض Codex نقص الكميات الفعلية بوضوح. لا ادعاء بتفوق نموذج أو اعتماد هندسي."
       },
       "kind": "app",
       "group": "independent",
@@ -572,8 +572,8 @@
         "en": "Audit and improve the ABS Estimator and ERP apps"
       },
       "summary": {
-        "en": "Scanner review reproduced ten processing/import defects, including lost opening types, physical-identity conflicts and synthetic room geometry. A cached result confirmed that some saved errors arose during App import. The recommended repair order is shared evidence handling, Gemini processing, then a comparable Codex first pass with separate physical-quantity checks. Earlier Codex repairs remain undeployed after failing fresh completeness/timing acceptance. No model-superiority or engineering-approval claim.",
-        "ar": "أعادت مراجعة الماسحات إنتاج عشرة أخطاء في المعالجة والاستيراد، منها فقد أنواع الفتحات وتعارض تعريف العناصر وإضافة غرف هندسية افتراضية. أكدت نتيجة محفوظة أن بعض الأخطاء نشأ عند الاستيراد إلى التطبيق. ترتيب الإصلاح المقترح: حفظ الأدلة المشترك، ثم معالجة Gemini، ثم قراءة أولية مماثلة في Codex مع تحقق منفصل من الكميات الفعلية. تبقى إصلاحات Codex السابقة غير منشورة لعدم اجتياز اختبار الاكتمال والمدة. لا ادعاء بتفوق نموذج أو اعتماد هندسي."
+        "en": "Released Gemini processing/import repairs and the Codex scanner candidate for user testing. Regression checks and local App import/save/reload passed; existing project and rate records were preserved. Fresh drawing accuracy remains subject to testing, and Codex still reports incomplete physical quantities explicitly. No claim of model superiority or engineering approval.",
+        "ar": "نُشرت إصلاحات معالجة واستيراد Gemini ونسخة Codex المحسّنة لاختبار المستخدم. اجتازت فحوص الانحدار والاستيراد والحفظ وإعادة الفتح محلياً، مع الحفاظ على سجلات المشاريع والأسعار. تبقى دقة قراءة الرسومات الجديدة قيد الاختبار، ويعرض Codex نقص الكميات الفعلية بوضوح. لا ادعاء بتفوق نموذج أو اعتماد هندسي."
       },
       "status": "active",
       "date": "2026-10-11",
