@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "projects": [
     {
       "id": "a-shahiq",
@@ -787,6 +787,21 @@
       },
       "status": "completed",
       "date": "2026-10-10",
+      "visibility": "public"
+    },
+    {
+      "id": "01a129df-e06f-79e0-bc1c-139ca9e49169",
+      "projectId": "abs",
+      "title": {
+        "ar": "مقارنة كميات الأساسات",
+        "en": "Foundation quantity comparison"
+      },
+      "summary": {
+        "ar": "أُعدت مقارنة أولية لكميات الأساسات، مع تسجيل اختلافات الرسومات والبيانات اللازمة لاستكمال الحصر.",
+        "en": "Prepared a provisional foundation quantity comparison and recorded drawing differences and inputs needed to complete the take-off."
+      },
+      "status": "active",
+      "date": "2026-10-11",
       "visibility": "public"
     }
   ]
