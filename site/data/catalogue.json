@@ -122,8 +122,8 @@
         "en": "WATAD Estimator"
       },
       "summary": {
-        "ar": "تطبيق تقديرات وتد. Codex هو الماسح الافتراضي للمستخدمين المخولين داخل شاشة المخططات. اجتازت إصلاحات القراءة والحصر 171 اختباراً برمجياً، والتحقق الحي من الحفظ ورفض الحفظ المتعارض. تبقى الكميات غير المكتملة ظاهرة، مع استمرار الحاجة إلى استكمال نطاق الحصر وتحسين مدة المسح. أُعيدت الصفحة الرئيسية وروابط قوالب الأسعار، وتحقق عملها في التطبيق المنشور في 11 أكتوبر 2026. أُصلح ربط فئات الأسعار وحفظ اختيار القالب، وتحقق عملهما دون إعادة تسعير المشاريع القائمة.",
-        "en": "WATAD estimating application. Codex is the default scanner for authorised users in the drawing screen. Reader and quantity repairs passed 171 software checks and live save/reload and stale-save rejection. Incomplete quantities stay visible; full quantity coverage and scan duration remain open. Home navigation was restored and checked live on 11 October 2026, including access to rate templates. Linked rate tiers and template-selection persistence were repaired and verified without repricing existing projects."
+        "en": "Scanner import repairs now pass local tests for stated area, distinct floors, checkpoints and incomplete-result handling. A fresh trial recovered area and floors correctly but reached the 20-minute limit without accepted wall or slab quantities. Speed and complete take-off acceptance failed; the candidate remains undeployed. Existing records and rates were preserved. Home navigation, linked rate tiers and separate material/labour inputs remain deployed. No engineering approval or general model-superiority claim.",
+        "ar": "اجتازت إصلاحات استيراد المسح اختبارات محلية للمساحة المعلنة والطوابق وإعادة استخدام القراءات والتعامل مع النتائج الناقصة. قرأت التجربة الجديدة المساحة والطوابق بصورة صحيحة، لكنها بلغت حد 20 دقيقة دون كميات جدران أو بلاطات مقبولة. لم يتحقق معيار السرعة واكتمال الحصر؛ لم تُنشر النسخة المرشحة، وحُفظت السجلات والأسعار القائمة. تبقى إصلاحات التنقل وفئات الأسعار وحقول المواد والعمالة منشورة. لا اعتماد هندسياً أو إثباتاً عاماً لتفوق نموذج على آخر."
       },
       "kind": "app",
       "group": "independent",
@@ -572,8 +572,8 @@
         "en": "Audit and improve the ABS Estimator and ERP apps"
       },
       "summary": {
-        "en": "Codex scanner integration previously passed 171 software checks, 22 dimension controls and live persistence tests. A later twin-building audit reproduced floor-identity and area-import defects; repairs, quantity completeness and scan duration remain open. No engineering approval. Home navigation, linked rate tiers and separate material/labour inputs are deployed and verified. Audit records and stored rates were preserved.",
-        "ar": "اجتاز تكامل ماسح Codex سابقاً 171 اختباراً برمجياً و22 تحققاً من الأبعاد واختبارات الحفظ الحي. كشفت مراجعة لاحقة لمبنيين متجاورين أخطاء في تعريف الطوابق واستيراد المساحات؛ الإصلاحات واكتمال الكميات ومدة المسح ما زالت مفتوحة. لا يوجد اعتماد هندسي. نُشرت إصلاحات التنقل وقوالب الأسعار المترابطة وحقول المواد والعمالة، وتحقق عملها مع الحفاظ على السجلات والأسعار المخزنة."
+        "en": "Scanner import repairs now pass local tests for stated area, distinct floors, checkpoints and incomplete-result handling. A fresh trial recovered area and floors correctly but reached the 20-minute limit without accepted wall or slab quantities. Speed and complete take-off acceptance failed; the candidate remains undeployed. Existing records and rates were preserved. Home navigation, linked rate tiers and separate material/labour inputs remain deployed. No engineering approval or general model-superiority claim.",
+        "ar": "اجتازت إصلاحات استيراد المسح اختبارات محلية للمساحة المعلنة والطوابق وإعادة استخدام القراءات والتعامل مع النتائج الناقصة. قرأت التجربة الجديدة المساحة والطوابق بصورة صحيحة، لكنها بلغت حد 20 دقيقة دون كميات جدران أو بلاطات مقبولة. لم يتحقق معيار السرعة واكتمال الحصر؛ لم تُنشر النسخة المرشحة، وحُفظت السجلات والأسعار القائمة. تبقى إصلاحات التنقل وفئات الأسعار وحقول المواد والعمالة منشورة. لا اعتماد هندسياً أو إثباتاً عاماً لتفوق نموذج على آخر."
       },
       "status": "active",
       "date": "2026-10-11",
