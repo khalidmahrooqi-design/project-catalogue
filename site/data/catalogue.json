@@ -333,7 +333,7 @@
       "group": "ppdc",
       "companyId": "abs",
       "status": "live",
-      "verified": "2026-10-09",
+      "verified": "2026-10-11",
       "visibility": "public",
       "url": "https://pipeline.premierco.om"
     }
@@ -688,15 +688,15 @@
       "id": "01a1211e-f649-7360-8087-3675604c2720",
       "projectId": "abs-pipeline",
       "title": {
-        "ar": "إطلاق تطبيق فرص ومشاريع ABS",
-        "en": "Launch ABS leads and projects application"
+        "ar": "تحديث تطبيق فرص ومشاريع ABS",
+        "en": "Update ABS leads and projects application"
       },
       "summary": {
-        "ar": "نُشر التطبيق الخاص بتصميم مماثل للدليل، وأضيف ربط الفرص بجلسات التقدير ومراجع مجلدات المشاريع. اجتازت اختبارات سير العمل والصلاحيات.",
-        "en": "Published the private application with catalogue styling and links from leads to estimating sessions and project folder references. Workflow and access checks passed."
+        "ar": "حُدّث سجل الفرص من مجلدات المشاريع الحالية، مع الحفاظ على السجلات السابقة وروابط جلسات التقدير.",
+        "en": "Refreshed the private lead register from current project folders, preserving existing records and estimating-session links."
       },
       "status": "completed",
-      "date": "2026-10-09",
+      "date": "2026-10-11",
       "visibility": "public"
     },
     {
