@@ -122,8 +122,8 @@
         "en": "WATAD Estimator"
       },
       "summary": {
-        "ar": "تطبيق تقديرات وتد. Codex هو الماسح الافتراضي للمستخدمين المخولين داخل شاشة المخططات. اجتازت إصلاحات القراءة والحصر 171 اختباراً برمجياً، والتحقق الحي من الحفظ ورفض الحفظ المتعارض. تبقى الكميات غير المكتملة ظاهرة، مع استمرار الحاجة إلى استكمال نطاق الحصر وتحسين مدة المسح. أُعيدت الصفحة الرئيسية وروابط قوالب الأسعار، وتحقق عملها في التطبيق المنشور في 11 أكتوبر 2026.",
-        "en": "WATAD estimating application. Codex is the default scanner for authorised users in the drawing screen. Reader and quantity repairs passed 171 software checks and live save/reload and stale-save rejection. Incomplete quantities stay visible; full quantity coverage and scan duration remain open. Home navigation was restored and checked live on 11 October 2026, including access to rate templates."
+        "ar": "تطبيق تقديرات وتد. Codex هو الماسح الافتراضي للمستخدمين المخولين داخل شاشة المخططات. اجتازت إصلاحات القراءة والحصر 171 اختباراً برمجياً، والتحقق الحي من الحفظ ورفض الحفظ المتعارض. تبقى الكميات غير المكتملة ظاهرة، مع استمرار الحاجة إلى استكمال نطاق الحصر وتحسين مدة المسح. أُعيدت الصفحة الرئيسية وروابط قوالب الأسعار، وتحقق عملها في التطبيق المنشور في 11 أكتوبر 2026. أُصلح ربط فئات الأسعار وحفظ اختيار القالب، وتحقق عملهما دون إعادة تسعير المشاريع القائمة.",
+        "en": "WATAD estimating application. Codex is the default scanner for authorised users in the drawing screen. Reader and quantity repairs passed 171 software checks and live save/reload and stale-save rejection. Incomplete quantities stay visible; full quantity coverage and scan duration remain open. Home navigation was restored and checked live on 11 October 2026, including access to rate templates. Linked rate tiers and template-selection persistence were repaired and verified without repricing existing projects."
       },
       "kind": "app",
       "group": "independent",
@@ -572,8 +572,8 @@
         "en": "Audit and improve the ABS Estimator and ERP apps"
       },
       "summary": {
-        "ar": "نُشرت إصلاحات ماسح Codex في شاشة المخططات الحالية. اجتازت 171 اختباراً برمجياً و22 تحققاً مستقلاً من الأبعاد، مع نجاح المسار الحي والحفظ ورفض الحفظ القديم. أُزيل المشروع التجريبي، وبقيت المشاريع الأصلية وأسعارها دون تغيير. اكتمال الكميات ومدة المسح ما زالا يحتاجان إلى معالجة؛ لا يوجد اعتماد هندسي. أُصلحت كذلك الصفحة الرئيسية وروابط قوالب الأسعار، وتحقق عملها في التطبيق المنشور في 11 أكتوبر.",
-        "en": "Deployed Codex scanner repairs in the existing drawing screen. Passed 171 software checks, 22 independent dimension controls, the live workflow, save/reload and stale rejection. Removed the disposable test; original projects and rate masters are unchanged. Complete quantities and scan duration remain open; no engineering approval. The home page and rate-template navigation were also repaired and verified live on 11 October."
+        "ar": "نُشرت إصلاحات ماسح Codex في شاشة المخططات الحالية. اجتازت 171 اختباراً برمجياً و22 تحققاً مستقلاً من الأبعاد، مع نجاح المسار الحي والحفظ ورفض الحفظ القديم. أُزيل المشروع التجريبي، وبقيت المشاريع الأصلية وأسعارها دون تغيير. اكتمال الكميات ومدة المسح ما زالا يحتاجان إلى معالجة؛ لا يوجد اعتماد هندسي. أُصلحت كذلك الصفحة الرئيسية وروابط قوالب الأسعار، وتحقق عملها في التطبيق المنشور في 11 أكتوبر. اجتازت إصلاحات فئات الأسعار الاختبارات الموجهة والحفظ وإعادة التحميل في التطبيق المنشور، مع بقاء سجلات المشاريع القائمة دون تغيير.",
+        "en": "Deployed Codex scanner repairs in the existing drawing screen. Passed 171 software checks, 22 independent dimension controls, the live workflow, save/reload and stale rejection. Removed the disposable test; original projects and rate masters are unchanged. Complete quantities and scan duration remain open; no engineering approval. The home page and rate-template navigation were also repaired and verified live on 11 October. Rate-tier repairs passed targeted tests and live save/reload; existing project records remained unchanged."
       },
       "status": "active",
       "date": "2026-10-11",
