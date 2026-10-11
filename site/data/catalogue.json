@@ -122,8 +122,8 @@
         "en": "WATAD Estimator"
       },
       "summary": {
-        "en": "Scanner import repairs now pass local tests for stated area, distinct floors, checkpoints and incomplete-result handling. A fresh trial recovered area and floors correctly but reached the 20-minute limit without accepted wall or slab quantities. Speed and complete take-off acceptance failed; the candidate remains undeployed. Existing records and rates were preserved. Home navigation, linked rate tiers and separate material/labour inputs remain deployed. No engineering approval or general model-superiority claim.",
-        "ar": "اجتازت إصلاحات استيراد المسح اختبارات محلية للمساحة المعلنة والطوابق وإعادة استخدام القراءات والتعامل مع النتائج الناقصة. قرأت التجربة الجديدة المساحة والطوابق بصورة صحيحة، لكنها بلغت حد 20 دقيقة دون كميات جدران أو بلاطات مقبولة. لم يتحقق معيار السرعة واكتمال الحصر؛ لم تُنشر النسخة المرشحة، وحُفظت السجلات والأسعار القائمة. تبقى إصلاحات التنقل وفئات الأسعار وحقول المواد والعمالة منشورة. لا اعتماد هندسياً أو إثباتاً عاماً لتفوق نموذج على آخر."
+        "en": "Scanner review reproduced ten processing/import defects, including lost opening types, physical-identity conflicts and synthetic room geometry. A cached result confirmed that some saved errors arose during App import. The recommended repair order is shared evidence handling, Gemini processing, then a comparable Codex first pass with separate physical-quantity checks. Earlier Codex repairs remain undeployed after failing fresh completeness/timing acceptance. No model-superiority or engineering-approval claim.",
+        "ar": "أعادت مراجعة الماسحات إنتاج عشرة أخطاء في المعالجة والاستيراد، منها فقد أنواع الفتحات وتعارض تعريف العناصر وإضافة غرف هندسية افتراضية. أكدت نتيجة محفوظة أن بعض الأخطاء نشأ عند الاستيراد إلى التطبيق. ترتيب الإصلاح المقترح: حفظ الأدلة المشترك، ثم معالجة Gemini، ثم قراءة أولية مماثلة في Codex مع تحقق منفصل من الكميات الفعلية. تبقى إصلاحات Codex السابقة غير منشورة لعدم اجتياز اختبار الاكتمال والمدة. لا ادعاء بتفوق نموذج أو اعتماد هندسي."
       },
       "kind": "app",
       "group": "independent",
@@ -572,8 +572,8 @@
         "en": "Audit and improve the ABS Estimator and ERP apps"
       },
       "summary": {
-        "en": "Scanner import repairs now pass local tests for stated area, distinct floors, checkpoints and incomplete-result handling. A fresh trial recovered area and floors correctly but reached the 20-minute limit without accepted wall or slab quantities. Speed and complete take-off acceptance failed; the candidate remains undeployed. Existing records and rates were preserved. Home navigation, linked rate tiers and separate material/labour inputs remain deployed. No engineering approval or general model-superiority claim.",
-        "ar": "اجتازت إصلاحات استيراد المسح اختبارات محلية للمساحة المعلنة والطوابق وإعادة استخدام القراءات والتعامل مع النتائج الناقصة. قرأت التجربة الجديدة المساحة والطوابق بصورة صحيحة، لكنها بلغت حد 20 دقيقة دون كميات جدران أو بلاطات مقبولة. لم يتحقق معيار السرعة واكتمال الحصر؛ لم تُنشر النسخة المرشحة، وحُفظت السجلات والأسعار القائمة. تبقى إصلاحات التنقل وفئات الأسعار وحقول المواد والعمالة منشورة. لا اعتماد هندسياً أو إثباتاً عاماً لتفوق نموذج على آخر."
+        "en": "Scanner review reproduced ten processing/import defects, including lost opening types, physical-identity conflicts and synthetic room geometry. A cached result confirmed that some saved errors arose during App import. The recommended repair order is shared evidence handling, Gemini processing, then a comparable Codex first pass with separate physical-quantity checks. Earlier Codex repairs remain undeployed after failing fresh completeness/timing acceptance. No model-superiority or engineering-approval claim.",
+        "ar": "أعادت مراجعة الماسحات إنتاج عشرة أخطاء في المعالجة والاستيراد، منها فقد أنواع الفتحات وتعارض تعريف العناصر وإضافة غرف هندسية افتراضية. أكدت نتيجة محفوظة أن بعض الأخطاء نشأ عند الاستيراد إلى التطبيق. ترتيب الإصلاح المقترح: حفظ الأدلة المشترك، ثم معالجة Gemini، ثم قراءة أولية مماثلة في Codex مع تحقق منفصل من الكميات الفعلية. تبقى إصلاحات Codex السابقة غير منشورة لعدم اجتياز اختبار الاكتمال والمدة. لا ادعاء بتفوق نموذج أو اعتماد هندسي."
       },
       "status": "active",
       "date": "2026-10-11",
