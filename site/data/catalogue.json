@@ -692,8 +692,8 @@
         "en": "Update ABS leads and projects application"
       },
       "summary": {
-        "ar": "حُدّث سجل الفرص من مجلدات المشاريع الحالية، وأضيفت علامات ملونة للمجموعات وخيار تصفيتها، مع الحفاظ على السجلات وروابط جلسات التقدير.",
-        "en": "Refreshed the private lead register from current project folders and added colored group labels and filtering, preserving records and estimating-session links."
+        "ar": "حُدّث سجل الفرص من مجلدات المشاريع الحالية، وأضيفت علامات ملونة وتصفية للمجموعات وترتيب موحد A ثم B ثم C عبر طرق العرض، مع الحفاظ على السجلات وروابط جلسات التقدير.",
+        "en": "Refreshed the private lead register and added colored group labels, filtering and consistent A–B–C ordering across views, preserving records and estimating-session links."
       },
       "status": "completed",
       "date": "2026-10-11",
