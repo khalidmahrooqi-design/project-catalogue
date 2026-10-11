@@ -803,6 +803,21 @@
       "status": "active",
       "date": "2026-10-11",
       "visibility": "public"
+    },
+    {
+      "id": "01a12a84-ee90-7cc2-b241-e95f5ef386e7",
+      "projectId": "abs",
+      "title": {
+        "ar": "نموذج تسعير أولي مختصر",
+        "en": "Concise preliminary quotation sample"
+      },
+      "summary": {
+        "ar": "إعداد نموذج من صفحتين بهوية ABS ووتد، يوضح السعر الإجمالي ونطاق الأعمال والمشمولات والاستثناءات للمراجعة الأولية.",
+        "en": "Prepared a two-page sample using ABS and WATAD branding, with a lump-sum price, scope, inclusions and exclusions for initial review."
+      },
+      "status": "completed",
+      "date": "2026-10-11",
+      "visibility": "public"
     }
   ]
 }
