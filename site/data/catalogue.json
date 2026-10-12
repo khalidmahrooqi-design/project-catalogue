@@ -827,8 +827,8 @@
         "en": "Residential hand-estimate review"
       },
       "summary": {
-        "ar": "بدأت مراجعة الرسومات وأساس المساحات لتقدير يدوي بنظام وتد. تأكد نطاق المقاول الرئيسي والنظام الحامل، وتجري مطابقة الغرف والمناطق قبل التصميم والتكلفة.",
-        "en": "Drawing and area-basis review started for a WATAD hand estimate. Main-contractor and load-bearing scope confirmed; room and zone reconciliation continues before design and costing."
+        "ar": "وُثقت مراجعة الرسومات وأساس المساحات لتقدير وتد. جرى فحص محرك التصميم في التطبيق، ويتطلب استكمال التقدير حسم نتائج التحقق من الحسابات.",
+        "en": "Drawing review and area basis documented for a WATAD hand estimate. The App design engine was checked; calculation validation needs resolution before the estimate can be completed."
       },
       "status": "active",
       "date": "2026-10-12",
